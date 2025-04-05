@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "person",
+      "properties": {
+        "name": "John Doe",
+        "age": 35,
+        "occupation": "Software Engineer"
+      }
+    },
+    {
+      "id": "2",
+      "label": "person",
+      "properties": {
+        "name": "Jane Smith",
+        "age": 32,
+        "occupation": "Data Scientist"
+      }
+    },
+    {
+      "id": "3",
+      "label": "company",
+      "properties": {
+        "name": "Tech Innovations Inc.",
+        "founded": 2010,
+        "location": "San Francisco"
+      }
+    },
+    {
+      "id": "4",
+      "label": "project",
+      "properties": {
+        "name": "Graph Database Migration",
+        "status": "In Progress",
+        "priority": "High"
+      }
+    },
+    {
+      "id": "5",
+      "label": "technology",
+      "properties": {
+        "name": "Amazon Neptune",
+        "type": "Graph Database",
+        "version": "1.2.0.0"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "1",
+      "target": "3",
+      "label": "works_for",
+      "properties": {
+        "since": 2018,
+        "position": "Senior Developer"
+      }
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "label": "works_for",
+      "properties": {
+        "since": 2019,
+        "position": "Lead Data Scientist"
+      }
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "label": "knows",
+      "properties": {
+        "since": 2020,
+        "relationship": "Colleague"
+      }
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "label": "works_on",
+      "properties": {
+        "role": "Backend Developer",
+        "hours_per_week": 30
+      }
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "label": "works_on",
+      "properties": {
+        "role": "Data Architect",
+        "hours_per_week": 25
+      }
+    },
+    {
+      "source": "4",
+      "target": "5",
+      "label": "uses",
+      "properties": {
+        "purpose": "Storage",
+        "critical": true
+      }
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "label": "sponsors",
+      "properties": {
+        "budget": 500000,
+        "deadline": "2023-12-31"
+      }
+    }
+  ]
+}

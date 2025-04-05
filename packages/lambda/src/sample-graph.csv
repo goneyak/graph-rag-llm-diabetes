@@ -1,0 +1,15 @@
+id,label,name,age,occupation,founded,location,status,priority,type,version
+1,person,John Doe,35,Software Engineer,,,,,
+2,person,Jane Smith,32,Data Scientist,,,,,
+3,company,Tech Innovations Inc.,,,,San Francisco,,,
+4,project,Graph Database Migration,,,,In Progress,High,,
+5,technology,Amazon Neptune,,,,,,,Graph Database,1.2.0.0
+
+source,target,label,since,position,relationship,role,hours_per_week,purpose,critical,budget,deadline
+1,3,works_for,2018,Senior Developer,,,,,,
+2,3,works_for,2019,Lead Data Scientist,,,,,,
+1,2,knows,2020,,Colleague,,,,,
+1,4,works_on,,,Backend Developer,30,,,,
+2,4,works_on,,,Data Architect,25,,,,
+4,5,uses,,,,,Storage,true,,
+3,4,sponsors,,,,,,,,500000,2023-12-31

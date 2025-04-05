@@ -1,0 +1,13 @@
+{
+  "name": "@cdk-monorepo/lambda",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Python Lambda function",
+  "scripts": {
+    "build": "echo 'No build step for Python Lambda'",
+    "test": "cd src && python load_env.py python -m unittest discover",
+    "local:test": "cd src && python load_env.py python local_test.py",
+    "local:test:json": "cd src && python load_env.py python local_test.py json",
+    "local:test:csv": "cd src && python load_env.py python local_test.py csv"
+  }
+}

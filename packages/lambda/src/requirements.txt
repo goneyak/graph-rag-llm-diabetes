@@ -1,0 +1,8 @@
+# AWS SDK for Python
+boto3==1.26.0
+
+# Neptune Gremlin Client
+gremlinpython==3.6.1
+
+# Utilities
+uuid==1.30

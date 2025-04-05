@@ -1,0 +1,269 @@
+# CDK Monorepo with Graph Processing and Web Frontend
+
+This is a monorepo project using AWS CDK with TypeScript for infrastructure, Python for Lambda functions, and React for the web frontend. It includes a complete graph processing system with a web interface.
+
+## Project Structure
+
+```
+cdk-monorepo/
+├── packages/
+│   ├── infrastructure/  # CDK infrastructure code (TypeScript)
+│   │   └── src/
+│   │       ├── app.ts
+│   │       └── stacks/
+│   │           ├── graph-processing-stack.ts  # Defines S3, Lambda, and Neptune
+│   │           └── frontend-stack.ts          # Defines S3 website and CloudFront
+│   ├── lambda/          # Lambda handler code (Python)
+│   │   └── src/
+│   │       ├── index.py         # Processes S3 events and graph data
+│   │       └── requirements.txt # Python dependencies
+│   └── frontend/        # React web application
+│       ├── public/      # Static assets
+│       └── src/         # React components and logic
+├── package.json         # Root package.json
+└── tsconfig.json        # Root TypeScript configuration
+```
+
+## Prerequisites
+
+- Node.js (v14.x or later)
+- npm (v7.x or later)
+- AWS CLI configured
+- Python (v3.9 or later)
+
+## Getting Started
+
+1. Set up environment variables:
+
+```bash
+# Copy the example .env files
+cp .env.example .env
+cp packages/infrastructure/.env.example packages/infrastructure/.env
+cp packages/lambda/.env.example packages/lambda/.env
+cp packages/frontend/.env.example packages/frontend/.env
+
+# Edit the .env files with your specific values
+# At minimum, update the AWS_ACCOUNT_ID in the root .env file
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+cd packages/infrastructure
+npm install aws-cdk-lib dotenv
+cd ../frontend
+npm install dotenv
+```
+
+3. Build the frontend:
+
+```bash
+# Build with environment variables
+npm run frontend:build
+```
+
+4. Build the infrastructure:
+
+```bash
+cd packages/infrastructure
+npm run build
+```
+
+5. Deploy the CDK stacks:
+
+```bash
+# Deploy all stacks with environment variables
+npm run deploy
+
+# Or deploy individual stacks
+npm run deploy:backend  # Deploy just the graph processing backend
+npm run deploy:frontend # Deploy just the web frontend
+```
+
+Note: The `npm run deploy` command will deploy all stacks by default. If you want to deploy a specific stack, use the appropriate command.
+
+## System Architecture
+
+This project implements a complete graph processing system:
+
+1. **Web Frontend**: React application hosted on S3 and served via CloudFront
+2. **Data Storage**: S3 bucket for uploading graph data files
+3. **Processing**: Lambda function triggered by S3 events
+4. **Database**: Neptune graph database for storing and querying graph data
+
+## Graph Processing Workflow
+
+1. Upload a graph file through the web interface or directly to the S3 bucket
+2. The Lambda function is automatically triggered by S3 events
+3. The Lambda function:
+   - Reads the file from S3
+   - Parses the graph data (supports both CSV and JSON formats)
+   - Connects to the Neptune database
+   - Inserts the graph data into Neptune using Gremlin
+
+### Supported Graph File Formats
+
+#### JSON Format
+
+```json
+{
+  "nodes": [
+    {"id": "1", "label": "person", "properties": {"name": "John", "age": 30}},
+    {"id": "2", "label": "person", "properties": {"name": "Jane", "age": 28}}
+  ],
+  "edges": [
+    {"source": "1", "target": "2", "label": "knows", "properties": {"since": "2020"}}
+  ]
+}
+```
+
+#### CSV Format
+
+The CSV format should have two sections separated by an empty line:
+- First section: nodes with headers id,label,[property1],[property2],...
+- Second section: edges with headers source,target,label,[property1],[property2],...
+
+Example:
+```
+id,label,name,age
+1,person,John,30
+2,person,Jane,28
+
+source,target,label,since
+1,2,knows,2020
+```
+
+## Development
+
+### Infrastructure (CDK)
+
+The infrastructure code is located in `packages/infrastructure/`. It defines:
+- An S3 bucket for graph data
+- A Neptune database for graph storage
+- A Lambda function that processes S3 events and inserts data into Neptune
+- An S3 bucket for hosting the web frontend
+- A CloudFront distribution for serving the web frontend
+
+To synthesize the CloudFormation template without deploying:
+
+```bash
+npm run cdk synth
+```
+
+### Lambda Function
+
+The Lambda function code is located in `packages/lambda/src/`. It's written in Python and includes:
+- `index.py`: The main Lambda handler that processes S3 events and graph data
+- `requirements.txt`: Python dependencies including boto3 and gremlinpython
+
+### Frontend Application
+
+The React frontend is located in `packages/frontend/`. To start the development server:
+
+```bash
+cd packages/frontend
+npm start
+```
+
+This will start a local development server at http://localhost:3000.
+
+## Local Testing
+
+For local testing of the Lambda function:
+
+```bash
+# Run with environment variables
+npm run lambda:test
+```
+
+## Environment Variables
+
+This project uses environment variables for configuration. Each package has its own `.env` file:
+
+### Root Environment Variables
+
+Located in `.env` in the root directory:
+
+- `AWS_REGION`: The AWS region to deploy to (default: eu-west-1)
+- `AWS_ACCOUNT_ID`: Your AWS account ID
+- `ENVIRONMENT`: The deployment environment (dev, staging, prod)
+
+### Infrastructure Environment Variables
+
+Located in `packages/infrastructure/.env`:
+
+- `CDK_DEFAULT_ACCOUNT`: AWS account ID (inherited from root)
+- `CDK_DEFAULT_REGION`: AWS region (inherited from root)
+- `AWS_PROFILE`: AWS profile to use for deployment (default: default)
+- `NEPTUNE_INSTANCE_TYPE`: Neptune instance type (default: db.t3.medium)
+- `NEPTUNE_ENGINE_VERSION`: Neptune engine version (default: 1.2.0.0)
+- `S3_GRAPH_DATA_BUCKET_NAME`: Name of the S3 bucket for graph data
+- `S3_WEBSITE_BUCKET_NAME`: Name of the S3 bucket for the website
+- `CLOUDFRONT_PRICE_CLASS`: CloudFront price class (default: PriceClass_100)
+
+#### AWS Profile Configuration
+
+The `AWS_PROFILE` environment variable specifies which AWS profile to use for deployment. This allows you to deploy to different AWS accounts or regions using different profiles.
+
+To use a different AWS profile:
+
+1. Make sure you have the profile configured in your AWS credentials file (`~/.aws/credentials`)
+2. Update the `AWS_PROFILE` value in `packages/infrastructure/.env`
+
+For example:
+```
+AWS_PROFILE=dev
+```
+
+To create a new AWS profile, you can use the AWS CLI:
+
+```bash
+aws configure --profile dev
+```
+
+This will prompt you for your AWS access key ID, secret access key, region, and output format.
+
+### Lambda Environment Variables
+
+Located in `packages/lambda/.env`:
+
+- `ENVIRONMENT`: Deployment environment (inherited from root)
+- `NEPTUNE_ENDPOINT`: Neptune endpoint for local testing
+- `NEPTUNE_PORT`: Neptune port for local testing
+- `S3_GRAPH_DATA_BUCKET_NAME`: Name of the S3 bucket for graph data
+- `LOG_LEVEL`: Logging level (default: INFO)
+
+### Frontend Environment Variables
+
+Located in `packages/frontend/.env`:
+
+- `REACT_APP_ENVIRONMENT`: Deployment environment (inherited from root)
+- `REACT_APP_API_ENDPOINT`: API endpoint URL
+- `REACT_APP_UPLOAD_BUCKET_NAME`: S3 bucket name for file uploads
+- `REACT_APP_ENABLE_DEBUG_MODE`: Enable debug mode (true/false)
+- `REACT_APP_ENABLE_ANALYTICS`: Enable analytics (true/false)
+
+## Adding Dependencies
+
+### For Infrastructure
+
+```bash
+cd packages/infrastructure
+npm install <package-name>
+```
+
+### For Lambda
+
+Add dependencies to `packages/lambda/src/requirements.txt`.
+
+### For Frontend
+
+```bash
+cd packages/frontend
+npm install <package-name>
+```
+
+## License
+
+This project is licensed under the ISC License.
