@@ -78,13 +78,30 @@ export class FrontendStack extends cdk.Stack {
       ],
     });
 
-    // Deploy the website to S3
+    // Get the API endpoint from context
+    const apiEndpoint = this.node.tryGetContext('apiEndpoint');
+    
+    // Deploy the website to S3 with environment variables
     new s3deploy.BucketDeployment(this, 'DeployWebsite', {
-      sources: [s3deploy.Source.asset(path.join(__dirname, '../../../../packages/frontend/build'))],
+      sources: [
+        s3deploy.Source.asset(path.join(__dirname, '../../../../packages/frontend/build')),
+        s3deploy.Source.jsonData('runtime-config.json', {
+          apiEndpoint: apiEndpoint || 'https://api.example.com/dev/chat',
+        }),
+      ],
       destinationBucket: this.websiteBucket,
       distribution: this.cloudfrontDistribution,
       distributionPaths: ['/*'],
     });
+    
+    // Output the API endpoint
+    if (apiEndpoint) {
+      new cdk.CfnOutput(this, 'ApiEndpoint', {
+        value: apiEndpoint,
+        description: 'The API endpoint for the chat service',
+        exportName: `ApiEndpoint-${environment}`,
+      });
+    }
 
     // Output the CloudFront URL
     new cdk.CfnOutput(this, 'CloudFrontURL', {

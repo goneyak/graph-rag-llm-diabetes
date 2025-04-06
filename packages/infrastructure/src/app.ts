@@ -3,6 +3,7 @@ import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
 import { GraphProcessingStack } from './stacks/graph-processing-stack';
 import { FrontendStack } from './stacks/frontend-stack';
+import { ChatApiStack } from './stacks/chat-api-stack';
 
 // Create the CDK app
 const app = new cdk.App({
@@ -38,7 +39,18 @@ console.log('Deploying with context:', JSON.stringify(app.node.tryGetContext('en
 // Create the backend stack for graph processing
 const graphProcessingStack = new GraphProcessingStack(app, 'GraphProcessingStack', { env });
 
+// Create the chat API stack
+const chatApiStack = new ChatApiStack(app, 'ChatApiStack', { env });
+
 // Create the frontend stack for the React application
-const frontendStack = new FrontendStack(app, 'FrontendStack', { env });
+const frontendStack = new FrontendStack(app, 'FrontendStack', { 
+  env,
+});
+
+// Pass the chat API endpoint to the frontend stack's context
+frontendStack.node.setContext('apiEndpoint', chatApiStack.apiEndpoint);
+
+// Add dependency to ensure the API is deployed before the frontend
+frontendStack.addDependency(chatApiStack);
 
 app.synth();
