@@ -5,7 +5,7 @@ cdk.out/
 # TypeScript compiled files
 dist/
 build/
-*.js
+# *.js
 *.d.ts
 
 # Dependency directories
