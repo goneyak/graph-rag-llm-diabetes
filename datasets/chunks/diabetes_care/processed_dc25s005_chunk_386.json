@@ -1,0 +1,40 @@
+{
+  "text": "the diabetes care team, in col-laboration with other care professionals,should work to provide an enhanced levelof care and self-management support forpeople with diabetes and serious mentalillness based on individual capacity andneeds. such care may include remotemonitoring, facilitating health care aides,and providing diabetes training for familymembers, community support person-nel, and other caregivers.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "remote monitoring"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "enhanced level of care",
+      "self-management support",
+      "remote monitoring",
+      "facilitating health care aides",
+      "diabetes training for family members",
+      "diabetes training for community support personnel",
+      "diabetes training for caregivers"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "serious mental illness"
+    ]
+  }
+}

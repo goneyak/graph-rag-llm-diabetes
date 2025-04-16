@@ -1,0 +1,44 @@
+{
+  "text": "overeating saturated fat promotes fatty liver and\nceramides compared with polyunsaturated fat: arandomized trial. j clin endocrinol metab 2019;104:6207 \u20136219\n141. schwab u, reynolds an, sallinen t,\nrivellese aa, ris /c19erus u. dietary fat intakes and\ncardiovascular disease risk in adults with type 2\ndiabetes: a systematic review and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "liver"
+    ],
+    "Clinical Manifestations": [
+      "fatty liver"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized trial",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "overeating saturated fat",
+      "dietary fat intakes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "overeating saturated fat promotes fatty liver and ceramides"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "fatty liver",
+      "cardiovascular disease",
+      "type 2 diabetes"
+    ]
+  }
+}

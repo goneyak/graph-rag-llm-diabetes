@@ -1,0 +1,39 @@
+{
+  "text": "evidence\nfor eating patterns has been informed by\nrcts, prospective cohort studies, systematicreviews, and network meta-analyses. thosemost frequently recommended based\non the evidence include mediterranean,\ndash, low-fat, carbohydrate-restricted,vegetarian, and vegan eating patterns.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCTs",
+      "prospective cohort studies",
+      "systematic reviews",
+      "network meta-analyses"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Mediterranean eating pattern",
+      "DASH eating pattern",
+      "Low-fat eating pattern",
+      "Carbohydrate-restricted eating pattern",
+      "Vegetarian eating pattern",
+      "Vegan eating pattern"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "text": "thus,for myriad reasons, cognitive capacityshould be assessed during routine care\nto ascertain the person \u2019s ability to maintain\nand adjust self-management behaviors,s112 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nsuch as dosing of medications, remediation\napproaches to glycemic excursions, etc.,and to determine whether to enlist a care-\ngiver in monitoring and decision-making re-\ngarding management behaviors. if cognitive\ncapacity to conduct self-management be-\nhaviors is questioned, an age-appropriate\ntest of cognitive capacity is recommended\n(1).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cognitive capacity"
+    ],
+    "Examination Indicators": [
+      "glycemic excursions"
+    ],
+    "Medication Dosage": [
+      "dosing of medications"
+    ],
+    "Examination Methods": [
+      "age-appropriate test of cognitive capacity"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cognitive capacity assessment",
+      "remediation approaches to glycemic excursions",
+      "enlist a caregiver in monitoring and decision-making regarding management behaviors",
+      "age-appropriate test of cognitive capacity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "dosing of medications"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

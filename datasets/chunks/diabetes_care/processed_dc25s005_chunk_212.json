@@ -1,0 +1,45 @@
+{
+  "text": "bcounsel that pro-\nlonged sitting should be interrupted\nat least every 30 min for blood glu-\ncose bene \ufb01ts.c\n5.39 counsel adults and youth treated\nwith weight management pharma-cotherapy or metabolic surgery thatmeeting physical activity recom-mendations, and in particular muscle-strengthening exercises, may bebene \ufb01cial for maintaining lean body\nmass. etable 5.4 \u2014continued\nrisk element risk score\n14. fasting hours (varies by geographical location for time of sunrise and sunset)\n\u0081$16 h 1\n\u0081<16 h 0\nrisk categories are de \ufb01ned as follows: score 0 \u20133, low risk, fasting is probably safe; score\n3.5\u20136, moderate risk, fasting is uncertain; score >6, high risk, fasting is probably unsafe.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [
+      "metabolic surgery"
+    ],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "blood glucose"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "Risk categories: score 0-3 (low risk), score 3.5-6 (moderate risk), score >6 (high risk)"
+    ],
+    "Non-Medication Treatment": [
+      "Interrupt prolonged sitting at least every 30 minutes",
+      "Meeting physical activity recommendations",
+      "Muscle-strengthening exercises"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "Fasting hours \u226516 h (risk score: 1)",
+      "Fasting hours <16 h (risk score: 0)"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "Every 30 min",
+      "\u226516 h",
+      "<16 h"
+    ],
+    "Diseases": []
+  }
+}

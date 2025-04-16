@@ -1,0 +1,55 @@
+{
+  "text": "evidence-based behavioral strate-gies and multicomponent interventions, in-\ncluding motivational interviewing (343,344),\nactivation (40), goal setting and action plan-\nning (344 \u2013346), problem-solving (7,345),\ntracking or self-monitoring health behaviors\nwith or without feedback from a health care\nprofessional (344 \u2013346), and facilitating op-\nportunities for social support (344 \u2013346),\nhelp people with diabetes and their care-\ngivers or family members develop health\nbehavior routines and overcome barriers\nto self-management. behavioral economics\nstrategies (e.g., \ufb01nancial incentives and ex-\nposure to information about social norms)show mixed results in the promotion of\nhealth behaviors; however, they tend to\nenhance motivation and demonstrate\nshort-term bene \ufb01ts for behavior change\n(347).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "motivational interviewing",
+      "activation",
+      "goal setting",
+      "action planning",
+      "problem-solving",
+      "tracking",
+      "self-monitoring health behaviors",
+      "behavioral economics strategies",
+      "financial incentives",
+      "exposure to information about social norms"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "evidence-based behavioral strategies",
+      "multicomponent interventions",
+      "motivational interviewing",
+      "activation",
+      "goal setting",
+      "action planning",
+      "problem-solving",
+      "tracking or self-monitoring health behaviors",
+      "facilitating opportunities for social support",
+      "behavioral economics strategies",
+      "financial incentives",
+      "exposure to information about social norms"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "short-term benefits"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

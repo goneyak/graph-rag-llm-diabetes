@@ -1,0 +1,45 @@
+{
+  "text": "review of current evidence and\nclinical recommendations on the effects of\nlow-carbohydrate and very-low-carbohydrate(including ketogenic) diets for the management ofbody weight and other cardiometabolic risk\nfactors: a scienti \ufb01c statement from the national\nlipid association nutrition and lifestyle task force.j clin lipidol 2019;13:689 \u2013711.e1 e681\n102. goldenberg jz, day a, brinkworth gd, et al. ef\ufb01cacy and safety of low and very low car-\nbohydrate diets for type 2 diabetes remission:systematic review and meta-analysis of publishedand unpublished randomized trial data.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiometabolic"
+    ],
+    "Clinical Manifestations": [
+      "body weight",
+      "cardiometabolic risk factors",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "lipid"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-carbohydrate diets",
+      "very-low-carbohydrate diets",
+      "ketogenic diets"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "cardiometabolic risk factors"
+    ]
+  }
+}

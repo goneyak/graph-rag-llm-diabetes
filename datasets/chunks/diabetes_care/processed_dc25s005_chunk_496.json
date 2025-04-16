@@ -1,0 +1,45 @@
+{
+  "text": "bmj 2020;369:\nm696\n89. bonekamp ne, van damme i, geleijnse jm,\net al. effect of dietary patterns on cardiovascularrisk factors in people with type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "recommended foods",
+    "foods to avoid",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "cardiovascular risk factors"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "dietary patterns"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary patterns"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular risk factors",
+      "type 2 diabetes"
+    ]
+  }
+}

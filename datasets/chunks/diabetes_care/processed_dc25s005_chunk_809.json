@@ -1,0 +1,36 @@
+{
+  "text": "jpsychosom res 2024;181:111679\n439. de groot m, crick ka, long m, saha c,\nshubrook jh. lifetime duration of depressive\ndisorders in patients with type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depressive disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "Lifetime"
+    ],
+    "Diseases": [
+      "Type 2 diabetes",
+      "Depressive disorders"
+    ]
+  }
+}

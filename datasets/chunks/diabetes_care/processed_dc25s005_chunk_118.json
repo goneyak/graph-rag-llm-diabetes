@@ -1,0 +1,56 @@
+{
+  "text": "historically, low-protein eating plans\nwere advised for individuals with diabetes-diabetesjournals.org/care facilitating positive health behaviors and well-being s93downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nrelated chronic kidney disease (ckd) (with\nalbuminuria and/or reduced estimated\nglomerular \ufb01ltration rate [egfr]); how-\never, current evidence does not suggestthat people with ckd need to restrictprotein to less than the generally recom-\nmended protein intake (129). reducing\nthe amount of dietary protein below therecommended daily allowance of 0.8 g/kg is not recommended because it doesnot alter glycemic measures, cardiovas-cular risk measures, or the rate at which\negfr declines and may increase risk for\nmalnutrition (129).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidney"
+    ],
+    "Clinical Manifestations": [
+      "albuminuria",
+      "reduced estimated glomerular filtration rate",
+      "chronic kidney disease"
+    ],
+    "Examination Indicators": [
+      "estimated glomerular filtration rate [egfr]"
+    ],
+    "Medication Dosage": [
+      "0.8 g/kg protein recommended daily allowance"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "malnutrition"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes-related chronic kidney disease (CKD)",
+      "albuminuria",
+      "reduced estimated glomerular filtration rate [eGFR]"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-protein eating plans",
+      "generally recommended protein intake",
+      "recommended daily allowance of 0.8 g/kg"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "recommended daily allowance of 0.8 g/kg"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "chronic kidney disease (CKD)",
+      "albuminuria",
+      "reduced estimated glomerular filtration rate (eGFR)",
+      "malnutrition"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "text": "sleep disruption in parents of youngchildren newly diagnosed with type 1 diabetes. pediatr diabetes 2022;23:815 \u2013819\n504. m acaulay gc, boucher se, yogarajah a,\ngalland bc, wheeler bj.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep disruption"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "newly diagnosed type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "sleep disruption"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "sleep disruption",
+      "type 1 diabetes"
+    ]
+  }
+}

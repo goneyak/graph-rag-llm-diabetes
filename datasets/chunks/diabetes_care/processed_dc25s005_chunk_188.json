@@ -1,0 +1,41 @@
+{
+  "text": "it is important for\nthe health care professional to compre-\nhensively assess these risk factors well\nin advance of fasting date, as some of\nthem are modi \ufb01able. some of thesefactors are related to the nature of the\nfasting practice, others are related to di-abetes, and others might be due to indi-vidual factors.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "risk factors"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "comprehensive assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "nature of the fasting practice",
+      "diabetes",
+      "individual factors"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "comprehensive assessment of risk factors well in advance of fasting date"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "thus, in addition to educating re-ferring health care professionals about\nthe bene \ufb01ts of dsmes and the critical\ntimes to refer, efforts to identify andaddress potential barriers at all levelsneed to be made (2). this was illus-trated in a multilevel diabetes care in-tervention that combined clinical outreach,\nstandardized protocols, and dsmes with\nsdoh screening and referrals to socialneeds support; a 15% increase in re-ceipt of dsmes, including among peo-ple on medicaid, was documented (57).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "DSMES (diabetes self-management education and support)",
+      "SDOH screening",
+      "clinical outreach",
+      "standardized protocols"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and support (DSMES)",
+      "social needs support",
+      "clinical outreach",
+      "standardized protocols"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "15% increase in receipt of DSMES"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

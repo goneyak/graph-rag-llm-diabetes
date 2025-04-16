@@ -1,0 +1,44 @@
+{
+  "text": "effects of aerobic and resistance training on\nhemoglobin a1c levels in patients with type 2diabetes: a randomized controlled trial. jama2010;304:2253 \u20132262\n297. kanaley ja, colberg sr, corcoran mh, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "hemoglobin A1c levels"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "aerobic training",
+      "resistance training",
+      "randomized controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Aerobic training",
+      "Resistance training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "Hemoglobin A1c levels"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Type 2 diabetes"
+    ]
+  }
+}

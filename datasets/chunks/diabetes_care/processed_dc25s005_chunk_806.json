@@ -1,0 +1,44 @@
+{
+  "text": "cognitive behavior therapy for diabetes distress,\ndepression, health anxiety, quality of life andtreatment adherence among patients with type-iidiabetes mellitus: a randomized control trial. bmcpsychiatry 2023;23:86\n436. visser mm, charleer s, fieuws s, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods",
+    "concurrent_diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depression",
+      "health anxiety"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive behavior therapy",
+      "randomized control trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type-ii diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cognitive behavior therapy"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "depression",
+      "health anxiety",
+      "type-ii diabetes mellitus"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "text": "the national standards for dsmes (9) in-\nclude delivery of content addressing:\n\u0081pathophysiology of diabetes and treat-\nment options\n\u0081healthy coping\n\u0081healthy eating\n\u0081being active\n\u0081taking medication\n\u0081monitoring\n\u0081reducing risk (treating acute and\nchronic complications)\n\u0081problem solving and behavior change\nstrategies\nin addition to providing dsmes upon\ndiagnosis, there are additional critical time\npoints when the need for dsmes should\nbe evaluated by the health care profes-\nsional and/or interprofessional team,with referrals made as needed (2):\n\u0081annually and/or when not meeting\ntreatment goals, whichever is more\nfrequent\u0081when complicating factors (e.g., health\nconditions, physical or functional limi-tations, emotional factors, and basicliving needs) that in \ufb02uence self-\nmanagement develop\n\u0081when transitions in life and care occur\ndsmes empowers individuals with dia-\nbetes by providing them with tools tomake informed self-management decisions(4). dsmes should be person-centered \u2014\nplacing the person with diabetes and theirfamily and/or support system at the center\nof the care model as they work in col-\nlaboration with health care professio-nals.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment_methods",
+    "medications",
+    "recommended_foods",
+    "symptoms",
+    "concurrent_diseases",
+    "tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Diabetes Self-Management Education and Support (DSMES)",
+      "Healthy coping",
+      "Healthy eating",
+      "Being active",
+      "Monitoring",
+      "Problem solving and behavior change strategies"
+    ],
+    "Pathogenesis": [
+      "Pathophysiology of diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "Taking medication"
+    ],
+    "Duration": [
+      "Annually",
+      "Upon diagnosis",
+      "When transitions in life and care occur"
+    ],
+    "Diseases": [
+      "Diabetes",
+      "Acute complications",
+      "Chronic complications"
+    ]
+  }
+}

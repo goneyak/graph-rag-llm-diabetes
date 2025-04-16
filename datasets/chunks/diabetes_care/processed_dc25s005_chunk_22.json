@@ -1,0 +1,40 @@
+{
+  "text": "evidence for the benefits\ndsmes is associated with improved dia-betes knowledge and self-care behav-iors (16,17), lower a1c (16 \u201321), lower\nself-reported weight (22), improved qual-\nity of life (23,24), reduced all-cause mor-tality risk (25), positive coping behaviors(5,26), and lower health care costs(27\u201329). dsmes is also associated with\nan increased use of primary care andpreventive services (27,30) and less fre-quent use of acute care and inpatienthospital services (22).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "lower A1C",
+      "lower self-reported weight"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "DSMES (Diabetes Self-Management Education and Support)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (diabetes self-management education and support)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "lower A1C",
+      "lower self-reported weight"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

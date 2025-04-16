@@ -1,0 +1,47 @@
+{
+  "text": "int j behav\nnutr phys act 2010;7:40\n271. savoye m, caprio s, dziura j, et al. reversal\nof early abnormalities in glucose metabolism inobese youth: results of an intensive lifestylerandomized controlled trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "abnormalities in glucose metabolism",
+      "obesity"
+    ],
+    "Examination Indicators": [
+      "early abnormalities in glucose metabolism"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized controlled trial",
+      "intensive lifestyle intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "early abnormalities in glucose metabolism"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "obese youth"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intensive lifestyle intervention",
+      "randomized controlled trial"
+    ],
+    "Pathogenesis": [
+      "early abnormalities in glucose metabolism in obese youth"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "obesity",
+      "abnormal glucose metabolism"
+    ]
+  }
+}

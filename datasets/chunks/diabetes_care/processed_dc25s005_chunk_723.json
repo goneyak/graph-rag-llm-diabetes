@@ -1,0 +1,39 @@
+{
+  "text": "prospective, cluster-randomized trial to implementthe ottawa model for smoking cessation in\ndiabetes education programs in ontario, canada. diabetes care 2018;41:406 \u2013412\n341. hood kk, rohan jm, peterson cm, drotar\nd. interventions with adherence-promoting com-ponents in pediatric type 1 diabetes: meta-analysisdiabetesjournals.org/care facilitating positive health behaviors and well-being s121downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nof their impact on glycemic control.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cluster-randomized trial",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Ottawa Model for Smoking Cessation",
+      "interventions with adherence-promoting components"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes"
+    ]
+  }
+}

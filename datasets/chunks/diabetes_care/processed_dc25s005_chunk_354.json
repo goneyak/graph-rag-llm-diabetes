@@ -1,0 +1,44 @@
+{
+  "text": "peoplewith diabetes who exhibit excessive dia-\nbetes self-management behaviors well\nbeyond what is prescribed or neededto achieve glycemic goals may beexperiencing symptoms of obsessive-\ncompulsive disorder (432). general\nanxiety is a predictor of injection-re-lated anxiety and is associated withfear of hypoglycemia (433).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "excessive diabetes self-management behaviors",
+      "symptoms of obsessive-compulsive disorder",
+      "general anxiety",
+      "injection-related anxiety",
+      "fear of hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management behaviors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "injection"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "obsessive-compulsive disorder",
+      "general anxiety",
+      "injection-related anxiety",
+      "fear of hypoglycemia"
+    ]
+  }
+}

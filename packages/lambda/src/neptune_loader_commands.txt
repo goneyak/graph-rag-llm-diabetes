@@ -1,0 +1,20 @@
+# Neptune Loader Commands
+
+# 1. Upload the Gremlin queries file and manifest to S3:
+aws s3 cp neptune_gremlin_queries.txt s3://gatech-dva-groupproject-gpai-manual/
+aws s3 cp neptune-manifest.json s3://gatech-dva-groupproject-gpai-manual/
+
+# 2. Start the Neptune Loader job:
+curl -X POST \
+    -H 'Content-Type: application/json' \
+    https://db-neptune-1-instance-1.clweck686ssb.eu-north-1.neptune.amazonaws.com:8182/loader \
+    -d '{
+        "source" : "s3://gatech-dva-groupproject-gpai-manual/neptune-manifest.json",
+        "format" : "csv",
+        "iamRoleArn" : "arn:aws:iam::748752133874:role/AdminAccess-JadMokdad",
+        "region" : "eu-north-1",
+        "failOnError" : "FALSE"
+    }'
+
+# 3. Check the status of the loader job:
+curl -G https://db-neptune-1-instance-1.clweck686ssb.eu-north-1.neptune.amazonaws.com:8182/loader/<load-id>

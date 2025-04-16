@@ -1,0 +1,35 @@
+{
+  "text": "effect of a behavioural intervention foradoption and maintenance of a physically active\nlifestyle on psychological well-being and quality\nof life in patients with type 2 diabetes: theides_2 randomized clinical trial. sports med2022;52:643 \u2013654\n353. crowley mj, tarkington pe, bosworth hb,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "behavioural intervention",
+      "randomized clinical trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "behavioural intervention",
+      "physically active lifestyle"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

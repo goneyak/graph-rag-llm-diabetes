@@ -1,0 +1,41 @@
+{
+  "text": "regular intake of suf \ufb01cient dietary\n\ufb01ber is associated with lower all-cause\nmortality in people with diabetes, andprospective cohort studies have found\ndietary \ufb01ber intake is inversely associated\nwith risk for type 2 diabetes (113,114).the consumption of sugar-sweetened bev-erages and processed food products with\nlarge amounts of re \ufb01ned grains and added\nsugars is strongly discouraged (76), asthese have the capacity to displace\nhealthier, more nutrient-dense food choicesand increase in \ufb02ammation (115). the literature concerning glycemic in-\ndex and glycemic load in individuals\nwith diabetes is complex, often with\nvarying de \ufb01nitions of low \u2013and high \u2013\nglycemic index foods (116 \u2013118).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "sugar-sweetened beverages",
+      "processed food products with large amounts of refined grains and added sugars"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "regular intake of sufficient dietary fiber",
+      "avoiding sugar-sweetened beverages",
+      "avoiding processed food products with refined grains and added sugars"
+    ],
+    "Pathogenesis": [
+      "inflammation"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes",
+      "all-cause mortality"
+    ]
+  }
+}

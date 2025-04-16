@@ -1,0 +1,40 @@
+{
+  "text": "recommendations for management of diabetes\nduring ramadan: update 2010. diabetes care\n2010;33:1895 \u20131902\n227. grajower mm. management of diabetes\nmellitus on yom kippur and other jewish fastdays.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "management of diabetes during Ramadan",
+      "management of diabetes mellitus on Yom Kippur and other Jewish fast days"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2010"
+    ],
+    "Diseases": [
+      "diabetes",
+      "diabetes mellitus"
+    ]
+  }
+}

@@ -8,14 +8,23 @@ import * as neptune from 'aws-cdk-lib/aws-neptune';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as path from 'path';
 
+export interface GraphProcessingStackProps extends cdk.StackProps {
+  environment: string;
+  neptuneConfig: {
+    instanceType?: string;
+    engineVersion?: string;
+  };
+  s3Config: {
+    graphDataBucketName?: string;
+  };
+}
+
 export class GraphProcessingStack extends cdk.Stack {
-  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+  constructor(scope: Construct, id: string, props: GraphProcessingStackProps) {
     super(scope, id, props);
 
-    // Get environment values from context
-    const environment = this.node.tryGetContext('environment') || 'dev';
-    const neptuneConfig = this.node.tryGetContext('neptune') || {};
-    const s3Config = this.node.tryGetContext('s3') || {};
+    // Get environment values from props
+    const { environment, neptuneConfig, s3Config } = props;
 
     // Create a VPC for Neptune
     const vpc = new ec2.Vpc(this, 'NeptuneVPC', {

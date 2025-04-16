@@ -1,0 +1,36 @@
+{
+  "text": "curr diab rep 2021;21:59\n351. berlin ks, klages kl, banks gg, et al. toward the development of a culturally humbleintervention to improve glycemic control andquality of life among adolescents with type-1\ndiabetes and their families.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic control issues"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type-1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "culturally humble intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type-1 diabetes"
+    ]
+  }
+}

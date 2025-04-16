@@ -1,0 +1,50 @@
+{
+  "text": "diabetes care 2017;40:1790 \u20131799\n5. fisher l, hessler d, polonsky wh, et al.t1-redeem: a randomized controlled trial to\nreduce diabetes distress among adults with type 1diabetes. diabetes care 2018;41:1862 \u20131869\n6. van der feltz-cornelis c, allen sf, holt rig,roberts r, nouwen a, sartorius n. treatment for\ncomorbid depressive disorder or subthresholddepression in diabetes mellitus: systematic reviewand meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "comorbid depressive disorder",
+      "subthreshold depression"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized controlled trial",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "comorbid depressive disorder",
+      "subthreshold depression"
+    ],
+    "Non-Medication Treatment": [
+      "T1-REDEEM: a randomized controlled trial to reduce diabetes distress"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes",
+      "comorbid depressive disorder",
+      "subthreshold depression",
+      "diabetes mellitus",
+      "diabetes distress"
+    ]
+  }
+}

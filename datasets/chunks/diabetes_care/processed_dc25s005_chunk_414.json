@@ -1,0 +1,39 @@
+{
+  "text": "for these reasons, detection and treatmentof sleep disorders should be considered a\npart of standardized care for people with\ntype 1 and type 2 diabetes. as for the general population, there are\nevidence-based strategies to improve sleepfor people with diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "detection and treatment of sleep disorders"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "detection and treatment of sleep disorders",
+      "evidence-based strategies to improve sleep"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "sleep disorders"
+    ]
+  }
+}

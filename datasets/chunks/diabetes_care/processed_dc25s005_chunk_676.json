@@ -1,0 +1,34 @@
+{
+  "text": "diabetes obes metab\n2023;25:3589 \u20133598\n289. wang y, lee d-c, brellenthin ag, et al. leisure-time running reduces the risk of incidenttype 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "leisure-time running"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

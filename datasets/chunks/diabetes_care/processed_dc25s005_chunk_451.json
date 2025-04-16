@@ -1,0 +1,40 @@
+{
+  "text": "arch intern med 2011;171:453 \u2013459\n39. mannucci e, giaccari a, gallo m, et al. self-\nmanagement in patients with type 2 diabetes:group-based versus individual education.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "group-based education",
+      "individual education"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "self-management education",
+      "group-based education",
+      "individual education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

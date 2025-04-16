@@ -1,0 +1,32 @@
+{
+  "text": "j applphysiol (1985) 2011;111:1554 \u20131560\n281. bohn b, herbst a, pfeifer m, et al. ; dpv\ninitiative.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "1554-1560"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "2011"
+    ],
+    "Diseases": []
+  }
+}

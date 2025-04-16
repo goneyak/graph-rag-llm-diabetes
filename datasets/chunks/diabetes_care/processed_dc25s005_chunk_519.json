@@ -1,0 +1,42 @@
+{
+  "text": "associations\nbetween consumption of dietary \ufb01bers and the\nrisk of cardiovascular diseases, cancers, type 2\ndiabetes, and mortality in the prospectivenutrinet-sant /c19e cohort. am j clin nutr 2020;112:\n195\u2013207\n114. reynolds an, akerman ap, mann j. dietary\n\ufb01bre and whole grains in diabetes management:\nsystematic review and meta-analyses.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cardiovascular diseases",
+      "cancers",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analyses"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary fibers",
+      "whole grains"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular diseases",
+      "cancers",
+      "type 2 diabetes"
+    ]
+  }
+}

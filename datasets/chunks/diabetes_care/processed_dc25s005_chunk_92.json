@@ -1,0 +1,36 @@
+{
+  "text": "the effects of changes in body weight\nand the wide range of de \ufb01nitions for a\nlow-carbohydrate eating plan are impor-tant challenges in interpreting carbohy-drate-restricted research studies (106).weight reduction is often a goal in manystudies on low-carbohydrate eating plans,\nwhich complicates evaluating the dis-\ntinct contribution of the eating pattern(107\u2013109). as studies on low-carbohydrate\neating plans generally indicate challengeswith long-term sustainability (101), it is im-portant to reassess and individualize mealplan guidance regularly for those inter-ested in this approach.table 5.3 \u2014nutrition behaviors to encourage\n/c15vegetables \u2014especially nonstarchy vegetables that are dark green, red, and orange in color; fresh, frozen, or low-sodium canned are all\nacceptable vegetable options.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-carbohydrate eating plans",
+      "weight reduction",
+      "individualize meal plan guidance",
+      "vegetables (especially nonstarchy vegetables that are dark green, red, and orange in color)",
+      "fresh, frozen, or low-sodium canned vegetables"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term sustainability"
+    ],
+    "Diseases": []
+  }
+}

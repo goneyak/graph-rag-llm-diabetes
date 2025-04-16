@@ -1,0 +1,49 @@
+{
+  "text": "biomedical risk factors for\ndecreased cognitive functioning in type 1\ndiabetes: an 18 year follow-up of the diabetescontrol and complications trial (dcct) cohort.diabetologia 2011;54:245 \u2013255\n495. west rk, ravona-springer r, schmeidler j,\net al. the association of duration of type 2 diabetes\nwith cognitive performance is modulated by long-\nterm glycemic control.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "decreased cognitive functioning"
+    ],
+    "Examination Indicators": [
+      "long-term glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive performance assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "decreased cognitive functioning"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "biomedical risk factors",
+      "duration of type 2 diabetes",
+      "long-term glycemic control"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "18 year follow-up",
+      "long-term"
+    ],
+    "Diseases": [
+      "decreased cognitive functioning in type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

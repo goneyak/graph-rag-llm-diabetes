@@ -1,0 +1,43 @@
+{
+  "text": "j acad nutr diet 2019;119:\n449\u2013463\n81. briggs early k, stanley k. position of the\nacademy of nutrition and dietetics: the role ofmedical nutrition therapy and registered dietitiannutritionists in the prevention and treatment ofprediabetes and type 2 diabetes. j acad nutr diet\n2018;118:343 \u2013353\n82. dobrow l, estrada i, burkholder-cooley n,\nmiklavcic j. potential effectiveness of registereddietitian nutritionists in healthy behavior inter-ventions for managing type 2 diabetes in older\nadults: a systematic review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "medical nutrition therapy",
+      "healthy behavior interventions"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "medical nutrition therapy"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "prediabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

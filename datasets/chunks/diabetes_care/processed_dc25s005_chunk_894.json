@@ -1,0 +1,41 @@
+{
+  "text": "psychiatric disorders duringearly adulthood in those with childhood onsettype 1 diabetes: rates and clinical risk factors from\npopulation-based follow-up. pediatr diabetes 2017;\n18:599 \u2013606\n539. chan jkn, wong csm, or pcf, chen eyh,\nchang wc.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "psychiatric disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "population-based follow-up"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "childhood onset type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "psychiatric disorders during early adulthood"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "early adulthood",
+      "childhood onset"
+    ],
+    "Diseases": [
+      "psychiatric disorders",
+      "type 1 diabetes"
+    ]
+  }
+}

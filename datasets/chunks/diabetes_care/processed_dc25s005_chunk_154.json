@@ -1,0 +1,53 @@
+{
+  "text": "lifestyle in-tervention programs should be intensiveand have frequent follow-up to achievesigni\ufb01cant reductions in excess body\nweight and improve clinical indicators.behavior modi \ufb01cation goals should ad-\ndress physical activity, calorie restriction,healthy weight management strategies,and motivation. there is strong and con-\nsistent evidence that modest, sustained\nweight loss can delay the progressionfrom prediabetes to type 2 diabetes(82,186,187) (see section 3, \u201cprevention\nor delay of diabetes and associatedcomorbidities \u201d) and is bene \ufb01cial for type 2\ndiabetes management (see section 8,\u201cobesity and weight management for\nthe prevention and treatment of type 2\ndiabetes \u201d).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "body"
+    ],
+    "Clinical Manifestations": [
+      "excess body weight",
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "clinical indicators"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "excess body weight",
+      "prediabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "lifestyle intervention programs",
+      "behavior modification",
+      "physical activity",
+      "calorie restriction",
+      "healthy weight management strategies",
+      "modest, sustained weight loss"
+    ],
+    "Pathogenesis": [
+      "progression from prediabetes to type 2 diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "prediabetes",
+      "type 2 diabetes",
+      "obesity"
+    ]
+  }
+}

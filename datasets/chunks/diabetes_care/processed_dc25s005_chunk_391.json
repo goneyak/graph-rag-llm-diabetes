@@ -1,0 +1,55 @@
+{
+  "text": "g . ,\nyounger age at diagnosis, longer disease\nduration, more time in glycemic extremes,\nrecurrent dka, higher a1c, and presence of\nmicrovascular complications), other medi-cal factors (e.g., dyslipidemia, intestinal\n\ufb02ora, and poorer sleep quality), and socio-\ndemographic factors (e.g., female sex and\nlower educational level) (483).",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "recurrent DKA",
+      "higher A1C",
+      "microvascular complications",
+      "dyslipidemia",
+      "poorer sleep quality"
+    ],
+    "Examination Indicators": [
+      "glycemic extremes",
+      "higher A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "younger age at diagnosis",
+      "longer disease duration",
+      "more time in glycemic extremes",
+      "recurrent DKA",
+      "higher A1C",
+      "presence of microvascular complications",
+      "dyslipidemia",
+      "intestinal flora",
+      "poorer sleep quality",
+      "female sex",
+      "lower educational level"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "higher a1c"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "younger age at diagnosis",
+      "longer disease duration"
+    ],
+    "Diseases": [
+      "recurrent dka",
+      "microvascular complications",
+      "dyslipidemia"
+    ]
+  }
+}

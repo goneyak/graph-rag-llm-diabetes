@@ -1,0 +1,43 @@
+{
+  "text": "cognitive functioning inchildren with early onset type 1 diabetes andsevere hypoglycemia. j pediatr 2005;147:680 \u2013685\n491. mauras n, buckingham b, white nh, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cognitive functioning",
+      "severe hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "early onset type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "severe hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "severe"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "early onset"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "severe hypoglycemia",
+      "cognitive functioning"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "where\nto start? physical assessment, readiness, and\nexercise recommendations for people with type 1\nor type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "physical assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical assessment",
+      "exercise"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "text": "additional information ad-dressing implementation of a successfuldsmes program can be found in the cen-\nters for disease control and prevention\ndsmes toolkit at www.cdc.gov/diabetes-toolkit/php/index.html. programs recognized by the ada and\naccredited by the association of diabe-\ntes care & education specialists are cur-\nrently included on the list of telehealthprofessionals approved by centers formedicare & medicaid services (cms),via the consolidated appropriations act\nof 2023 (69).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES program",
+      "telemedicine/telehealth",
+      "Diabetes Self-Management Education and Support"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -10,11 +10,14 @@
     "build:env": "npm run build:env --workspaces",
     "test": "npm run test --workspaces",
     "test:env": "npm run test:env --workspaces",
-    "cdk": "cd packages/infrastructure && npm run cdk",
-    "deploy": "cd packages/infrastructure && npm run deploy",
-    "deploy:frontend": "cd packages/infrastructure && npm run deploy:frontend",
-    "deploy:backend": "cd packages/infrastructure && npm run deploy:backend",
-    "deploy:all": "cd packages/infrastructure && npm run deploy:all",
+    "cdk": "cd packages/infrastructure && npx aws-cdk",
+    "deploy": "cd packages/infrastructure && npx aws-cdk deploy --all",
+    "deploy:frontend": "cd packages/infrastructure && npx aws-cdk deploy FrontendStack",
+    "deploy:backend": "cd packages/infrastructure && npx aws-cdk deploy GraphProcessingStack",
+    "deploy:medkg": "cd packages/infrastructure && npx aws-cdk deploy MedKnowledgeGraphStack",
+    "deploy:all": "cd packages/infrastructure && npx aws-cdk deploy --all",
+    "synth": "cd packages/infrastructure && npx aws-cdk synth",
+    "bootstrap": "cd packages/infrastructure && npx aws-cdk bootstrap",
     "frontend:start": "cd packages/frontend && npm run start:env",
     "frontend:build": "cd packages/frontend && npm run build:env",
     "lambda:test": "cd packages/lambda && npm run local:test"
@@ -22,5 +25,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "AWS CDK Monorepo with TypeScript Lambda and React Frontend"
+  "description": "AWS CDK Monorepo with TypeScript Lambda and React Frontend",
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }

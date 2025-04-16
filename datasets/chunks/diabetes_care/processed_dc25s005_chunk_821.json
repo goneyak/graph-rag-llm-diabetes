@@ -1,0 +1,42 @@
+{
+  "text": "j psychosom res 2023;173:111445\n454. seddigh s, bagheri s, shari \ufb01n, moravej h,\nhadian shirazi z. the effect of yoga therapydirected by virtual training on depression of\nadolescent girls with type 1 diabetes: a ran-\ndomized controlled trial. j diabetes metab disord2023;22:1273 \u20131281455.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [
+      "type 1 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "yoga therapy",
+      "virtual training",
+      "randomized controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "yoga therapy directed by virtual training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "type 1 diabetes"
+    ]
+  }
+}

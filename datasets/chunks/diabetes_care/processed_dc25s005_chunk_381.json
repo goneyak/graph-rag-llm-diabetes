@@ -1,0 +1,43 @@
+{
+  "text": "b\n5.57 monitor changes in body weight,\nglycemia, and lipids in adolescents andadults with diabetes who are prescribedsecond-generation antipsychotic medi-cations; adjust the treatment plan ac-cordingly, if needed. c\nstudies of individuals with serious men-\ntal illness, particularly schizophrenia andother thought disorders, show signi \ufb01-\ncantly increased rates of type 2 diabetes(474) (see tables 5.7 and 5.8).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "changes in body weight"
+    ],
+    "Examination Indicators": [
+      "glycemia",
+      "lipids"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "monitor changes in body weight, glycemia, and lipids"
+    ],
+    "Medication Name": [
+      "second-generation antipsychotic medications"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "serious mental illness",
+      "schizophrenia",
+      "thought disorders",
+      "type 2 diabetes"
+    ]
+  }
+}

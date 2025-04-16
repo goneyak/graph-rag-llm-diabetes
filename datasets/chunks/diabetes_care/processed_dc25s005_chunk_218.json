@@ -1,0 +1,45 @@
+{
+  "text": "/c15for other basal insulins, take at\nbeginning of breaking fast meal./c15choose the insulin with lower risk of\nhypoglycemia among the class. /c15reduce dose by 25 \u201335% if not well\nmanaged.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "reduce dose by 25-35% if not well managed",
+      "take at beginning of breaking fast meal"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [
+      "basal insulins"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [
+      "take at beginning of breaking fast meal"
+    ],
+    "Cause": [],
+    "Severity": [
+      "not well managed"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "take at beginning of breaking fast meal"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "hypoglycemia"
+    ]
+  }
+}

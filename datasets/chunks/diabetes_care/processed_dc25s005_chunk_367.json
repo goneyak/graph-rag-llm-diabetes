@@ -1,0 +1,46 @@
+{
+  "text": "lifestyle interventions\n(i.e., changing nutrition and/or physical ac-\ntivity) also demonstrate bene \ufb01ts for de-\npressive symptoms and a1c (295) on their\nown and when combined with cbt\n(453\u2013455). finally, a systematic review\nand meta-analysis found that use ofglp-1 ras led to signi \ufb01cant improve-\nment in depressive symptoms among\nadults with type 2 diabetes (456).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depressive symptoms"
+    ],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [
+      "GLP-1 RAs"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "lifestyle interventions",
+      "changing nutrition",
+      "physical activity",
+      "CBT (cognitive behavioral therapy)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depressive symptoms",
+      "type 2 diabetes"
+    ]
+  }
+}

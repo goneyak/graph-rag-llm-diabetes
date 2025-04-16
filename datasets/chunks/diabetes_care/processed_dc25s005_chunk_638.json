@@ -1,0 +1,44 @@
+{
+  "text": "changes\nin lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. dia-betes obes metab 2024;26 suppl 4:16 \u201327\n246. jawara d, ufearo dm, murtha ja, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "body"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "lean body mass changes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "glucagon-like peptide-1-based therapies",
+      "mitigation strategies"
+    ],
+    "Medication Name": [
+      "glucagon-like peptide-1"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "changes in lean body mass"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "mitigation strategies"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "obesity"
+    ]
+  }
+}

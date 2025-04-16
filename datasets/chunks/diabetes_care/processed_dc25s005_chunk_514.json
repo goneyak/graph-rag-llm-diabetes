@@ -1,0 +1,54 @@
+{
+  "text": "twelve-month outcomes of a randomizedtrial of a moderate-carbohydrate versus very low-\ncarbohydrate diet in overweight adults with type 2\ndiabetes mellitus or prediabetes. nutr diabetes2017;7:304\n109. korsmo-haugen h-k, brurberg kg, mann j,\naas a-m. carbohydrate quantity in the dietary\nmanagement of type 2 diabetes: a systematic\nreview and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "type 2 diabetes mellitus",
+      "prediabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized trial",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus",
+      "prediabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "overweight"
+    ],
+    "Non-Medication Treatment": [
+      "moderate-carbohydrate diet",
+      "very low-carbohydrate diet",
+      "dietary management"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "twelve-month"
+    ],
+    "Diseases": [
+      "type 2 diabetes mellitus",
+      "prediabetes",
+      "type 2 diabetes",
+      "diabetes",
+      "overweight"
+    ]
+  }
+}

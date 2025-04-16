@@ -1,0 +1,37 @@
+{
+  "text": "arch endocrinol metab 2022;66:\n784\u2013791\n170. llamosas-falc /c19on l, rehm j, bright s, et al. the relationship between alcohol consumption,bmi, and type 2 diabetes: a systematic reviewand dose-response meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "querying causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "dose-response meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "alcohol consumption",
+      "BMI"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "text": "effect of a collaborative care model on anxietysymptoms among patients with depression anddiabetes in india: the independent randomizedclinical trial. gen hosp psychiatry 2022;74:39 \u201345\n435. abbas q, latif s, ayaz habib h, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "anxiety symptoms",
+      "depression"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized clinical trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "collaborative care model"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "anxiety",
+      "depression",
+      "diabetes"
+    ]
+  }
+}

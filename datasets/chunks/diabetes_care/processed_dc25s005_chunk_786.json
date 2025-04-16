@@ -1,0 +1,40 @@
+{
+  "text": "patient educ couns 2023;116:107933\n412. michot ap, evans tl, vasudevan mm, et al. the case for screening for diabetes distress,\ndepression, and anxiety.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "required tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depression",
+      "anxiety"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "screening"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "screening for diabetes distress, depression, and anxiety"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "depression",
+      "anxiety"
+    ]
+  }
+}

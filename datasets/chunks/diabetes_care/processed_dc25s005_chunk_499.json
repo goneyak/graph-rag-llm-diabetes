@@ -1,0 +1,52 @@
+{
+  "text": "endo-crinol diabetes metab 2023;6:e411\n92. haidar a, legault l, raffray m, et al. a\nrandomized crossover trial to compare automatedinsulin delivery (the arti \ufb01cial pancreas) with carbo-\nhydrate counting or simpli \ufb01ed qualitative meal-size\nestimation in type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "pancreas"
+    ],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "automated insulin delivery",
+      "artificial pancreas",
+      "carbohydrate counting",
+      "simplified qualitative meal-size estimation",
+      "randomized crossover trial"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "carbohydrate counting",
+      "simplified qualitative meal-size estimation",
+      "automated insulin delivery",
+      "artificial pancreas"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "automated insulin delivery"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

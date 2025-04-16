@@ -1,0 +1,36 @@
+{
+  "text": "diabetes res clin pract 1999;46:239 \u2013\n246\n432. american psychiatric association. diagnostic\nand statistical manual of mental disorders: dsm-5.washington, dc, american psychiatric association,\n2013\n433. mollema ed, snoek fj, ad /c18er hj, heine rj,\nvan der ploeg hm.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diagnostic and statistical manual of mental disorders: dsm-5"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "dsm-5"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "mental disorders"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "text": "referrals for in-depth assess-ment and treatment for psychosocial con-\nc e r n ss h o u l db em a d et os u c hb e h a v i o r a l\nhealth professionals when indicated (369,370). a systematic review and meta-analysis\nshowed that psychosocial interventions\nmodestly but signi \ufb01cantly improved a1c\nand behavioral health outcomes (371).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "in-depth assessment",
+      "psychosocial interventions",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Referrals for in-depth assessment and treatment for psychosocial concerns to behavioral health professionals",
+      "Psychosocial interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Psychosocial concerns"
+    ]
+  }
+}

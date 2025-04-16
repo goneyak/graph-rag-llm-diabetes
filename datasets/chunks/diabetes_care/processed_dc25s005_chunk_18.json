@@ -1,0 +1,33 @@
+{
+  "text": "please see section 4,\n\u201ccomprehensive medical evaluation and\nassessment of comorbidities, \u201dfor more on\nuse of language. in accordance with the \u201c2022 national\nstandards for diabetes self-management\neducation and support \u201d(here referred\nto as the national standards for dsmes)\n(9), all people with diabetes should par-\nticipate in developmentally appropriateand culturally sensitive dsmes, as it helps\npeople with diabetes identify and imple-\nment effective self-management strategiesand coping skills (2).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and support (DSMES)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "text": "indi-viduals with diabetes should be advised toavoid vaping and using e-cigarettes, eitheras an approach to stop smoking combusti-\nb l ec i g a r e t t e so ra sar e c r e a t i o n a ld r u g .i f\npeople are using e-cigarettes to quit, theyshould be advised to avoid using both com-bustible and electronic cigarettes, and if us-\ning only e-cigarettes, they should be advised\nto have a plan to quit these also (319). increased legalization and multiple\nformulations of cannabis products haveresulted in increased prevalence in the\nuse of these products in all age-groups\n(332,333).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "cannabis"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "avoid vaping and using e-cigarettes",
+      "avoid using both combustible and electronic cigarettes",
+      "have a plan to quit e-cigarettes"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

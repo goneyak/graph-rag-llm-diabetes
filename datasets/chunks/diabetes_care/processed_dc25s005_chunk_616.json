@@ -1,0 +1,42 @@
+{
+  "text": "int jobes (lond) 2024;\n221. lean mej, leslie ws, barnes ac, et al. durability of a primary care-led weight-management\nintervention for remission of type 2 diabetes: 2-yearresults of the direct open-label, cluster-randomisedtrial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "remission of type 2 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "primary care-led weight-management intervention",
+      "open-label, cluster-randomised trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "primary care-led weight-management intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2-year"
+    ],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

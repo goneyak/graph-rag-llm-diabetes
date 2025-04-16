@@ -1,0 +1,41 @@
+{
+  "text": "effect of diabetes\nsleep education for t2dm who sleep aftermidnight: a pilot study from china. metab syndrrelat disord 2018;16:13 \u201319\n527. khandelwal d, dutta d, chittawar s, kalra\ns. sleep disorders in type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "sleep education"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "T2DM",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "sleep education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "t2dm",
+      "type 2 diabetes",
+      "sleep disorders"
+    ]
+  }
+}

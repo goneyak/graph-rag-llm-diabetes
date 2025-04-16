@@ -1,0 +1,40 @@
+{
+  "text": "diabetes care2016;39:1631 \u20131634\n125. metwally m, cheung to, smith r, bell kj. insulin pump dosing strategies for meals varyingin fat, protein or glycaemic index or grazing-style\nmeals in type 1 diabetes: a systematic review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "insulin pump dosing"
+    ],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin pump"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

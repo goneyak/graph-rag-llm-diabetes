@@ -1,0 +1,39 @@
+{
+  "text": "re-gardless of the speci \ufb01c eating pattern or\nmeal plan selected, long-term follow-up and\nsupport from members of the diabetes care\nteam are needed to optimize self-ef \ufb01cacy\nand maintain behavioral changes (85). chrononutrition is an emerging nutri-\ntion and biology subspecialty aimed to-ward increasing the understanding of\nhow the timing of food ingestion affects\nmetabolic health (223).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "long-term follow-up and support from diabetes care team",
+      "chrononutrition",
+      "eating pattern",
+      "meal plan"
+    ],
+    "Pathogenesis": [
+      "timing of food ingestion affects metabolic health"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

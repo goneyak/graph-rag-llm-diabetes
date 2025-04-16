@@ -1,0 +1,39 @@
+{
+  "text": "peo-\nple with type 1 diabetes have been foundto be at greater risk for eating disordersthan people without diabetes (460). prev-alence of intentional insulin omission tolose weight is 10% and more commonamong women than men with type 1 dia-betes (460).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorders",
+      "intentional insulin omission to lose weight"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin omission"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "eating disorders"
+    ]
+  }
+}

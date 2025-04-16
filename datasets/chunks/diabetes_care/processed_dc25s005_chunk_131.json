@@ -1,0 +1,50 @@
+{
+  "text": "reported that participantsrandomized to the low-sodium dash eat-\ning pattern (containing /c241,150 mg so-\ndium/day [50 mmol sodium/day]) hadchange in egfr of /c03.10 ml/min/1.73 m\n2\n(95% ci /c05.46 to /c00.73) after 4 weeks\ncompared with 3,450 mg sodium/day\n(150 mmol sodium/day) (150). limiting sodium intake is most easily\nachieved through reducing consumptionof processed and ultraprocessed foods,\nwhich are major contributors of sodium\nintake.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidneys"
+    ],
+    "Clinical Manifestations": [
+      "change in egfr of -3.10 ml/min/1.73 m2 (95% CI -5.46 to -0.73)"
+    ],
+    "Examination Indicators": [
+      "egfr"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized controlled trial",
+      "low-sodium DASH eating pattern trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "processed and ultraprocessed foods"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-sodium DASH eating pattern",
+      "limiting sodium intake",
+      "reducing consumption of processed and ultraprocessed foods"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "change in eGFR of -3.10 ml/min/1.73 m2 (95% CI -5.46 to -0.73)",
+      "1,150 mg sodium/day (50 mmol sodium/day)",
+      "3,450 mg sodium/day (150 mmol sodium/day)"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "4 weeks"
+    ],
+    "Diseases": []
+  }
+}

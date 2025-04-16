@@ -1,0 +1,49 @@
+{
+  "text": "a brief over-view of the national outbreak of e-cigarette, orvaping, product use-associated lung injury and\nthe primary causes. chest 2021;159:426 \u2013431\n329. darville a, hahn ej.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "lung"
+    ],
+    "Clinical Manifestations": [
+      "lung injury"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "e-cigarette, or vaping, product use-associated lung injury"
+    ],
+    "Adverse Reactions": [
+      "lung injury"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "e-cigarette use",
+      "vaping product use"
+    ],
+    "Severity": [
+      "national outbreak"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "e-cigarette",
+      "vaping"
+    ],
+    "Duration": [
+      "2021"
+    ],
+    "Diseases": [
+      "lung injury",
+      "e-cigarette, or vaping, product use-associated lung injury"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "text": "med sci sports exerc 2003;35:1093 \u20131099\n308. smith ag, russell j, feldman el, et al. lifestyle intervention for pre-diabetic neuropathy.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "pre-diabetic neuropathy"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "lifestyle intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "pre-diabetic neuropathy"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "lifestyle intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "pre-diabetic neuropathy"
+    ]
+  }
+}

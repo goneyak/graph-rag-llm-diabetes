@@ -1,0 +1,29 @@
+{
+  "text": "in the health consequences of smoking \u2014\n50 years of progress: a report of the surgeongeneral. atlanta, ga, u.s. centers for disease\ncontrol and prevention, 2014\n312. durlach v, verg /c18es b, al-salameh a, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "50 years"
+    ],
+    "Diseases": []
+  }
+}

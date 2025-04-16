@@ -1,0 +1,43 @@
+{
+  "text": "diabetes technologiesshould be considered as a useful adjunctto risk calculation and/or nutrition planningand education during religious fasting for\npeople with diabetes (230). malnutrition\nmalnutrition is de \ufb01ned by the world\nhealth organization as \u201cde\ufb01ciencies,\nexcesses, or imbalances in a person \u2019s\nintake of energy and/or nutrients.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "recommended_foods",
+    "foods_to_avoid",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "malnutrition"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes technologies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes technologies",
+      "nutrition planning",
+      "education during religious fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "malnutrition"
+    ]
+  }
+}

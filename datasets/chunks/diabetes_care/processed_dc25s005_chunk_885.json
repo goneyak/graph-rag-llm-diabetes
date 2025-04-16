@@ -1,0 +1,41 @@
+{
+  "text": "does\ndiabetes-related distress explain the presence of\ndepressive symptoms and/or poor self-care in\nindividuals with type 1 diabetes? diabet med2010;27:234 \u2013237\n530. chatwin h, broadley m, hendrieckx c,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes-related distress",
+      "depressive symptoms"
+    ],
+    "Examination Indicators": [
+      "poor self-care"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes-related distress"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes-related distress",
+      "depressive symptoms",
+      "poor self-care",
+      "type 1 diabetes"
+    ]
+  }
+}

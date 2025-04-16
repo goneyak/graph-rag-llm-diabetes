@@ -1,0 +1,60 @@
+{
+  "text": "quantity - long \n(>8 h)  and short\n(<6 h) sleep  \ndurations negatively \nimpact a1c. quality - irregular sleep \nresults in poorer glycemic \nlevels, likely influenced by the \nincreased prevalence of insomnia, \nobstructive sleep ap nea, and restless \nleg syndrome in people with type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "causes",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "insomnia",
+      "obstructive sleep apnea",
+      "restless leg syndrome",
+      "long sleep duration (>8 h)",
+      "short sleep duration (<6 h)",
+      "irregular sleep",
+      "poorer glycemic levels"
+    ],
+    "Examination Indicators": [
+      "elevated A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "long (>8 h) sleep durations",
+      "short (<6 h) sleep durations",
+      "irregular sleep",
+      "insomnia",
+      "obstructive sleep apnea",
+      "restless leg syndrome"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "irregular sleep results in poorer glycemic levels"
+    ],
+    "Examination Indicator Values": [
+      "long (>8 h) sleep durations negatively impact A1C",
+      "short (<6 h) sleep durations negatively impact A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "long (>8 h)",
+      "short (<6 h)"
+    ],
+    "Diseases": [
+      "insomnia",
+      "obstructive sleep apnea",
+      "restless leg syndrome",
+      "type 2 diabetes"
+    ]
+  }
+}

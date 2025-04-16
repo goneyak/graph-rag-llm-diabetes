@@ -1,0 +1,41 @@
+{
+  "text": "e-cigarettes and ather-\nosclerotic cardiovascular disease: what cliniciansand researchers need to know. curr atherosclerrep 2019;21:15\n330. pierce jp , benmarhnia t, chen r, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "atherosclerotic cardiovascular disease"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "atherosclerotic cardiovascular disease"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "e-cigarettes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "e-cigarettes"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "atherosclerotic cardiovascular disease"
+    ]
+  }
+}

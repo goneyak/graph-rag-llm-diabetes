@@ -1,0 +1,39 @@
+{
+  "text": "jtelemed telecare 2021;30:262 \u2013284\n3 9 8 .b i s n od i ,r e i dm w ,f o g e lj l ,p y a t a ke a ,\nmajidi s, raymond jk. virtual group appointments\nreduce distress and improve care management in\nyoung adults with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "querying disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "virtual group appointments"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "virtual group appointments"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "distress"
+    ]
+  }
+}

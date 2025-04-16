@@ -1,0 +1,43 @@
+{
+  "text": "b\n5.59 if cognitive capacity changes or\nappears to be suboptimal for decision-making and/or behavioral self-manage-ment, referral for a formal assessmentshould be considered. e\ncognitive capacity is generally de \ufb01ned\nas attention, memory, logic and reason-ing, and auditory and visual processing,\nall of which are involved in diabetes\nself-management behavior (480) (see\ntables 5.7 and5.8).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cognitive capacity changes",
+      "suboptimal cognitive capacity for decision-making",
+      "suboptimal cognitive capacity for behavioral self-management"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "formal assessment",
+      "assessment of attention",
+      "assessment of memory",
+      "assessment of logic and reasoning",
+      "assessment of auditory processing",
+      "assessment of visual processing"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "referral for a formal assessment"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

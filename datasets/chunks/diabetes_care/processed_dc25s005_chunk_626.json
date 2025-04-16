@@ -1,0 +1,39 @@
+{
+  "text": "risk\nfactors associated with fasting during ramadan\namong individuals with diabetes according to\nidf-dar risk score in atbara city, sudan: cross-sectional hospital-based study. diabetes metabsyndr 2023;17:102743\n233. mohammed n, buckley a, siddiqui m, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [
+      "IDF-DAR risk score"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cross-sectional hospital-based study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "fasting during Ramadan"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "metabolic syndrome"
+    ]
+  }
+}

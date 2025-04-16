@@ -1,0 +1,40 @@
+{
+  "text": "collaborative\ncare interventions and a team approachhave demonstrated ef \ufb01cacy in diabetes\nself-management, outcomes of depres-\nsion, and psychosocial functioning (5,6). the ada provides resources for a range\nof health professionals to support behav-\nioral health in people with diabetes at\nprofessional.diabetes.org/meetings/\nbehavioral-health-toolkit.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "collaborative care interventions",
+      "team approach"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "collaborative care interventions",
+      "team approach",
+      "diabetes self-management",
+      "behavioral health support"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "depression"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "text": "un-\ntil evidence around bene \ufb01ts of different\neating patterns is strengthened, healthcare professionals should focus on thecore dimensions common among healthful\npatterns: inclusion of nonstarchy vegeta-\nbles, whole fruits, legumes, whole grains,nuts, seeds, and low-fat dairy products and\nminimizing consumption of red meat,sugar-sweetened beverages, sweets, re-\n\ufb01ned grains, and processed and ultrapro-\ncessed foods (88,89). referral to and ongoing support from\nan rdn is essential to assess the overall\nnutrition status of, and to work collabo-\nratively with, the person with diabetesto create a personalized meal plan thatcoordinates and aligns with the overall\nlifestyle treatment plan, including physical\nactivity and medication use.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "inclusion of nonstarchy vegetables",
+      "inclusion of whole fruits",
+      "inclusion of legumes",
+      "inclusion of whole grains",
+      "inclusion of nuts",
+      "inclusion of seeds",
+      "inclusion of low-fat dairy products",
+      "minimizing consumption of red meat",
+      "minimizing consumption of sugar-sweetened beverages",
+      "minimizing consumption of sweets",
+      "minimizing consumption of refined grains",
+      "minimizing consumption of processed and ultraprocessed foods",
+      "personalized meal plan",
+      "physical activity",
+      "referral to and ongoing support from an RDN"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

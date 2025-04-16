@@ -1,0 +1,47 @@
+{
+  "text": "lastly, sleep education, or sleep hy-\ngiene, improves sleep quality, reduces a1c,and decreases insulin resistance in adultswith type 2 diabetes (526). thus, diabetes\ncare professionals are encouraged to\ncounsel people with diabetes to usesleep-promoting routines and practices,such as establishing a regular bedtime\nand rise time, creating a dark, quiet\narea for sleep with temperature and hu-midity control, establishing a pre-sleeproutine, putting electronic devices (ex-cept diabetes management devices) in\nsilent/off mode, exercising during the\nday, avoiding daytime naps, limiting caf-feine and nicotine in the evening, avoid-ing spicy foods at night, and avoiding\nalcohol before bedtime (527).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "insulin resistance",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "sleep education",
+      "sleep hygiene",
+      "establishing a regular bedtime and rise time",
+      "creating a dark, quiet area for sleep with temperature and humidity control",
+      "establishing a pre-sleep routine",
+      "putting electronic devices (except diabetes management devices) in silent/off mode",
+      "exercising during the day",
+      "avoiding daytime naps",
+      "limiting caffeine and nicotine in the evening",
+      "avoiding spicy foods at night",
+      "avoiding alcohol before bedtime"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "insulin resistance"
+    ]
+  }
+}

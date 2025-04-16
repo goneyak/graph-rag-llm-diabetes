@@ -1,0 +1,35 @@
+{
+  "text": "if a person has special needs thatwould interfere with effective group partici-\npation, these should be identi \ufb01ed on the re-\nferral order. for medicaid, dsmes coveragevaries by state, but further guidance can befound at www.cdc.gov/diabetes-toolkit/php/\nreimbursement/medicare-reimbursement-\nguidelines.html.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "special needs"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "group participation",
+      "DSMES (Diabetes Self-Management Education and Support)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "special needs"
+    ]
+  }
+}

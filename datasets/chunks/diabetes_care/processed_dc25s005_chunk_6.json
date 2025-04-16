@@ -1,0 +1,29 @@
+{
+  "text": "e*a complete list of members of the american\ndiabetes association professional practice committeecan be found at https://doi.org/10.2337/dc25-sint. duality of interest information for each author is\navailable at https://doi.org/10.2337/dc25-sdis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

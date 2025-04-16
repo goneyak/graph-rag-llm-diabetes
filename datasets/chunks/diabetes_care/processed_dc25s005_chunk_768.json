@@ -1,0 +1,40 @@
+{
+  "text": "diabetes res clin pract 2022;189:109965\n391. vlachou e, ntikoudi a, owens da,\nnikolakopoulou m, chalimourdas t, cauli o.\neffectiveness of cognitive behavioral therapy-based interventions on psychological symptomsin adults with type 2 diabetes mellitus: an update\nreview of randomized controlled trials. j diabetes\ncomplications 2022;36:108185\n392. ni y-x, ma l, li j-p .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "psychological symptoms"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive behavioral therapy-based interventions",
+      "randomized controlled trials"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cognitive behavioral therapy-based interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus",
+      "psychological symptoms"
+    ]
+  }
+}

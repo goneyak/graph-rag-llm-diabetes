@@ -1,0 +1,36 @@
+{
+  "text": "routine (every visit with every per-\nson), thorough assessment of all typesof tobacco use is essential to prevent\ntobacco product initiation and promote\ncessation. evidence demonstrates signif-icant bene \ufb01ts to quitting smoking for all\npeople, resulting in a reduction and\neven reversal of adverse health effectsin addition to an increase in life expec-\ntancy by as much as a decade (317).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "routine assessment of all types of tobacco use"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "routine assessment of all types of tobacco use",
+      "prevent tobacco product initiation",
+      "promote cessation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "every visit"
+    ],
+    "Diseases": []
+  }
+}

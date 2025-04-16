@@ -1,0 +1,44 @@
+{
+  "text": "the relationship between executive functioning,\ntype 1 diabetes self-management behaviors, and\nglycemic control in adolescents and young adults.curr diab rep 2021;21:10\n488. miller al, albright d, bauer kw, et al. self-\nregulation as a protective factor for diabetesdistress and adherence in youth with type 1\ndiabetes during the covid-19 pandemic.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes-distress"
+    ],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "covid-19 pandemic"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "self-regulation",
+      "self-management behaviors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "during the COVID-19 pandemic"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetes-distress"
+    ]
+  }
+}

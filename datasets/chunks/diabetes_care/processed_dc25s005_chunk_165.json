@@ -1,0 +1,44 @@
+{
+  "text": "starting a conversation about weight\nmanagement should be based on moti-vational interviewing techniques (212)beginning with \ufb01rst asking the individual\nif they want to discuss their weight. health care professionals should neverassume that a person with overweightor obesity wants to discuss their weight\nat a medical appointment, especially if\nthe appointment is for a seemingly un-related issue (e.g., back pain, whichmany people do not realize is often sec-ondary to excess body weight).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "back"
+    ],
+    "Clinical Manifestations": [
+      "obesity",
+      "overweight",
+      "back pain"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "motivational interviewing techniques"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "overweight",
+      "obesity"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "motivational interviewing techniques"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "overweight",
+      "obesity",
+      "back pain"
+    ]
+  }
+}

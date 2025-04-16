@@ -1,0 +1,48 @@
+{
+  "text": ";\nstep 2 study group. semaglutide 2\u00b74 mg once aweek in adults with overweight or obesity, and\ntype 2 diabetes (step 2): a randomised, double-\nblind, double-dummy, placebo-controlled, phase3 trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "semaglutide 2\u00b74 mg once a week"
+    ],
+    "Examination Methods": [
+      "randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial"
+    ],
+    "Medication Name": [
+      "semaglutide 2.4 mg"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "once a week"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "once a week"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ]
+  }
+}

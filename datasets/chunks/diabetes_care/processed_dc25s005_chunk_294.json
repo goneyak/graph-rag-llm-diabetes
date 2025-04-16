@@ -1,0 +1,47 @@
+{
+  "text": "supporting positive health\nbehaviors\nrecommendation\n5.43 behavioral strategies should be\nused to support diabetes self-manage-ment and engagement in health be-haviors (e.g., taking medications, usingdiabetes technologies, and engagingin physical activity and healthy eating)to promote optimal health-related qual-ity of life and health outcomes. a\ngiven associations with glycemic outcomes\nand risk for future complications (341,342),\ndiabetes care professionals should support\npeople with diabetes engaging in health-\npromoting behaviors (preventive, treatment,and maintenance), including blood glucose\nmonitoring, taking insulin and medications,\nusing diabetes technologies, engaging in\nphysical activity, and making nutritional\nchanges.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods",
+    "required medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycemic outcomes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "blood glucose monitoring"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "behavioral strategies",
+      "diabetes self-management",
+      "physical activity",
+      "healthy eating",
+      "blood glucose monitoring",
+      "using diabetes technologies"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "taking insulin",
+      "taking medications"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

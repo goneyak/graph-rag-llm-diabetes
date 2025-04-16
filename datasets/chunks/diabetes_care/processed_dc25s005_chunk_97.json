@@ -1,0 +1,30 @@
+{
+  "text": "/c15plant-based proteins can include legumes (e.g., soybeans, pinto beans, black beans, garbanzo beans, dried peas, and lentils), nuts, and\nseeds. /c15meats and poultry should be from fresh, frozen, or low-sodium canned and in lean forms (e.g., chicken breast and ground turkey).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "plant-based proteins intake (legumes, nuts, seeds)",
+      "eating lean meats and poultry"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

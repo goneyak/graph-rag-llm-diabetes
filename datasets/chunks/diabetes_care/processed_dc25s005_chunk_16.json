@@ -1,0 +1,30 @@
+{
+  "text": "a randomized controlled trial(rct) that evaluated a decision-makingeducation and skill-building program (10)\nshowed that addressing these aims im-proved health outcomes in a population\nin need of health care resources. further-\nmore, following a dsmes curriculum im-proves quality of care (11).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "decision-making education and skill-building program",
+      "DSMES curriculum"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

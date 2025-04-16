@@ -1,0 +1,29 @@
+{
+  "text": "diabetes metab res rev 2011;27:639 \u2013\n653\n3 1 0 . p o p - b u s u ir ,e v a n sg w ,g e r s t e i nh c ,e ta l .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

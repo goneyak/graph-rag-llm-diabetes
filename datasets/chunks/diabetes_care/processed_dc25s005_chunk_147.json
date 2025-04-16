@@ -1,0 +1,34 @@
+{
+  "text": "however, the safety\nand role of nns continue to be sourcesof concern and confusion for the public. for some people with diabetes who\nare accustomed to regularly consumingsugar-sweetened foods or beverages (e.g.,regular soda pop, juice drinks, and otheritems sweetened with cane sugar or\nhigh-fructose corn syrup), nns may bean acceptable substitute for nutritivesweeteners (those containing calories,such as sugar, honey, and agave syrup)\nwhen consumed in moderation (174).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "consuming non-nutritive sweeteners as substitute for nutritive sweeteners"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

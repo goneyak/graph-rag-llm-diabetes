@@ -1,0 +1,41 @@
+{
+  "text": "a pilot study of a virtually delivered dissonance-based eating disorder prevention program foryoung women with type 1 diabetes: within-\nsubject changes over 6-month follow-up. eat\ndisord 2024:1 \u201317\n468. stice e, wisting l, desjardins cd, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorder"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "virtually delivered dissonance-based eating disorder prevention program"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "eating disorder"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "virtually delivered dissonance-based eating disorder prevention program"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "6-month follow-up"
+    ],
+    "Diseases": [
+      "eating disorder",
+      "type 1 diabetes"
+    ]
+  }
+}

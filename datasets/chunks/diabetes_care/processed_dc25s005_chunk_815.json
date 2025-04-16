@@ -1,0 +1,46 @@
+{
+  "text": "effectiveness of\nintervention program on the change of glycaemic\ncontrol in diabetes with depression patients: ameta-analysis of randomized controlled studies.prim care diabetes 2021;15:428 \u2013434\n447. ellis d, carcone ai, templin t, et al. moderating effect of depression on glycemiccontrol in an ehealth intervention among blackyouth with type 1 diabetes: \ufb01ndings from a\nmulticenter randomized controlled trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [
+      "glycaemic control",
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "intervention program",
+      "eHealth intervention",
+      "randomized controlled trial",
+      "meta-analysis of randomized controlled studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intervention program",
+      "eHealth intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes with depression",
+      "depression",
+      "type 1 diabetes",
+      "glycemic control"
+    ]
+  }
+}

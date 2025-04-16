@@ -1,0 +1,45 @@
+{
+  "text": "the\nmediterranean eating pattern is based on\nthe traditional eating habits in the countries\nbordering the mediterranean sea. althougheating styles vary by country and culture,they share a number of common features,\nincluding consumption of fresh fruits andvegetables, whole grains, beans, and nuts/seeds; olive oil as the primary fat source;low to moderate amounts of \ufb01s h ,e g g s ,a n d\npoultry; and limited added sugars, sugary\nbeverages, sodium, highly processed foods,re\ufb01ned carbohydrates, saturated fats, and\nfatty or processed meats.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "mediterranean eating pattern",
+      "consumption of fresh fruits and vegetables",
+      "consumption of whole grains",
+      "consumption of beans",
+      "consumption of nuts/seeds",
+      "olive oil as the primary fat source",
+      "low to moderate amounts of fish",
+      "low to moderate amounts of eggs",
+      "low to moderate amounts of poultry",
+      "limited added sugars",
+      "limited sugary beverages",
+      "limited sodium",
+      "limited highly processed foods",
+      "limited refined carbohydrates",
+      "limited saturated fats",
+      "limited fatty or processed meats"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

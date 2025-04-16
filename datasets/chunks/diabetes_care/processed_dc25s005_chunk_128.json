@@ -1,0 +1,55 @@
+{
+  "text": "how-\never, results from the reduction of car-\ndiovascular events with icosapent ethyl-intervention trial (reduce-it) found thatsupplementation with 4 g/day of pure ei-cosapentaenoic acid signi \ufb01cantly lowered\nthe risk of adverse cardiovascular events. reduce-it included 8,179 participants, ofwhom over 50% had diabetes, and founda 5% absolute reduction in cardiovascular\nevents for individuals with established\natherosclerotic cvd already treated witha statin with residual hypertriglyceridemia\n(135\u2013499 mg/dl [1.52 \u20135.63 mmol/l])\n(147).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "hypertriglyceridemia",
+      "atherosclerotic cvd"
+    ],
+    "Examination Indicators": [
+      "triglyceridemia (135\u2013499 mg/dl [1.52\u20135.63 mmol/l])"
+    ],
+    "Medication Dosage": [
+      "4 g/day of pure eicosapentaenoic acid"
+    ],
+    "Examination Methods": [
+      "reduce-it (reduction of cardiovascular events with icosapent ethyl-intervention trial)"
+    ],
+    "Medication Name": [
+      "icosapent ethyl",
+      "eicosapentaenoic acid",
+      "statin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "4 g/day"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "135\u2013499 mg/dl [1.52\u20135.63 mmol/l] triglyceride levels"
+    ],
+    "Medication Methods": [
+      "supplementation with 4 g/day of pure eicosapentaenoic acid"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular events",
+      "diabetes",
+      "atherosclerotic cvd",
+      "hypertriglyceridemia"
+    ]
+  }
+}

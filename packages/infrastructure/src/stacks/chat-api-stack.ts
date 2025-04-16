@@ -5,14 +5,18 @@ import * as apigateway from 'aws-cdk-lib/aws-apigateway';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as path from 'path';
 
+export interface ChatApiStackProps extends cdk.StackProps {
+  environment: string;
+}
+
 export class ChatApiStack extends cdk.Stack {
   public readonly apiEndpoint: string;
 
-  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+  constructor(scope: Construct, id: string, props: ChatApiStackProps) {
     super(scope, id, props);
 
-    // Get environment values from context
-    const environment = this.node.tryGetContext('environment') || 'dev';
+    // Get environment values from props
+    const { environment } = props;
 
     // Create the Lambda function for the chat API
     const chatLambda = new lambda.Function(this, 'ChatLambdaFunction', {

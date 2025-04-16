@@ -1,0 +1,39 @@
+{
+  "text": "veri\ufb01cation of 2021 idf-dar risk assessment tool\nfor fasting ramadan in patients with diabetes\nattending primary health care in the kingdom ofbahrain: the dar-bah study. diabetes res clinpract 2024;211:111661\n236. hassanein m, hussein z, shaltout i, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "IDF-DAR risk assessment tool",
+      "DAR-BAH study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "fasting Ramadan"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2021"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

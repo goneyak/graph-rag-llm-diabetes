@@ -1,0 +1,42 @@
+{
+  "text": "j hum nutr diet 2024;\n37:550 \u2013563\n205. prinz n, schwandt a, becker m, et al. trajectories of body mass index from childhoodto young adulthood among patients with type 1\ndiabetes-a longitudinal group-based modeling\napproach based on the dpv registry.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [
+      "body mass index",
+      "BMI trajectories"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "longitudinal group-based modeling approach",
+      "DPV registry"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "from childhood to young adulthood"
+    ],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

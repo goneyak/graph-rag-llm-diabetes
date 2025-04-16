@@ -1,0 +1,33 @@
+{
+  "text": "conse-\nquently, avoiding intense physical activity\nduring the last few hours of fasting seemsto be a sensible approach. during religious fasting, some people\nchange their nutrition habits and overindulge\nafter fasting concludes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "avoiding intense physical activity during the last few hours of fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "during the last few hours of fasting",
+      "during religious fasting"
+    ],
+    "Diseases": []
+  }
+}

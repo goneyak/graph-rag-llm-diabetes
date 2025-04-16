@@ -1,0 +1,40 @@
+{
+  "text": "multicomponent behavior change\ninterventions have the highest ef \ufb01cacy\nfor behavioral and glycemic outcomes(346,348). for youth with diabetes, family-\nbased behavioral intervention packagesdiabetesjournals.org/care facilitating positive health behaviors and well-being s105downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nand interventions that address multiple\nareas of the person \u2019s life (i.e., multisystem\ninterventions) demonstrate bene \ufb01ts for\nincreasing management behaviors and\nimproving glycemic outcomes (349).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic outcomes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "behavioral intervention packages",
+      "multicomponent behavior change interventions",
+      "multisystem interventions"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "multicomponent behavior change interventions",
+      "family-based behavioral intervention packages",
+      "multisystem interventions",
+      "interventions that address multiple areas of the person's life"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "in type 2 di-\nabetes, 24 \u201386% of people are estimated\nto have osa (508), 39% to have insomnia,\nand 8 \u201345% to have restless leg syndrome\n( i . e .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "osa (508)",
+      "insomnia",
+      "restless leg syndrome"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "24-86% of people with type 2 diabetes have OSA",
+      "39% have insomnia",
+      "8-45% have restless leg syndrome"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "OSA (obstructive sleep apnea)",
+      "insomnia",
+      "restless leg syndrome"
+    ]
+  }
+}

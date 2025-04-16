@@ -1,0 +1,48 @@
+{
+  "text": "people with diabetes should be ad-\nvised to follow the guidelines for the\ngeneral population for the recommendedintakes of saturated fat, cholesterol, andtrans fat (76). in a 12-week double-blinded\nrandomized controlled feeding study\namong 61 adults with overweight andobesity, without diabetes, higher intakeso fs a t u r a t e df a t ,c o m p a r e dw i t hp o l y -\nunsaturated fat, were found to increase\nliver fat deposition (140).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "liver"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "liver fat deposition"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "12-week double-blinded randomized controlled feeding study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "liver fat deposition"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "higher intakes of saturated fat"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Guidelines for the general population for recommended intakes of saturated fat, cholesterol, and trans fat"
+    ],
+    "Pathogenesis": [
+      "Higher intakes of saturated fat, compared with polyunsaturated fat, were found to increase liver fat deposition"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "12-week"
+    ],
+    "Diseases": [
+      "diabetes",
+      "overweight",
+      "obesity"
+    ]
+  }
+}

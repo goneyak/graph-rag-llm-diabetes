@@ -1,0 +1,48 @@
+{
+  "text": "people\nwith schizophrenia and other thought dis-orders who are prescribed antipsychoticmedications should be monitored for pre-diabetes and type 2 diabetes because ofthe known comorbidity. changes in bodyweight, glycemia, and lipids should bemonitored every 12 \u201316 weeks, unless clin-\nically indicated to be monitored sooner\n(475).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "necessary tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "schizophrenia",
+      "thought disorders",
+      "pre-diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "changes in body weight",
+      "changes in glycemia",
+      "changes in lipids"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "monitoring every 12-16 weeks"
+    ],
+    "Medication Name": [
+      "antipsychotic medications"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "every 12-16 weeks"
+    ],
+    "Diseases": [
+      "schizophrenia",
+      "thought disorders",
+      "pre-diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

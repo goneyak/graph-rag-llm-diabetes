@@ -1,0 +1,34 @@
+{
+  "text": "therefore, protein intakegoals should be individualized based on\ncurrent eating patterns. some research has\nfound successful management of type 2 di-abetes with meal plans including slightlyhigher levels of protein (20 \u201330%), which\nmay contribute to increased satiety (128).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "protein intake goals should be individualized based on current eating patterns",
+      "meal plans including slightly higher levels of protein (20-30%)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "protein levels of 20-30%"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

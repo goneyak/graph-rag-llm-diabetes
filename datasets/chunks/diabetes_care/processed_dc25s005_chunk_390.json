@@ -1,0 +1,51 @@
+{
+  "text": "long-term diabetes\n(type 1 or type 2) has been associated\nwith cognitive decline (481,482). in peo-\nple with type 1 diabetes, the following\nfactors have been linked with cognitive im-\npairment: diabetes-speci \ufb01cf a c t o r s( e .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "concurrent_diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cognitive/brain"
+    ],
+    "Clinical Manifestations": [
+      "cognitive decline",
+      "cognitive impairment"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "cognitive decline",
+      "cognitive impairment"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "long-term diabetes",
+      "diabetes-specific factors"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "diabetes-specific factors"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "diabetes (type 1 or type 2)",
+      "cognitive decline",
+      "cognitive impairment",
+      "type 1 diabetes"
+    ]
+  }
+}

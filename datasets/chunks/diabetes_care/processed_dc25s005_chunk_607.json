@@ -1,0 +1,54 @@
+{
+  "text": "n engl j med 2011;\n365:1597 \u20131604\n210. li l, soll d, leupelt v, spranger j, mai k.\nweight loss-induced improvement of bodyweight and insulin sensitivity is not ampli \ufb01ed bys118 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\na subsequent 12-month weight maintenance\nintervention but is predicted by adaption of\nadipose atrial natriuretic peptide system: 48-month results of a randomized controlled trial.bmc med 2022;20:238\n211. tomah s, zhang h, al-badri m, et al. long-\nterm effect of intensive lifestyle intervention on\ncardiometabolic risk factors and microvascular\ncomplications in patients with diabetes in real-world clinical practice: a 10-year longitudinalstudy.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "adipose"
+    ],
+    "Clinical Manifestations": [
+      "weight loss",
+      "insulin sensitivity"
+    ],
+    "Examination Indicators": [
+      "cardiometabolic risk factors",
+      "microvascular complications"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "longitudinal study",
+      "randomized controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intensive lifestyle intervention",
+      "weight loss intervention",
+      "weight maintenance intervention"
+    ],
+    "Pathogenesis": [
+      "adaptation of adipose atrial natriuretic peptide system"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "12-month",
+      "48-month",
+      "10-year longitudinal study"
+    ],
+    "Diseases": [
+      "diabetes",
+      "cardiometabolic risk factors",
+      "microvascular complications"
+    ]
+  }
+}

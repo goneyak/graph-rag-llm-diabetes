@@ -1,0 +1,32 @@
+{
+  "text": "additionally, excessive alcohol intakeshould be avoided when taking sglt2 in-hibitors (110). regardless of the amount of carbohy-\ndrate in the meal plan, focus should be\nplaced on high-quality, minimally proc-essed, nutrient-dense carbohydrate sour-ces high in \ufb01ber.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "sglt2 inhibitors"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "focus on high-quality, minimally processed, nutrient-dense carbohydrate sources high in fiber",
+      "avoiding excessive alcohol intake"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

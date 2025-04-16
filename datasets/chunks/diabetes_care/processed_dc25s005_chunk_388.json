@@ -1,0 +1,53 @@
+{
+  "text": "qualitative re-\nsearch suggests that educational and be-\nhavioral interventions provide bene \ufb01tv i a\ngroup support, accountability, and assis-\ntance with applying diabetes knowledge\n(479). cognitive capacity and impairment\nrecommendations\n5.58 cognitive capacity should be\nmonitored throughout the life span\nfor all individuals with diabetes, partic-\nularly in those who have documentedcognitive disabilities, those who experi-ence severe hypoglycemia, very youngchildren, and older adults.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "severe hypoglycemia"
+    ],
+    "Examination Indicators": [
+      "cognitive capacity",
+      "cognitive impairment",
+      "cognitive disabilities"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "monitoring cognitive capacity throughout the life span"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "severe hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "severe"
+    ],
+    "Non-Medication Treatment": [
+      "educational interventions",
+      "behavioral interventions",
+      "group support",
+      "accountability",
+      "assistance with applying diabetes knowledge",
+      "monitoring cognitive capacity throughout life span"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "throughout the life span"
+    ],
+    "Diseases": [
+      "diabetes",
+      "cognitive disabilities",
+      "severe hypoglycemia"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "pediatr pulmonol 2022;57:\n1835 \u20131850\n502. lee swh, ng ky , chin wk. the impact of\nsleep amount and sleep quality on glycemiccontrol in type 2 diabetes: a systematic review andmeta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic control",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "sleep amount",
+      "sleep quality"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

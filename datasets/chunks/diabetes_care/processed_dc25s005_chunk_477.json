@@ -1,0 +1,35 @@
+{
+  "text": "diabetes technology resources forhealthcare professionals. accessed 13 september\n2024. available from https://www.adces.org/\neducation/danatech/home\n69. h.r.2617 - 117th congress (2021-2022):\nconsolidated appropriations act, 2023.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes technology resources"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2021-2022",
+      "2023"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

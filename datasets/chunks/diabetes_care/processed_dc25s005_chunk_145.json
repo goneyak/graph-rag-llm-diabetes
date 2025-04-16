@@ -1,0 +1,42 @@
+{
+  "text": "to reduce risk of alco-\nhol-related harms, adults can choose not\nto drink or to drink in moderation by lim-iting intake to #2d r i n k sad a yf o rm e n\nor#1 drink a day for women (one drink\nis equal to a 12-oz beer, a 5-oz glass ofwine, or 1.5 oz of distilled spirits) (76).recent meta-analyses have reportedthe previously recognized j-shaped re-\nlationship between alcohol intake and\nhealth risks likely varies by sex, obesitystatus, genetics, and alcohol intake be-haviors (170,171). a ymca-based psy-choeducational intervention tailored tothose with chronic conditions, including14- to 18-year-olds with type 1 diabetes,\nreported improvements in perceived\nrisks of alcohol intake.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods_to_avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "limit intake to 2 drinks a day for men",
+      "limit intake to 1 drink a day for women",
+      "one drink is equal to a 12-oz beer, a 5-oz glass of wine, or 1.5 oz of distilled spirits"
+    ],
+    "Examination Methods": [
+      "YMCA-based psychoeducational intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "limiting intake to 2 drinks a day for men or 1 drink a day for women",
+      "YMCA-based psychoeducational intervention tailored to those with chronic conditions"
+    ],
+    "Pathogenesis": [
+      "j-shaped relationship between alcohol intake and health risks varies by sex, obesity status, genetics, and alcohol intake behaviors"
+    ],
+    "Examination Indicator Values": [
+      "one drink is equal to a 12-oz beer, a 5-oz glass of wine, or 1.5 oz of distilled spirits"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

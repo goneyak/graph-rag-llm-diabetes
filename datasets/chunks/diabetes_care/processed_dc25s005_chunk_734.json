@@ -1,0 +1,44 @@
+{
+  "text": "effect of a comprehensive telehealth\nintervention vs telemonitoring and care co-\nordination in patients with persistently poor type 2diabetes control: a randomized clinical trial. jamaintern med 2022;182:943 \u2013952\n354. harris ma, freeman ka, duke dc.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "poor type 2 diabetes control"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "telehealth intervention",
+      "telemonitoring",
+      "care co-ordination"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "persistently poor type 2 diabetes control"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "persistently poor"
+    ],
+    "Non-Medication Treatment": [
+      "comprehensive telehealth intervention",
+      "telemonitoring",
+      "care coordination"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "persistently poor type 2 diabetes control"
+    ]
+  }
+}

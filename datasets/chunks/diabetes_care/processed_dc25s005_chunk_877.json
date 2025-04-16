@@ -1,0 +1,39 @@
+{
+  "text": "lancet\ndiabetes endocrinol 2018;6:60 \u201368\n520. carreon sa, cao vt, anderson bj,\nthompson di, marrero dg, hilliard me. \u2019id o n \u2019t\nsleep through the night \u2019: qualitative study of\nsleep in type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep disruption",
+      "sleep problems"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "qualitative study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "through the night"
+    ],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

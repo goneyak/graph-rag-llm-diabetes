@@ -1,0 +1,32 @@
+{
+  "text": "continuation of reim-\nbursement for dsmes telehealth serv-ices is expected through the end of2025, after which cms is likely to rein-\nstate limitations on the number of\ntimes certain services in high-acuity set-tings may be performed via telehealth.during this time, cms will continue to\nevaluate whether the removal of these\nfrequency limitations should be madepermanent (70). dsmes uses an evidence-based cur-\nriculum designed to educate people with\ndiabetes about all elements from the na-\ntional standards for dsmes, as describedabove, that can be delivered and billedby a variety of health care professionalson the diabetes care team.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES telehealth services",
+      "DSMES uses an evidence-based curriculum designed to educate people with diabetes"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "continuation of reimbursement for DSMES telehealth services is expected through the end of 2025"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

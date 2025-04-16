@@ -1,0 +1,34 @@
+{
+  "text": "secondary analysis of a systematic\nreview. bmj open 2018;8:e018826\n34. attridge m, creamer j, ramsden m, cannings-\njohn r, hawthorne k. culturally appropriate healtheducation for people in ethnic minority groupswith type 2 diabetes mellitus.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "culturally appropriate health education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "psychological interventions to improve self-management of type 1 and type 2 diabetes: asystematic review. health technol assess 2020;24:1\u2013232\n24. davidson p , lamanna j, davis j, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "psychological interventions",
+      "self-management"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

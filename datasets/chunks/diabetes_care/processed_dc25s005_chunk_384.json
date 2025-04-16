@@ -1,0 +1,48 @@
+{
+  "text": "serious mental illness is often as-sociated with the inability to evaluateand apply information to make judg-ments about treatment options. for aperson with an established diagnosis ofa mental illness affecting judgment, ac-tivities of daily living, and the ability tocollaborate with care professionals, in-cluding a nonmedical caretaker, in treat-ment decision-making is bene \ufb01cial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "serious mental illness",
+      "inability to evaluate and apply information to make judgments",
+      "affecting judgment",
+      "affecting activities of daily living",
+      "affecting ability to collaborate with care professionals"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "serious mental illness",
+      "mental illness affecting judgment"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "serious"
+    ],
+    "Non-Medication Treatment": [
+      "including a nonmedical caretaker in treatment decision-making"
+    ],
+    "Pathogenesis": [
+      "mental illness affecting judgment",
+      "mental illness affecting activities of daily living",
+      "mental illness affecting ability to collaborate with care professionals"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "serious mental illness"
+    ]
+  }
+}

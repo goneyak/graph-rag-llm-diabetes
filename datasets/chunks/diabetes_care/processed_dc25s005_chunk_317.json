@@ -1,0 +1,33 @@
+{
+  "text": "health\ncare professionals should identify and refer\nto behavioral health professionals knowl-\nedgeable about diabetes and psychosocial\ncare. the ada provides a list of behavioral\nhealth professionals who have specialized\nexpertise or who have received educationabout psychosocial and behavioral issues\nrelated to diabetes in the ada mental\nhealth professional directory (professional.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "referral to behavioral health professionals",
+      "psychosocial care"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

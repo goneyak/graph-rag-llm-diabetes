@@ -1,0 +1,42 @@
+{
+  "text": "diabetologia2018;61:1978 \u20131984\n552. lustman pj, anderson rj, freedland ke, de\ngroot m, carney rm, clouse re. depression and\npoor glycemic control: a meta-analytic review ofthe literature.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "poor glycemic control"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analytic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "depression"
+    ],
+    "Severity": [
+      "poor glycemic control"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "poor glycemic control"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "text": "more recently, how-ever, a meta-analysis of large cohorts($100,000 participants) reported that\nwhen people had larger intakes of\nhigh glycemic index foods, there was\nincreased incidence of type 2 diabetes(risk ratio 1.27 [95% ci 1.21 \u20131.34];\np<0.0001), total cvd (1.15 [1.11 \u20131.19];\np<\n0.0001), diabetes-related cancer\n(1.05 [1.02 \u20131.08]; p= 0.0010), and all-\ncause mortality (1.08 [1.05 \u20131.12]; p<\n0.0001) (118). it is important to note that\n\u201clow glycemic index \u201dor\u201clow glycemic\nload\u201dis synonymous with high- \ufb01ber eating\npatterns.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "foods_to_avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "larger intakes of high glycemic index foods",
+      "increased incidence of type 2 diabetes (risk ratio 1.27 [95% CI 1.21-1.34]; p<0.0001)",
+      "total CVD (1.15 [1.11-1.19]; p<0.0001)",
+      "diabetes-related cancer (1.05 [1.02-1.08]; p=0.0010)",
+      "all-cause mortality (1.08 [1.05-1.12]; p<0.0001)"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analysis of large cohorts (\u2265100,000 participants)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "high glycemic index foods"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "risk ratio 1.27 [95% CI 1.21-1.34]; p<0.0001 for type 2 diabetes",
+      "risk ratio 1.15 [1.11-1.19]; p<0.0001 for total CVD",
+      "risk ratio 1.05 [1.02-1.08]; p=0.0010 for diabetes-related cancer",
+      "risk ratio 1.08 [1.05-1.12]; p<0.0001 for all-cause mortality"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "CVD (cardiovascular disease)",
+      "diabetes-related cancer"
+    ]
+  }
+}

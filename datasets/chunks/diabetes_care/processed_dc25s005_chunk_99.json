@@ -1,0 +1,31 @@
+{
+  "text": "/c15use herbs (e.g., basil, fennel, mint, parsley, rosemary, and thyme) and spices (e.g., cinnamon, garam masala, ginger, pepper, and turmeric)\nto season foods instead of salt or salt-containing preparations. /c15incorporate onions, garlic, celery, carrots, and other vegetables as a base for preparing various homemade foods.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended_foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Use herbs (basil, fennel, mint, parsley, rosemary, thyme) instead of salt",
+      "Use spices (cinnamon, garam masala, ginger, pepper, turmeric) instead of salt",
+      "Incorporate onions, garlic, celery, carrots, and other vegetables as food base"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

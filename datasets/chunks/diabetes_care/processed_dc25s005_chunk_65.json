@@ -1,0 +1,51 @@
+{
+  "text": "method\nor strategy to individualize a desiredeating pattern and provide practicaltools for developing healthy eating pat-\nterns. examples of dietary approaches\ninclude the plate method, carbohydratechoice, carbohydrate counting, andhighly individualized behavioral ap-proaches (85).table 5.1 \u2014nutrition therapy recommendations\nrecommendations\nprovide medical nutrition therapy 5.10 an individualized medical nutrition therapy program, as needed to achieve treatment goals\nand provided by a registered dietitian nutritionist, preferably one who has comprehensiveknowledge and experience in diabetes care, is recommended for all people with type 1 or\ntype 2 diabetes, prediabetes, and gestational diabetes mellitus.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "plate method",
+      "carbohydrate choice",
+      "carbohydrate counting",
+      "highly individualized behavioral approaches",
+      "medical nutrition therapy"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "prediabetes",
+      "gestational diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "medical nutrition therapy",
+      "plate method",
+      "carbohydrate choice",
+      "carbohydrate counting",
+      "individualized behavioral approaches",
+      "individualized medical nutrition therapy program"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "prediabetes",
+      "gestational diabetes mellitus"
+    ]
+  }
+}

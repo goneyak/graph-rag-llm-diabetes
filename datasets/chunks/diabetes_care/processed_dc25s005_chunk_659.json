@@ -1,0 +1,35 @@
+{
+  "text": "phys ther 2009;89:884\u2013892\n270. janssen i, leblanc ag. systematic review of\nthe health bene \ufb01ts of physical activity and \ufb01tnessin school-aged children and youth.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity",
+      "fitness"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "school-aged"
+    ],
+    "Diseases": []
+  }
+}

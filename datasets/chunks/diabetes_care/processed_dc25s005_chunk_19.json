@@ -1,0 +1,36 @@
+{
+  "text": "dsmes includes collab-\norative goal setting that improves empow-\nerment, self-management, and quality of\nlife as the person with diabetes encounters\nnew challenges and as advances in treat-ment become available (12 \u201314). moreover,\ndsmes should be thought of as an ongo-\ning process \u2014not a one-time occurrence.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "collaborative goal setting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "ongoing process",
+      "not a one-time occurrence"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

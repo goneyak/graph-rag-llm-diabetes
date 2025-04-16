@@ -1,0 +1,53 @@
+{
+  "text": "for many individuals with overweight\nor obesity alongside type 2 diabetes, atleast 5% weight loss is needed to achievebene\ufb01cial outcomes in glycemic manage-\nment, lipids, and blood pressure (192).however, any magnitude of weight loss is\nrecommended. it also should be notedthat the clinical bene \ufb01ts of weight loss are\nprogressive, and more intensive weightloss goals (i.e., 15%) may be appropriate\nto maximize bene \ufb01t depending on need,\nfeasibility, and safety (193,194).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "glycemic management",
+      "lipids",
+      "blood pressure"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "overweight",
+      "obesity"
+    ],
+    "Severity": [
+      "any magnitude of weight loss",
+      "atleast 5% weight loss",
+      "more intensive weight loss goals (i.e., 15%)"
+    ],
+    "Non-Medication Treatment": [
+      "weight loss",
+      "5% weight loss",
+      "more intensive weight loss goals (i.e., 15%)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ]
+  }
+}

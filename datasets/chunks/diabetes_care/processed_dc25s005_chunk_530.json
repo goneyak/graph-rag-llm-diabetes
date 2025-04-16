@@ -1,0 +1,33 @@
+{
+  "text": "endocr rev 2023;44:254 \u2013280\n127. lesser li. in adults at cv risk, medi-\nterranean-style or low-fat dietary programs vs.\nminimal interventions reduce all-cause mortality.ann intern med 2023;176:jc78\n128. ley sh, hamdy o, mohan v, hu fb.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Mediterranean-style dietary programs",
+      "low-fat dietary programs"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular risk"
+    ]
+  }
+}

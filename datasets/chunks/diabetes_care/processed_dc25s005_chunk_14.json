@@ -1,0 +1,37 @@
+{
+  "text": "the overall objectives of dsmes are to\nsupport informed decision-making, self-care behaviors, problem-solving, and ac-tive collaboration with the health care\nteam to improve clinical outcomes,\nhealth status, and well-being in a cost-effective manner (2). dsmes services fa-cilitate the knowledge, decision-making,and skills mastery necessary for optimaldiabetes self-care and incorporate theneeds, goals, and life experiences of theperson with diabetes (9).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "informed decision-making",
+      "self-care behaviors",
+      "problem-solving",
+      "active collaboration with the health care team",
+      "knowledge, decision-making, and skills mastery necessary for optimal diabetes self-care"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

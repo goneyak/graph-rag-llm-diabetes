@@ -1,0 +1,42 @@
+{
+  "text": "diabetes res clin pract\n2023;204:110921\n417. hessler dm, fisher l, guzman s, et al. embark: a randomized, controlled trial comparingthree approaches to reducing diabetes distress and\nimproving hba1c in adults with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [
+      "HbA1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized, controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "three approaches to reducing diabetes distress"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "improving HbA1c"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "type 1 diabetes"
+    ]
+  }
+}

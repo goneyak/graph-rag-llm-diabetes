@@ -1,0 +1,40 @@
+{
+  "text": "lifestyle change andmobility in obese adults with type 2 diabetes. nengl j med 2012;366:1209 \u20131217\n267. colberg sr, sigal rj, yardley je, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "obesity"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "lifestyle change",
+      "mobility"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "obesity",
+      "type 2 diabetes"
+    ]
+  }
+}

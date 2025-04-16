@@ -1,0 +1,40 @@
+{
+  "text": "a causal link between cigarette smoking\nand diabetes has been established and\nreported on by the surgeon general forover a decade (311). results from epide-\nmiologic, case-control, and cohort studies\nprovide convincing evidence to support\nthe causal link between cigarette smok-\ning and multiple health risks that canhave a profound effect on morbidity and\nmortality for people with diabetes (311).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "epidemiologic studies",
+      "case-control studies",
+      "cohort studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "cigarette smoking (causal link to diabetes)",
+      "cigarette smoking (causal link to multiple health risks in people with diabetes)"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "causal link between cigarette smoking and diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "over a decade"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

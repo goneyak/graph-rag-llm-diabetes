@@ -1,0 +1,63 @@
+{
+  "text": "diabetic ketoacido-\nsis in individuals with type 1 diabetes\nusing cannabis is associated with canna-\nbis hyperemesis syndrome, which ismarked by severe nausea, abdominalpain, and vomiting (337 \u2013339). recom-\nmended diagnostic criteria for cannabis\nhyperemesis syndrome include a bloodglucose of $250 mg/dl, an anion gap of\n>10, a serum b-hydroxybutyrate level of\n>0.6 mmol/l, a ph level of $\n7.4, and a\nbicarbonate level of $15 mmol/l (339).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "abdomen"
+    ],
+    "Clinical Manifestations": [
+      "diabetic ketoacidosis",
+      "cannabis hyperemesis syndrome",
+      "severe nausea",
+      "abdominal pain",
+      "vomiting"
+    ],
+    "Examination Indicators": [
+      "blood glucose \u2265250 mg/dl",
+      "anion gap >10",
+      "serum \u03b2-hydroxybutyrate level >0.6 mmol/l",
+      "pH level \u22657.4",
+      "bicarbonate level \u226515 mmol/l"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetic ketoacidosis",
+      "cannabis hyperemesis syndrome"
+    ],
+    "Adverse Reactions": [
+      "severe nausea",
+      "abdominal pain",
+      "vomiting"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "cannabis use in individuals with type 1 diabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "diabetic ketoacidosis in individuals with type 1 diabetes using cannabis is associated with cannabis hyperemesis syndrome"
+    ],
+    "Examination Indicator Values": [
+      "blood glucose of \u2265250 mg/dl",
+      "anion gap of >10",
+      "serum \u03b2-hydroxybutyrate level of >0.6 mmol/l",
+      "pH level of \u22657.4",
+      "bicarbonate level of \u226515 mmol/l"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetic ketoacidosis",
+      "type 1 diabetes",
+      "cannabis hyperemesis syndrome"
+    ]
+  }
+}

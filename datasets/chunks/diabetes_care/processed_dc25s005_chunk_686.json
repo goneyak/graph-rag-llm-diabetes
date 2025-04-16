@@ -1,0 +1,41 @@
+{
+  "text": "clinical outcomes and glycaemic\nresponses to different aerobic exercise trainingintensities in type ii diabetes: a systematic reviewand meta-analysis. cardiovasc diabetol 2017;16:37\n301. aronson r, brown re, li a, riddell mc.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type II diabetes"
+    ],
+    "Examination Indicators": [
+      "glycaemic responses"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "aerobic exercise training",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type ii diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "aerobic exercise training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type II diabetes"
+    ]
+  }
+}

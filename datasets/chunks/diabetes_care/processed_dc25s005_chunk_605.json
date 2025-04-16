@@ -1,0 +1,45 @@
+{
+  "text": "j clin endocrinol\nmetab 2023;109:279 \u2013292\n208. franz mj, boucher jl, rutten-ramos s,\nvanwormer jj. lifestyle weight-loss interventionoutcomes in overweight and obese adults withtype 2 diabetes: a systematic review and meta-\nanalysis of randomized clinical trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "Overweight",
+      "Obese"
+    ],
+    "Non-Medication Treatment": [
+      "lifestyle weight-loss intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ]
+  }
+}

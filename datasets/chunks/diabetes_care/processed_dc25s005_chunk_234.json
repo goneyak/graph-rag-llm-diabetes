@@ -1,0 +1,36 @@
+{
+  "text": "thus, an active lifestyle should be recom-\nmended to all children and adolescentswith type 1 and type 2 diabetes (273). youth with type 1 diabetes who engage in\nmore physical activity may have better\nhealth outcomes and health-related qual-\nity of life (274,275).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "active lifestyle",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

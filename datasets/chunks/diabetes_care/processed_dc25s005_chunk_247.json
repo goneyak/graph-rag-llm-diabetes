@@ -1,0 +1,36 @@
+{
+  "text": "flexibility and balance\nexercises may be particularly important\nin older adults with diabetes for main-tenance of range of motion, strength,and balance (267) ( fig. 5.2 ).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "flexibility exercises",
+      "balance exercises"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "flexibility exercises",
+      "balance exercises"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "text": "in adults with type 2 diabe-tes, higher levels of exercise intensity are\nassociated with greater improvements in\na1c and in cardiorespiratory \ufb01tness (264);\nsustained improvements in cardiorespira-tory\ufb01tness and weight loss have also been\nassociated with a lower risk of heart failure(265). other bene \ufb01ts include slowing the\ndecline in mobility among people with dia-betes and overweight (266).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "heart"
+    ],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "heart failure",
+      "mobility decline"
+    ],
+    "Examination Indicators": [
+      "A1C levels",
+      "cardiorespiratory fitness"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise",
+      "higher levels of exercise intensity",
+      "sustained improvements in cardiorespiratory fitness",
+      "weight loss"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "improvements in A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "heart failure",
+      "diabetes",
+      "overweight"
+    ]
+  }
+}

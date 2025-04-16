@@ -1,0 +1,51 @@
+{
+  "text": "for people with type 2 diabetes, low-\ncarbohydrate and very-low-carbohydrate\neating patterns have been found to reduce\na1c and the need for glucose-lowering\nmedications (84,101 \u2013103). systematic re-\nv i e w sa n dm e t a - a n a l y s e so fr c t sf o u n d\ncarbohydrate-restricted eating patterns,\nparticularly those considered very low\ncarbohydrate ( <26% total energy), were\neffective in reducing a1c in the short\nterm (<6 months), with less difference ineating patterns beyond 1 year (84,104,105).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "elevated A1C"
+    ],
+    "Examination Indicators": [
+      "reduced A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic reviews",
+      "meta-analyses",
+      "RCTs"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-carbohydrate eating patterns",
+      "very-low-carbohydrate eating patterns",
+      "carbohydrate-restricted eating patterns",
+      "very low carbohydrate (<26% total energy)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "reduced A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "short term (<6 months)",
+      "beyond 1 year"
+    ],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

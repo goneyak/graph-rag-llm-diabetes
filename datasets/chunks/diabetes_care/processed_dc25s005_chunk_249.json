@@ -1,0 +1,61 @@
+{
+  "text": "if not\ncontraindicated, people with type 2 dia-betes should be encouraged to do atleast two weekly sessions of resistance\nexercise (free weights, machines, elastic\nbands, or body weight as resistance),with each session consisting of at leastone set (group of consecutive repetitive\nexercise motions) of \ufb01ve or more differ-\nent resistance exercises involving thelarge muscle groups (297). for people with type 1 diabetes, there\nc a nb eav a r i a b l eg l u c o s er e s p o n s et oe x e r -\ncise, possibly leading to hypoglycemia or hy-\nperglycemia.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "large muscle groups"
+    ],
+    "Clinical Manifestations": [
+      "hypoglycemia",
+      "hyperglycemia",
+      "variable glucose response to exercise"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "resistance exercise",
+      "free weights",
+      "machines",
+      "elastic bands",
+      "body weight as resistance"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "hypoglycemia",
+      "hyperglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "variable glucose response to exercise"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "resistance exercise (free weights, machines, elastic bands, or body weight as resistance)",
+      "at least two weekly sessions of resistance exercise",
+      "each session consisting of at least one set of five or more different resistance exercises involving the large muscle groups"
+    ],
+    "Pathogenesis": [
+      "variable glucose response to exercise in type 1 diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "weekly sessions",
+      "at least one set"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "type 1 diabetes",
+      "hypoglycemia",
+      "hyperglycemia"
+    ]
+  }
+}

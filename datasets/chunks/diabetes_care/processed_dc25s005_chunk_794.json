@@ -1,0 +1,41 @@
+{
+  "text": "bmj open diabetes res care\n2022;10\n422. lutes ld, cu mmings dm, littlewood k, et al. a tailored cognitive-behavioural intervention\nproduces comparable reductions in regimen-related distress in adults with type 2 diabetes\nregardless of insulin use: 12-month outcomes from\nthe comrade trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cognitive-behavioural intervention",
+      "tailored cognitive-behavioural intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin use"
+    ],
+    "Duration": [
+      "12-month"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "regimen-related distress"
+    ]
+  }
+}

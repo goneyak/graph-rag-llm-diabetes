@@ -1,0 +1,38 @@
+{
+  "text": "jama netw open 2022;5:e229975\n13. cheng l, sit jwh, choi k-c, et al. the effects of\nan empowerment-based self-management inter-vention on empowerment level, psychologicaldistress, and quality of life in patients with poorly\ncontrolled type 2 diabetes: a randomized con-\ntrolled trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "poorly controlled type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "poorly controlled type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "poorly controlled"
+    ],
+    "Non-Medication Treatment": [
+      "empowerment-based self-management intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "psychological distress"
+    ]
+  }
+}

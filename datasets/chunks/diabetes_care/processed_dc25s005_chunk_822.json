@@ -1,0 +1,45 @@
+{
+  "text": "saha ck, shubrook jh, guyton hornsby w,\net al. program active ii: 6- and 12-month\noutcomes of a treatment approach for majordepressive disorder in adults with type 2 diabetes.j diabetes complications 2024;38:108666\n456. chen x, zhao p , wang w, guo l, pan q. the\nantidepressant effects of glp-1 receptor agonists:\na systematic review and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "major depressive disorder"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [
+      "GLP-1 receptor agonists"
+    ],
+    "Disease Staging and Classification": [
+      "Major depressive disorder in adults with type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Program Active II"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "6-month",
+      "12-month"
+    ],
+    "Diseases": [
+      "major depressive disorder",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "text": "currents104 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nrecommendations include both counsel-\ning and pharmacologic therapy to assistwith smoking cessation in nonpregnantadults (320). a secondary data analysisof the evaluating adverse events in a\nglobal smoking cessation study (eagles),\na randomized, double-blind, triple-dummy,placebo-controlled and active-controlledtrial, found varenicline to be the most\nef\ufb01cacious pharmacotherapy for peo-\nple with diabetes when compared withplacebo (321).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized, double-blind, triple-dummy, placebo-controlled and active-controlled trial"
+    ],
+    "Medication Name": [
+      "varenicline"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "counseling"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

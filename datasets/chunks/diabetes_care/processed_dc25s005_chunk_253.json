@@ -1,0 +1,52 @@
+{
+  "text": "in type 1 diabe-tes, hiit reduces a1c and insulin require-\nments and improves cardiometabolic risk\npro\ufb01les (299). variability in glucose may\noccur with an increased risk in delayedhypoglycemia, so careful monitoring of\nglucose during and after hiit is advised\n(299).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment",
+    "recommended_foods",
+    "foods_to_avoid",
+    "concurrent_diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "variability in glucose",
+      "delayed hypoglycemia"
+    ],
+    "Examination Indicators": [
+      "a1c",
+      "insulin requirements",
+      "cardiometabolic risk profiles"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "monitoring of glucose during and after HIIT"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "variability in glucose",
+      "delayed hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "HIIT (high-intensity interval training)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "during and after HIIT"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "delayed hypoglycemia"
+    ]
+  }
+}

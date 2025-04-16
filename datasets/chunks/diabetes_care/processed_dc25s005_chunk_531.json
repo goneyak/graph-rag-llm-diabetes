@@ -1,0 +1,44 @@
+{
+  "text": "prevention and management of type 2 diabetes:dietary components and nutritional strategies.lancet 2014;383:1999 \u20132007\n129. jiang s, fang j, li w. protein restriction for\ndiabetic kidney disease. cochrane database syst\nrev 2023;1:cd014906\n130. viguiliouk e, stewart se, jayalath vh, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidney"
+    ],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "diabetic kidney disease"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "diabetic kidney disease"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary components",
+      "nutritional strategies",
+      "protein restriction"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "diabetic kidney disease"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "text": "b\n5.25 advise people with diabetes and those at risk to replace sugar-sweetened beverages (including fruit juices)\nwith water or low-calorie or no-calorie beverages as much as possible to manage glycemia and reduce risk for\ncardiometabolic disease band minimize consumption of foods with added sugar that have the capacity to\ndisplace healthier, more nutrient-dense food choices. a\n5.26 regardless of diabetes classi \ufb01cation, individuals treated with sodium \u2013glucose cotransporter 2 inhibitors should\navoid a ketogenic eating pattern, be educated on the signs of ketoacidosis and methods of risk mitigation andprovided with appropriate tools for accurate ketone measurement (i.e., serum b-hydroxybutyrate), and be\ninstructed to avoid fasting and maintain appropriate insulin therapy.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemia",
+      "ketoacidosis"
+    ],
+    "Examination Indicators": [
+      "serum b-hydroxybutyrate",
+      "ketone measurement"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "ketone measurement"
+    ],
+    "Medication Name": [
+      "sodium-glucose cotransporter 2 inhibitors"
+    ],
+    "Disease Staging and Classification": [
+      "diabetes classification"
+    ],
+    "Adverse Reactions": [
+      "ketoacidosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "replace sugar-sweetened beverages with water or low-calorie or no-calorie beverages",
+      "minimize consumption of foods with added sugar",
+      "avoid a ketogenic eating pattern for individuals treated with sodium-glucose cotransporter 2 inhibitors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "serum b-hydroxybutyrate"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "cardiometabolic disease",
+      "ketoacidosis"
+    ]
+  }
+}

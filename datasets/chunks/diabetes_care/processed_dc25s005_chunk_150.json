@@ -1,0 +1,43 @@
+{
+  "text": "the additionof nns to eating plans poses no bene-\ufb01t for weight loss or reduced weight\ngain without energy restriction (184). in a recent systematic review and meta-analysis using low-calorie and no-caloriesweetened beverages as an intended\nsubstitute for sugar-sweetened bever-\nages, a small improvement in body weightand cardiometabolic risk factors was seenwithout evidence of harm and had a di-rection of bene \ufb01t similar to that seen\nwith water (185).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "weight loss",
+      "reduced weight gain"
+    ],
+    "Examination Indicators": [
+      "cardiometabolic risk factors"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "eating plans with non-nutritive sweeteners",
+      "low-calorie sweetened beverages",
+      "no-calorie sweetened beverages as sugar-sweetened beverage substitute"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "weight gain",
+      "cardiometabolic risk factors"
+    ]
+  }
+}

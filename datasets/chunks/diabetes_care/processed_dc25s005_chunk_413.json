@@ -1,0 +1,42 @@
+{
+  "text": "people with type 1 dia-betes and their family members alsodescribe diabetes management needs\ninterfering with sleep and experiencing\nworries about poor sleep (520). bothhelpful and challenging aspects of diabe-tes technology use have been describedin relation to sleep (520), with the great-\nest perceived bene \ufb01ts being related to au-\ntomated insulin delivery systems (521 \u2013523).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "poor sleep"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "automated insulin delivery systems"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes management",
+      "diabetes technology use",
+      "automated insulin delivery systems"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "automated insulin delivery systems"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

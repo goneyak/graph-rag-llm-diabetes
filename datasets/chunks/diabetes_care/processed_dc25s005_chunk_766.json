@@ -1,0 +1,50 @@
+{
+  "text": "the effect\nof family-based intervention for adults with\ndiabetes on hba1c and other health-relatedoutcomes: systematic review and meta-analysis.j clin nurs 2022;31:1488 \u20131501\n388. oyedeji ad, ullah i, weich s, bentall r,\nbooth a. effectiveness of non-specialist delivered\npsychological interventions on glycemic controland mental health problems in individuals withtype 2 diabetes: a systematic review and meta-\nanalysis. int j ment health syst 2022;16:9\n389. beverly ea, hultgren ba, brooks km, ritholz\nmd, abrahamson mj, weinger k. understandingphysicians \u2019challenges when treating type 2\ndiabetic patients \u2019social and emotional dif \ufb01culties:\na qualitative study.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "social and emotional difficulties"
+    ],
+    "Examination Indicators": [
+      "HbA1c",
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "qualitative study",
+      "psychological interventions"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "family-based intervention",
+      "psychological interventions",
+      "non-specialist delivered psychological interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "hba1c"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes",
+      "mental health problems"
+    ]
+  }
+}

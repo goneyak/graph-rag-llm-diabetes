@@ -1,0 +1,43 @@
+{
+  "text": "randomized trial of an integrated care interventionamong latino adults: sustained effects on diabetes\nmanagement. transl behav med 2024;14:310 \u2013318\n444. cannon a, handelsman y, heile m,\nshannon m. burden of illness in type 2 diabetesmellitus.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 2 diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized trial",
+      "integrated care intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "integrated care intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "sustained effects"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

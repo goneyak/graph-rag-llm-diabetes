@@ -1,0 +1,44 @@
+{
+  "text": "these \ufb01ndings highlight\nthe need for tobacco cessation treat-\nment that addresses eating and physical\nactivity needs. one study in people withnewly diagnosed type 2 diabetes whosmoke found that smoking cessation wasassociated with amelioration of microal-\nbuminuria and reduction in blood pres-\nsure after 1 year (324).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "microalbuminuria",
+      "high blood pressure"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "newly diagnosed type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "tobacco",
+      "smoking"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "tobacco cessation treatment",
+      "eating and physical activity needs"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "1 year"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "microalbuminuria"
+    ]
+  }
+}

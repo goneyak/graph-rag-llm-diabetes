@@ -1,0 +1,42 @@
+{
+  "text": "individual and group approachesare effective (22,39,40), with a slight ben-e\ufb01t realized by those who engage in both\n(19). strong evidence now exists for the\nbene\ufb01ts of telehealth, telemedicine, and\ntelephone-based or internet-based (i.e.,virtual) dsmes for diabetes prevention\nand management in a wide variety of\npopulations and age-groups (9,41 \u201344).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "telehealth",
+      "telemedicine",
+      "telephone-based",
+      "internet-based (virtual) DSMES"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "individual approaches",
+      "group approaches",
+      "telehealth",
+      "telemedicine",
+      "telephone-based DSMES",
+      "internet-based DSMES",
+      "virtual DSMES"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

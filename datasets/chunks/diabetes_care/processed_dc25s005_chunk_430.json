@@ -1,0 +1,39 @@
+{
+  "text": "; centers for\ndisease control and prevention (cdc). diabetes\nself-management education and training among\nprivately insured persons with newly diagnoseddiabetes \u2013united states, 2011-2012. mmwr morb\nmortal wkly rep 2014;63:1045 \u20131049\n17. hildebrand ja, billimek j, lee j-a, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes self-management education and training"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "newly diagnosed diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2011-2012"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

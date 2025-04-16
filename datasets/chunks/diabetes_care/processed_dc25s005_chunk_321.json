@@ -1,0 +1,43 @@
+{
+  "text": "evidence supports interventions for\npeople with diabetes and psychosocial\nconcerns, including issues that affectbehavioral health. successful therapeutic\napproaches include cognitive behavioral(369,390,391) and mindfulness-based ther-apies (392).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "psychosocial concerns",
+      "behavioral health issues"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive behavioral therapy",
+      "mindfulness-based therapies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "interventions for people with diabetes and psychosocial concerns",
+      "cognitive behavioral therapies",
+      "mindfulness-based therapies"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "psychosocial concerns",
+      "behavioral health issues"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "text": "exercise and youth\nyouth with diabetes or prediabetes should\nbe encouraged to engage in regular physi-\ncal activity, including at least 60 min ofmoderate-to-vigorous aerobic activity everyday and muscle- and bone-strengtheningactivities at least 3 days per week (270).structured exercise programs promotingnutrition modi \ufb01cation and increasing exer-\ncise in adolescents at risk for type 2 diabeteshave been shown to reduce risk of type 2 di-\nabetes development (271). in general, youth\nwith type 1 diabetes bene \ufb01tf r o mb e i n g\nphysically active, and meta-analyses have\ndemonstrated a signi \ufb01cant association be-\ntween physical activity and lower a1c (272).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "regular physical activity",
+      "at least 60 min of moderate-to-vigorous aerobic activity every day",
+      "muscle- and bone-strengthening activities at least 3 days per week",
+      "structured exercise programs",
+      "nutrition modification"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "lower A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "60 min every day",
+      "at least 3 days per week"
+    ],
+    "Diseases": [
+      "diabetes",
+      "prediabetes",
+      "type 2 diabetes",
+      "type 1 diabetes"
+    ]
+  }
+}

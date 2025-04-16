@@ -1,0 +1,39 @@
+{
+  "text": "both\nchildren and adults with diabetes are en-couraged to minimize intake of re \ufb01ned\ncarbohydrates with added sugars, fat, andsodium and instead focus on carbohy-\ndrates from vegetables, legumes, fruits,\ndairy (milk and yogurt) or forti \ufb01ed non-\ndairy alternatives, and whole grains. peo-ple with diabetes and those at risk for\ndiabetes are encouraged to consume a\nminimum of 14 g of \ufb01ber/1,000 kcal, with\nat least half of grain consumption beingwhole, intact grains, according to the die-\ntary guidelines for americans, 2020 \u20132025\n(76).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "minimize intake of refined carbohydrates with added sugars, fat, and sodium",
+      "focus on carbohydrates from vegetables, legumes, fruits, dairy (milk and yogurt) or fortified non-dairy alternatives, and whole grains",
+      "consume a minimum of 14 g of fiber/1,000 kcal",
+      "at least half of grain consumption being whole, intact grains"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "14 g of fiber/1,000 kcal"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "2020-2025"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "text": "curr\ndiabetes rev 2009;5:112\n\u2013119\n533. schmitt a, mcsharry j, speight j, et al. symptoms of depression and anxiety in adultswith type 1 diabetes: associations with self-carebehaviour, glycaemia and incident complications\nover four years - results from diabetes miles-\naustralia.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "symptoms of depression",
+      "anxiety"
+    ],
+    "Examination Indicators": [
+      "glycaemia",
+      "complications"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "Diabetes MILES-Australia"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "self-care behaviour"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "four years"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes",
+      "depression",
+      "anxiety",
+      "complications"
+    ]
+  }
+}

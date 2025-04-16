@@ -1,0 +1,40 @@
+{
+  "text": "more\nrigorous methods to identify underlying\nmechanisms of action that drive change\nin eating and treatment behaviors, as well\nas associated mental distress, are needed\n(470). health care teams may consider\nthe appropriateness of technology useamong people with diabetes and disor-\ndered eating behaviors, although more re-\nsearch on the risks and bene \ufb01ts is needed\n(471).",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorders",
+      "disordered eating behaviors",
+      "mental distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "rigorous methods to identify underlying mechanisms of action",
+      "technology use"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "technology use"
+    ],
+    "Pathogenesis": [
+      "underlying mechanisms of action that drive change in eating and treatment behaviors"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "disordered eating behaviors",
+      "mental distress"
+    ]
+  }
+}

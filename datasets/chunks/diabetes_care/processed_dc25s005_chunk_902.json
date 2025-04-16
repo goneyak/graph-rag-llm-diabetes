@@ -1,0 +1,42 @@
+{
+  "text": "impact of\ndiabetes distress on glycemic control and diabeticcomplications in type 2 diabetes mellitus. sci rep2024;14:5568\n548. young cf, mullin r, moverley ja, shubrook\njh.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "symptoms",
+    "complications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "glycemic control",
+      "diabetic complications"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes distress"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "glycemic control",
+      "diabetic complications",
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

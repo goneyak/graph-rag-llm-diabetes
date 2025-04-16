@@ -1,0 +1,37 @@
+{
+  "text": "jama netw open 2022;5:e2237960\n19. chrvala ca, sherr d, lipman rd. diabetes self-\nmanagement education for adults with type 2diabetes mellitus: a systematic review of the effecton glycemic control.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

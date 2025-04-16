@@ -1,0 +1,53 @@
+{
+  "text": "exercise training in type 1\ndiabetes may also improve several impor-tant markers such as triglyceride level,ldl cholesterol, waist circumference, andbody mass (262). structured exercise interventions of at\nleast 8 weeks have been shown to lowera1c by 0.66% in people with type 2 dia-betes, even without a signi \ufb01cant change\nin bmi (263).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "waist"
+    ],
+    "Clinical Manifestations": [
+      "elevated triglyceride level",
+      "elevated LDL cholesterol",
+      "increased waist circumference",
+      "increased body mass"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "exercise training",
+      "structured exercise interventions"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise training",
+      "structured exercise interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "a1c lowered by 0.66%"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "at least 8 weeks"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "text": "in t2dm with obesity, time-\nrestricted eating increased weight loss andreduced hba1c level at 6 mo. ann intern med2024;177:jc16\n218. varady ka, cienfuegos s, ezpeleta m, gabel\nk. clinical application of intermittent fasting for\nweight loss: progress and future directions.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "obesity",
+      "weight loss"
+    ],
+    "Examination Indicators": [
+      "reduced hba1c level at 6 mo"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "time-restricted eating",
+      "intermittent fasting"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "T2DM with obesity"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "time-restricted eating",
+      "intermittent fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "reduced hba1c level at 6 mo"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "6 mo"
+    ],
+    "Diseases": [
+      "t2dm",
+      "obesity"
+    ]
+  }
+}

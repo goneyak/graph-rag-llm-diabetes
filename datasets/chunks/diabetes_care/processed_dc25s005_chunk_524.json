@@ -1,0 +1,39 @@
+{
+  "text": "lancet diabetes\nendocrinol 2024;12:107 \u2013118\n119. thomas d, elliott ej. low glycaemic index,\nor low glycaemic load, diets for diabetes mellitus.cochrane database syst rev 2009:cd006296\n120. smith ta, smart ce, howley pp, lopez pe,\nking br.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes mellitus"
+    ],
+    "Examination Indicators": [
+      "low glycaemic index",
+      "low glycaemic load"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low glycaemic index diets",
+      "low glycaemic load diets"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes mellitus"
+    ]
+  }
+}

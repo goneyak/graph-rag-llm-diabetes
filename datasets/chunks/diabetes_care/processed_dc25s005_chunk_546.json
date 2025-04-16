@@ -1,0 +1,45 @@
+{
+  "text": "omega-3,omega-6, and total dietary polyunsaturated fat forprevention and treatment of type 2 diabetesmellitus: systematic review and meta-analysis of\nrandomised controlled trials. bmj 2019;366:l4697\n146. bowman l, mafham m, wallendszus k,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "randomised controlled trials"
+    ],
+    "Medication Name": [
+      "omega-3",
+      "omega-6",
+      "polyunsaturated fat"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary polyunsaturated fat"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "text": "effects of exercise on glycemic controland body mass in type 2 diabetes mellitus: a\nmeta-analysis of controlled clinical trials. jama\n2001;286:1218 \u20131227\n264. martland r, mondelli v, gaughran f,\nstubbs b. can high-intensity interval trainingimprove physical and mental health outcomes?",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "body"
+    ],
+    "Clinical Manifestations": [
+      "type 2 diabetes mellitus"
+    ],
+    "Examination Indicators": [
+      "glycemic control",
+      "body mass"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "controlled clinical trials",
+      "meta-analysis",
+      "high-intensity interval training"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise",
+      "high-intensity interval training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

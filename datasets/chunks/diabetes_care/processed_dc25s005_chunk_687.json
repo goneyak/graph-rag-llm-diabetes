@@ -1,0 +1,47 @@
+{
+  "text": "optimal insulin correction factor in post-high-\nintensity exercise hyperglycemia in adults withtype 1 diabetes: the fit study. diabetes care2019;42:10 \u201316\n302. bax jj, young lh, frye rl, bonow ro,\nsteinberg ho, barrett ej, ada.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hyperglycemia"
+    ],
+    "Examination Indicators": [
+      "insulin correction factor"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "high-intensity exercise"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "post-high-intensity exercise hyperglycemia"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "high-intensity exercise"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin correction factor"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "post-high-intensity exercise hyperglycemia"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "text": "for a high fat, high protein breakfast,\npreprandial administration of 125% of the insulindose improves postprandial glycaemic excursionsin people with type 1 diabetes using multiple\ndaily injections: a cross-over trial. diabet med\n2021;38:e14512\n121. bell kj, fio cz, twigg s, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "postprandial glycaemic excursions"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "125% of the insulin dose",
+      "preprandial administration"
+    ],
+    "Examination Methods": [
+      "cross-over trial"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "multiple daily injections"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "high fat, high protein breakfast"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "125% of the insulin dose"
+    ],
+    "Medication Methods": [
+      "multiple daily injections"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

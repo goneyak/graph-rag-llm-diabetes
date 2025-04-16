@@ -1,0 +1,68 @@
+{
+  "text": "an rct of cbt\nfor adults with type 2 diabetes showed areduction in health anxiety, with cbt ac-counting for 77% of the reduction in health\nanxiety at 16 weeks of follow-up; this trial\nalso found decreased depressive symptomsand diabetes distress (435). additionally, anrct showed switching from iscgm without\nalerts to rtcgm with alert functionality in\nadults with type 1 diabetes decreased hy-poglycemia-related anxiety at 24 monthsof follow-up while reducing a1c (436).similarly, a systematic review and meta-\nanalysis found that people with type 1 dia-\nbetes using diabetes technologies, speci \ufb01-\ncally rtcgm, sensor-augmented pumps,and automated insulin delivery, reported\ndecreased fear of hypoglycemia indepen-\ndent of the reduction of hypoglycemia fre-quency (437).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "health anxiety",
+      "depressive symptoms",
+      "diabetes distress",
+      "hypoglycemia-related anxiety",
+      "fear of hypoglycemia"
+    ],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive behavioral therapy (CBT)",
+      "intermittent scanning continuous glucose monitoring (isCGM) without alerts",
+      "real-time continuous glucose monitoring (rtCGM) with alert functionality",
+      "diabetes technologies",
+      "sensor-augmented pumps",
+      "automated insulin delivery"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia",
+      "hypoglycemia-related anxiety",
+      "fear of hypoglycemia"
+    ],
+    "Medication Frequency": [
+      "16 weeks of follow-up",
+      "24 months of follow-up"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Cognitive Behavioral Therapy (CBT)",
+      "Real-time continuous glucose monitoring (rtCGM) with alert functionality",
+      "Diabetes technologies (rtCGM, sensor-augmented pumps, automated insulin delivery)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "77% reduction in health anxiety at 16 weeks",
+      "Decreased A1c"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "16 weeks of follow-up",
+      "24 months of follow-up"
+    ],
+    "Diseases": [
+      "Type 2 diabetes",
+      "Type 1 diabetes",
+      "Health anxiety",
+      "Depressive symptoms",
+      "Diabetes distress",
+      "Hypoglycemia-related anxiety",
+      "Fear of hypoglycemia"
+    ]
+  }
+}

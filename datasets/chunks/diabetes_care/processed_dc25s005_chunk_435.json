@@ -1,0 +1,41 @@
+{
+  "text": "comput methods programs biomed2021;210:106370\n22. odgers-jewell k, ball le, kelly jt, isenring ea,\nreidlinger dp , thomas r. effectiveness of group-\nbased self-management education for individualswith type 2 diabetes: a systematic review withmeta-analyses and meta-regression. diabet med2017;34:1027 \u20131039\n23. winkley k, upsher r, stahl d, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analyses",
+      "meta-regression"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "group-based self-management education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

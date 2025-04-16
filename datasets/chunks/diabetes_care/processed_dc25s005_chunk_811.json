@@ -1,0 +1,39 @@
+{
+  "text": "diabetes\ncare 2008;31:420 \u2013426\n441. chen z, wang j, carru c, coradduzza d, li z.\nthe prevalence of depression among parents ofchildren/adolescents with type 1 diabetes: a\nsystematic review and meta-analysis. front\nendocrinol (lausanne) 2023;14:1095729\n442. clouse re, lustman pj, freedland ke,\ngrif\ufb01th ls, mcgill jb, carney rm.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "disease overview",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "depression"
+    ]
+  }
+}

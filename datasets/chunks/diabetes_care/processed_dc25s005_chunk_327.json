@@ -1,0 +1,59 @@
+{
+  "text": "diabetes\ndistress refers to signi \ufb01cant negative psy-\nchological reactions related to emotionalburdens and worries speci \ufb01ct oa ni n d i -\nvidual \u2019se x p e r i e n c ei nh a v i n gt om a n a g ea\ndemanding chronic condition such asdiabetes (403). the constant behavioraldemands of diabetes self-management(medication dosing, frequency, and ti-tration as well as monitoring of glucose,food intake, eating patterns, and physi-cal activity) and the potential or actualdisease progression are directly associ-ated with reports of diabetes distress(404).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "significant negative psychological reactions",
+      "emotional burdens",
+      "worries"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "medication dosing, frequency, and titration"
+    ],
+    "Examination Methods": [
+      "monitoring of glucose"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "medication dosing, frequency, and titration"
+    ],
+    "Cause": [
+      "emotional burdens and worries specific to having to manage a demanding chronic condition such as diabetes",
+      "constant behavioral demands of diabetes self-management",
+      "potential or actual disease progression"
+    ],
+    "Severity": [
+      "significant negative psychological reactions"
+    ],
+    "Non-Medication Treatment": [
+      "diabetes self-management",
+      "monitoring of glucose",
+      "food intake",
+      "eating patterns",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "medication dosing",
+      "frequency",
+      "titration"
+    ],
+    "Duration": [
+      "chronic condition"
+    ],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "text": "physical activity/exercise and diabetes: a position\nstatement of the american diabetes association.diabetes care 2016;39:2065 \u20132079\n268. frediani jk, bienvenida af, li j, higgins mk,\nlobelo f. physical \ufb01tness and activity changes\nafter a 24-week soccer-based adaptation of the\nu.s diabetes prevention program intervention in\nhispanic men. prog cardiovasc dis 2020;63:775\u2013785\n269. taylor jd, fletcher jp , tiarks j. impact of\nphysical therapist-directed exercise counselingcombined with \ufb01tness center-based exercise\ntraining on muscular strength and exercise\ncapacity in people with type 2 diabetes: a\nrandomized clinical trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "physical therapist-directed exercise counseling",
+      "fitness center-based exercise training",
+      "physical fitness assessment",
+      "soccer-based adaptation",
+      "exercise capacity measurement"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity/exercise",
+      "soccer-based adaptation of the U.S diabetes prevention program intervention",
+      "physical therapist-directed exercise counseling",
+      "fitness center-based exercise training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "24-week"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

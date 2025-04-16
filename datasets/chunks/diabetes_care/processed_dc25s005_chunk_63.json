@@ -1,0 +1,38 @@
+{
+  "text": "an individualized guide\nto plan when, what, and how much\nto eat on a daily basis, completedby the person with diabetes and therdn. the eating plan could incorpo-rate an eating pattern combined witha strategy or method to direct some\nof the choices.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended_foods",
+    "foods_to_avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "individualized guide for eating plan",
+      "plan when, what, and how much to eat on a daily basis",
+      "eating pattern combined with a strategy or method to direct choices"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "daily basis"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

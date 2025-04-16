@@ -1,0 +1,38 @@
+{
+  "text": "; us preventive services task force. vitamin,mineral, and multivitamin supplementation to\nprevent cardiovascular disease and cancer: us\npreventive services task force recommendationstatement.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "vitamin",
+      "mineral",
+      "multivitamin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "vitamin supplementation",
+      "mineral supplementation",
+      "multivitamin supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular disease",
+      "cancer"
+    ]
+  }
+}

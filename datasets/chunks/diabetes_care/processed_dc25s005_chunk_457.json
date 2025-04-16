@@ -1,0 +1,41 @@
+{
+  "text": "effect of\ndiabetes health coaching on glycemic control andquality of life in adults living with type 2 diabetes:a community-based, randomized, controlled trial.can j diabetes 2021;45:594 \u2013600\n46. gershkowitz bd, hillert cj, crotty bh. digital\ncoaching strategies to facilitate behavioral change\nin type 2 diabetes: a systematic review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic control"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes health coaching",
+      "digital coaching strategies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "health coaching",
+      "digital coaching"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

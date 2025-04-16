@@ -1,0 +1,42 @@
+{
+  "text": "when provid-ing dsmes, health care professionalsshould consider the individual \u2019sb u r d e n\nof treatment, level of self-ef \ufb01cacy for\nself-care behaviors, and degree of socialand family support. engagement in self-management behaviors and subsequentclinical outcomes, health status, andquality of life, in addition to psychoso-cial factors affecting the person \u2019s ability\nto self-manage, should be monitoredroutinely.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "clinical outcomes",
+      "health status",
+      "quality of life"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "monitoring self-management behaviors",
+      "monitoring psychosocial factors"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (diabetes self-management education and support)",
+      "self-care behaviors",
+      "self-management behaviors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "routinely"
+    ],
+    "Diseases": []
+  }
+}

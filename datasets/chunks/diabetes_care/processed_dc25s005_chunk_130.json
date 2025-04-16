@@ -1,0 +1,47 @@
+{
+  "text": "sodium intake has been shown\nto mediate glucose metabolism in a num-\nber of studies and affect egfr, so limitingsodium intake is a valuable strategy forpeople with diabetes with or without kid-\nney disease (148,149). in their post hoc\nanalysis of the dash-sodium rct, mora-les-alvarez et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidney"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "egfr"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "dash-sodium rct"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "sodium intake (affects glucose metabolism and eGFR)"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "limiting sodium intake",
+      "dash-sodium"
+    ],
+    "Pathogenesis": [
+      "sodium intake mediates glucose metabolism",
+      "sodium intake affects eGFR"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "kidney disease"
+    ]
+  }
+}

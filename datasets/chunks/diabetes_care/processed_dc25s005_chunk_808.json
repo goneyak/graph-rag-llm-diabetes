@@ -1,0 +1,43 @@
+{
+  "text": "eclinicalmedicine 2023;62:102119\n438. martyn-nemeth p, duffecy j, quinn l, et al. free: a randomized controlled feasibility trial of\na cognitive behavioral therapy and technology-\nassisted intervention to reduce fear of hypo-glycemia in young adults with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cognitive behavioral therapy",
+      "technology-assisted intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cognitive behavioral therapy",
+      "technology-assisted intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "fear of hypoglycemia",
+      "type 1 diabetes"
+    ]
+  }
+}

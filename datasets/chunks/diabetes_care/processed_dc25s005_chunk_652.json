@@ -1,0 +1,41 @@
+{
+  "text": "diabetes care 2017;40:1727 \u20131732\n261. peters al, laffel l. the american diabetes\nassociation/jdrf type 1 diabetes sourcebook.arlington, va, american diabetes association,2013\n262. ostman c, jewiss d, king n, smart na. clinical outcomes to exercise training in type 1diabetes: a systematic review and meta-analysis.diabetes res clin pract 2018;139:380 \u2013391\n263. boul /c19e ng, haddad e, kenny gp , wells ga,\nsigal rj.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "exercise training"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise training",
+      "systematic review and meta-analysis"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2017",
+      "2013",
+      "2018"
+    ],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

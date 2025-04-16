@@ -1,0 +1,46 @@
+{
+  "text": "in many commu-\nnities, the meal consumed to break thefast is rich in carbohydrates and includesf o o d sa n db e v e r a g e sh i g hi na d d e ds u g a r sand fat (230). indeed, in a recent study in\ntype 2 diabetes, 16.5% of people with\ndiabetes who fasted for ramadan re-ported high blood glucose of >300 mg/dl\n(>16.6 mmol/l) during fasting days (236).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods_to_avoid",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "high blood glucose of >300 mg/dl (>16.6 mmol/l)"
+    ],
+    "Examination Indicators": [
+      "high blood glucose of >300 mg/dl (>16.6 mmol/l)"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "meal rich in carbohydrates",
+      "foods and beverages high in added sugars and fat"
+    ],
+    "Severity": [
+      "high blood glucose of >300 mg/dl (>16.6 mmol/l)"
+    ],
+    "Non-Medication Treatment": [
+      "fasting for Ramadan"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "blood glucose >300 mg/dl (>16.6 mmol/l)"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "text": "in a\nsystematic review and meta-analysis of\ncarbohydrate counting versus other formsof meal planning advice (e.g., standardeducation, low glycemic index, and \ufb01xed\ncarbohydrate quantities), no signi \ufb01cant\ndifferences were seen in a1c levels com-p a r e dw i t hs t a n d a r de d u c a t i o n( 9 0 ) .i n\nanother rct, a simpli \ufb01ed carbohydrate\ncounting tool based on individual glycemicresponse was noninferior to conventionalcarbohydrate counting in 85 adults with\ntype 1 diabetes (91). in a randomized\ncrossover trial, carbohydrate counting andqualitative meal size (i.e., low, me-\ndium, and high carbohydrate) were\ncompared.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods",
+    "recommended_foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "a1c levels"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "randomized controlled trial (rct)",
+      "randomized crossover trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "carbohydrate counting",
+      "standard education",
+      "low glycemic index",
+      "fixed carbohydrate quantities",
+      "simplified carbohydrate counting tool",
+      "qualitative meal size (low, medium, high carbohydrate)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "A1C levels"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

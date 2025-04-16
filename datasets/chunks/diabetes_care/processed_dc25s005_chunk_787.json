@@ -1,0 +1,40 @@
+{
+  "text": "j health psychol 2024:13591053241241841413. fisher l, polonsky wh, hessler d. addressing\ndiabetes distress in clinical care: a practical guide. diabet med 2019;36:803 \u2013812\n414. sturt j, dennick k, hessler d, hunter bm,\noliver j, fisher l. effective interventions forreducing diabetes distress: systematic review and\nmeta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "querying disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Interventions for reducing diabetes distress",
+      "Systematic review and meta-analysis of effective interventions",
+      "Addressing diabetes distress in clinical care",
+      "Practical guide for clinical care"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Diabetes distress"
+    ]
+  }
+}

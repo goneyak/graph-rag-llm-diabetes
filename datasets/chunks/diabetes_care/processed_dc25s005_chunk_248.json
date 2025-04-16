@@ -1,0 +1,47 @@
+{
+  "text": "there is\nstrong evidence that exercise interven-\ntions in individuals with type 2 diabetesimprove depression, a1c, and overallpsychosocial well-being (295). physical activity and glycemic\nmanagement\nclinical trials have provided strong evi-\ndence for the a1c-lowering value of re-\nsistance training in older adults with\ntype 2 diabetes (267) and for an addi-tive bene \ufb01t of combined aerobic and re-\nsistance exercise on a1c reduction in\nadults with type 2 diabetes (296).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "physical activity",
+      "exercise interventions",
+      "resistance training",
+      "aerobic and resistance exercise"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise interventions",
+      "physical activity",
+      "resistance training",
+      "combined aerobic and resistance exercise"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "depression"
+    ]
+  }
+}

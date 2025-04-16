@@ -1,0 +1,49 @@
+{
+  "text": "becauseof variation in glycemic response to exercise,\npeople with diabetes should be taught to\ncheck blood glucose levels and/or monitor\ncgm values during and after exercise, how\nto understand the effect of exercise on glu-cose, and about the potential prolonged ef-\nfects (depending on intensity and duration)\n(303). see section 6, \u201cglycemic goals and\nhypoglycemia, \u201dfor more information on hy-\npoglycemia prevention and management.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required tests",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "variation in glycemic response to exercise"
+    ],
+    "Examination Indicators": [
+      "blood glucose levels",
+      "cgm values"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "check blood glucose levels",
+      "monitor cgm values"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "variation in glycemic response to exercise"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "check blood glucose levels",
+      "monitor cgm values during and after exercise"
+    ],
+    "Pathogenesis": [
+      "variation in glycemic response to exercise"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "during and after exercise",
+      "prolonged effects (depending on intensity and duration)"
+    ],
+    "Diseases": [
+      "diabetes",
+      "hypoglycemia"
+    ]
+  }
+}

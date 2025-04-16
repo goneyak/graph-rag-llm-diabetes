@@ -1,0 +1,50 @@
+{
+  "text": "diabetes technologies\ntechnology-enabled diabetes self-\nmanagement solutions (e.g., continuous\nglucose monitors [cgm], closed-loop pumpsystems, and connected glucose meters)improve a1c most effectively when thereis two-way communication between theperson with diabetes and the health care\nteam, individualized feedback, use of\nperson-generated health data, and edu-cation (58). alternative and innovativemodels of dsmes delivery (59), including\nintegration of technology-enabled diabe-\ntes and cardiometabolic health services(8), need to be continually explored andevaluated.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "continuous glucose monitors [CGM]",
+      "closed-loop pump systems",
+      "connected glucose meters",
+      "person-generated health data"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "technology-enabled diabetes self-management solutions",
+      "continuous glucose monitors [CGM]",
+      "closed-loop pump systems",
+      "connected glucose meters",
+      "two-way communication between the person with diabetes and the health care team",
+      "individualized feedback",
+      "use of person-generated health data",
+      "education",
+      "alternative and innovative models of DSMES delivery",
+      "integration of technology-enabled diabetes and cardiometabolic health services"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

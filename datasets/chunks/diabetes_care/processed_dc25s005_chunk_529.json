@@ -1,0 +1,38 @@
+{
+  "text": "diabetes res clin pract 2021;172:108516\n126. phillip m, nimri r, bergenstal rm, et al. consensus recommendations for the use ofautomated insulin delivery technologies in clinicalpractice.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "automated insulin delivery technologies"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "automated insulin delivery technologies"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "automated insulin delivery"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

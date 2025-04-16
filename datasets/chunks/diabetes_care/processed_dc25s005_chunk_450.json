@@ -1,0 +1,42 @@
+{
+  "text": "diabetes care 2007;30:2433 \u20132440\n38. naik ad, palmer n, petersen nj, et al. comparative effectiveness of goal setting indiabetes mellitus group clinics: randomizedclinical trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized clinical trial",
+      "group clinics",
+      "goal setting"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "goal setting",
+      "diabetes mellitus group clinics"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes mellitus"
+    ]
+  }
+}

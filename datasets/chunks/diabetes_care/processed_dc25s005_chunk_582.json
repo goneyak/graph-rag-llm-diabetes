@@ -1,0 +1,29 @@
+{
+  "text": "diabetes care 2022;\n45:1917 \u20131930\n184. mattes rd, popkin bm. nonnutritive\nsweetener consumption in humans: effects onappetite and food intake and their putativemechanisms.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "querying disease overview",
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

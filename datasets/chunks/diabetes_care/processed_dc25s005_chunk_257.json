@@ -1,0 +1,55 @@
+{
+  "text": "those with\ncomplications may need a more thor-\nough evaluation prior to starting an ex-ercise program (261).hypoglycemia\nfor individuals taking insulin and/or insu-lin secretagogues, physical activity may\nc a u s eh y p o g l y c e m i ai ft h em e d i c a t i o ndose or carbohydrate consumption is not\nadjusted for the exercise session and post-\nbout effect on glucose. individuals onthese therapies may need to ingest\n24 hourssweating (moderate-to -vigorous activity)\n\u2022 encourage \u2265150 min/week of moderate-intensity physical \nactivity (i.e., uses large muscle groups, rhythmic in \nnature) or \u226575 min/week vigorous-intensity activity \nspread over \u22653 days/week, with no more than 2 \nconsecutive days of inactivity.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia",
+      "sweating"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "moderate-to-vigorous activity",
+      "moderate-intensity physical activity",
+      "vigorous-intensity activity"
+    ],
+    "Medication Name": [
+      "insulin",
+      "insulin secretagogues"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "physical activity may cause hypoglycemia if the medication dose or carbohydrate consumption is not adjusted"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise program",
+      "moderate-intensity physical activity \u2265150 min/week",
+      "vigorous-intensity activity \u226575 min/week",
+      "activity spread over \u22653 days/week, with no more than 2 consecutive days of inactivity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin",
+      "insulin secretagogues"
+    ],
+    "Duration": [
+      "24 hours"
+    ],
+    "Diseases": [
+      "hypoglycemia",
+      "complications"
+    ]
+  }
+}

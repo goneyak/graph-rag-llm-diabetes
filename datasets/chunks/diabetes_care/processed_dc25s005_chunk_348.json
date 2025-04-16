@@ -1,0 +1,59 @@
+{
+  "text": "a meta-analysis of rcts\nfound that in type 1 diabetes, use of au-\ntomated insulin delivery systems contrib-\nuted to decreases in diabetes distress\ncompared with usual care (i.e., sensor\naugmented pumps, multiple daily insulin\ninjections, continuous glucose monitor-\ning, and predictive low-glucose suspend)(424). these recent studies support that a\ncombination of educational, behavioral,\nand psychological intervention approaches\nis needed to address distress, depression,\nand a1c.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depression"
+    ],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "automated insulin delivery systems",
+      "sensor augmented pumps",
+      "multiple daily insulin injections",
+      "continuous glucose monitoring",
+      "predictive low-glucose suspend"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "daily"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "automated insulin delivery systems",
+      "educational approaches",
+      "behavioral intervention approaches",
+      "psychological intervention approaches"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "sensor augmented pumps",
+      "multiple daily insulin injections",
+      "continuous glucose monitoring",
+      "predictive low-glucose suspend"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetes distress",
+      "depression"
+    ]
+  }
+}

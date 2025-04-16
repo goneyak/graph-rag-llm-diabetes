@@ -1,0 +1,38 @@
+{
+  "text": "j nurs scholarsh 2020;52:155 \u2013163\n32. dallosso h, mandalia p, gray lj, et al. the\neffectiveness of a structured group educationprogramme for people with established type 2diabetes in a multi-ethnic population in primarycare: a cluster randomised trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "structured group education programme"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "established type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "structured group education programme"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

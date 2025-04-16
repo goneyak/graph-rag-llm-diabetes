@@ -1,0 +1,42 @@
+{
+  "text": "night-shift work is associated withpoorer glycaemic control in patients with type 2diabetes. j sleep res 2017;26:764 \u2013772\n513. el tayeb im, el saghier eoa, ramadan bk.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "poorer glycaemic control"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "night-shift work"
+    ],
+    "Severity": [
+      "poorer glycaemic control"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "poorer glycaemic control"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "night-shift work"
+    ],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "text": "jmir mhealth uhealth\n2021;9:e17573\n48. van eikenhorst l, taxis k, van dijk l, de gier h.\npharmacist-led self-management interventions toimprove diabetes outcomes. a systematic literaturereview and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medication"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic literature review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "pharmacist-led self-management interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

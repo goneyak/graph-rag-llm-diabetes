@@ -1,0 +1,39 @@
+{
+  "text": "bmj\n2021;372:m4743\n103. schwingshackl l, chaimani a, hoffmann g,\nschwedhelm c, boeing h. a network meta-analysis on the comparative ef \ufb01cacy of different\ndietary approaches on glycaemic control in\npatients with type 2 diabetes mellitus. eur j\nepidemiol 2018;33:157 \u2013170\n104. sacks fm, bray ga, carey vj, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes mellitus"
+    ],
+    "Examination Indicators": [
+      "glycaemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "network meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "different dietary approaches for glycaemic control"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

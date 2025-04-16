@@ -1,0 +1,44 @@
+{
+  "text": "health\ncare professionals should counsel peo-ple with diabetes to engage in aerobic\nand resistance exercise regularly (267). aerobic activity bouts should last at least10 min, with the goal of /c2430 min/day or\nmore most days of the week for adults\nwith type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "aerobic exercise",
+      "resistance exercise",
+      "aerobic activity bouts lasting at least 10 min",
+      "at least 30 min/day of aerobic activity most days of the week"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "at least 10 min for aerobic activity bouts",
+      "at least 30 min/day most days of the week"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

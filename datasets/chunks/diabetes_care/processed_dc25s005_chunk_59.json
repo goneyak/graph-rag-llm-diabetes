@@ -1,0 +1,35 @@
+{
+  "text": "see table 5.1 for general\nnutrition recommendations, table 5.2 for\nmacronutrient-speci \ufb01c recommendations,\nandtable 5.3 for nutrition behaviors that\nshould be encouraged. eating patterns and meal planning\nfor an understanding of the role of nu-trition in diabetes, it is important toclarify the terminology.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "general nutrition recommendations",
+      "macronutrient-specific recommendations",
+      "nutrition behaviors",
+      "eating patterns",
+      "meal planning"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

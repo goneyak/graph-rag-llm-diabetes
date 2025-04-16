@@ -1,0 +1,39 @@
+{
+  "text": "screening for\ncoronary artery disease in patients with diabetes.diabetes care 2007;30:2729 \u20132736\n3 0 3 . m o s e ro ,r i d d e l lm c ,e c k s t e i nm l ,e ta l .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "required tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "coronary artery"
+    ],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "screening"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "screening"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "coronary artery disease",
+      "diabetes"
+    ]
+  }
+}

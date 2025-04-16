@@ -1,0 +1,32 @@
+{
+  "text": "in addition,\na dces needs to be knowledgeableabout technology-enabled services andmay serve as a technology championwithin their practice (51). credentialing\nsuch as certi \ufb01ed diabetes care and edu-\ncation specialists (cdces) (cbdce.org/)and/or board certi \ufb01cation in advanced\ndiabetes management (bc-adm) (diabe-\nteseducator.org/education/certi \ufb01cation/\nbc_adm) demonstrates an individual \u2019s\nspecialized training in and understandingof diabetes management and support (9),\nand engagement with quali \ufb01ed professio-\nnals has been shown to improve diabe-tes-related outcomes (52).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "technology-enabled services",
+      "diabetes care and education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

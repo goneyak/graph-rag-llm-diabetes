@@ -1,0 +1,39 @@
+{
+  "text": "metabolic pro \ufb01le and long-term risk of depression,\nanxiety, and stress-related disorders. jama netw\nopen 2024;7:e244525\n555. lin ehb, rutter cm, katon w, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "anxiety",
+      "stress-related disorders"
+    ],
+    "Examination Indicators": [
+      "metabolic profile"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "depression",
+      "anxiety",
+      "stress-related disorders"
+    ]
+  }
+}

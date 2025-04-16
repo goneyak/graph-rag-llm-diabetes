@@ -1,0 +1,40 @@
+{
+  "text": "diabetes care\n2016;39:964 \u2013972\n288. campbell md, alobaid am, hopkins m,\net al. interrupting prolonged sitting with frequentshort bouts of light-intensity activity in peoplewith type 1 diabetes improves glycaemic controlwithout increasing hypoglycaemia: the sit-less\nrandomised controlled trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycaemia"
+    ],
+    "Examination Indicators": [
+      "glycaemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomised controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "interrupting prolonged sitting with frequent short bouts of light-intensity activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "hypoglycaemia"
+    ]
+  }
+}

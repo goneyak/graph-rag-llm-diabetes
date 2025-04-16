@@ -1,0 +1,31 @@
+{
+  "text": "diabetes res clin pract 2022;191:110037\n153. national center for complementary and\nintegrative health. dietary and herbal supplements.accessed 13 august 2024. available from https://www.nccih.nih.gov/health/dietary-and-herbal-supplements154.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "complementary and integrative health",
+      "dietary supplements",
+      "herbal supplements"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

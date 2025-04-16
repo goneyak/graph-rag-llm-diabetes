@@ -1,0 +1,41 @@
+{
+  "text": ";\nclinical nutrition & risk factor modi \ufb01cation\ncentre collaborators. association of glycaemic\nindex and glycaemic load with type 2 diabetes,cardiovascular disease, cancer, and all-causemortality: a meta-analysis of mega cohorts of\nmore than 100000 participants.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycaemic index",
+      "glycaemic load"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "clinical nutrition",
+      "risk factor modification"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "glycaemic index",
+      "glycaemic load"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "cardiovascular disease",
+      "cancer",
+      "all-cause mortality"
+    ]
+  }
+}

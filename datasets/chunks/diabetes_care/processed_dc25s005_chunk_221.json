@@ -1,0 +1,44 @@
+{
+  "text": "/c15for other meals, no change of dose. dpp-4, dipeptidyl peptidase 4; glp-1, glucagon-like peptide 1; sglt2, sodium \u2013glucose cotransporter 2.s100 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nphysical activity includes all movement\nthat increases energy use, and it is animportant part of the diabetes manage-\nment plan.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "no change of dose"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [
+      "DPP-4",
+      "dipeptidyl peptidase 4",
+      "GLP-1",
+      "glucagon-like peptide 1",
+      "SGLT2",
+      "sodium-glucose cotransporter 2"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "for other meals, no change of dose"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity",
+      "movement that increases energy use"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

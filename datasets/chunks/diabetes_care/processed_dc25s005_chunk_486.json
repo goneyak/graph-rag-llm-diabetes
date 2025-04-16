@@ -1,0 +1,39 @@
+{
+  "text": "diabetologia 2023;66:786 \u2013799\n78. franz mj, macleod j, evert a, et al. academy\nof nutrition and dietetics nutrition practice\nguideline for type 1 and type 2 diabetes in adults:systematic review of evidence for medical nutritiontherapy effectiveness and recommendations forintegration into the nutrition care process.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "medical nutrition therapy",
+      "nutrition care process"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

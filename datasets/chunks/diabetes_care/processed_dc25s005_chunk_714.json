@@ -1,0 +1,40 @@
+{
+  "text": "role\nof e-cigarettes and pharmacotherapy during\nattempts to quit cigarette smoking: the path\nstudy 2013-16. plos one 2020;15:e0237938\n331. chen r, pierce jp, leas ec, et al. use of\nelectronic cigarettes to aid long-term smokingcessation in the united states: prospectiveevidence from the path cohort study.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "PATH study 2013-16",
+      "PATH cohort study"
+    ],
+    "Medication Name": [
+      "e-cigarettes",
+      "electronic cigarettes",
+      "pharmacotherapy"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "e-cigarettes"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "cigarette smoking"
+    ]
+  }
+}

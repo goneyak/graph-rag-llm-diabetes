@@ -1,0 +1,37 @@
+{
+  "text": "standards of\nmedical care for patients with diabetes mellitus.diabetes care 1989;12:365 \u2013368\n72. lichtenstein ah, appel lj, vadiveloo m, et al. 2021 dietary guidance to improve cardiovascular\nhealth: a scienti \ufb01c statement from the american\nheart association.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary guidance"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes mellitus",
+      "cardiovascular health"
+    ]
+  }
+}

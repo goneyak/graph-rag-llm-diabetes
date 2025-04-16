@@ -1,0 +1,38 @@
+{
+  "text": ";\ndcct/edic research group. cognitive performancedeclines in older adults with type 1 diabetes: results\nfrom 32 years of follow-up in the dcct and edic\nstudy.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cognitive performance declines"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "cognitive performance declines"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "32 years of follow-up"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "cognitive performance declines"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "j\npediatr psychol 2006;31:928 \u2013938\n397. yap jm, tantono n, wu vx, klainin-yobas p . effectiveness of technology-based psychosocialinterventions on diabetes distress and health-\nrelevant outcomes among type 2 diabetes\nmellitus: a systematic review and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "technology-based psychosocial interventions",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "technology-based psychosocial interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

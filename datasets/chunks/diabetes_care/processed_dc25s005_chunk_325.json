@@ -1,0 +1,66 @@
+{
+  "text": "diabetes distress\nrecommendation\n5.48 screen for diabetes distress at\nleast annually in people with diabe-\ntes, caregivers, and family members,and repeat screening when treatment\ngoals are not met, at transitional times,\nand/or in the presence of diabetes com-\nplications. health care professionals can\ntable 5.6 \u2014situations that warrant referral of a person with diabetes to a quali \ufb01ed behavioral health professional for\nevaluation and treatment\n\u0081a positive screen on a validated screening tool for depressive symptoms, diabetes distress, anxiety, fear of hypoglycemia, suicidality, or\ncognitive impairment\n\u0081the presence of symptoms or suspicions of disordered eating behavior, an eating disorder, or disrupted patterns of eating\n\u0081intentional omission or underdosing of insulin or noninsulin medication to cause weight loss\n\u0081a serious mental illness is suspected\n\u0081in youth and families with behavioral self-care dif \ufb01culties, repeated hospitalizations for diabetic ketoacidosis, failure to achieve expected\ndevelopmental milestones, or signi \ufb01cant distress\n\u0081low engagement in diabetes self-management behaviors, including declining or impaired ability to perform diabetes self-management\nbehaviors\n\u0081before undergoing metabolic surgery and after surgery, if assessment reveals an ongoing need for adjustment supportdiabetesjournals.org/care facilitating positive health behaviors and well-being s107downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\naddress diabetes distress and may con-\nsider referral to a quali \ufb01ed behavioral\nhealth professional, ideally one with ex-perience in diabetes, for further assess-ment and treatment if indicated.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "symptoms",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [
+      "metabolic surgery"
+    ],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depressive symptoms",
+      "diabetes distress",
+      "anxiety",
+      "fear of hypoglycemia",
+      "suicidality",
+      "cognitive impairment",
+      "disordered eating behavior",
+      "eating disorder",
+      "disrupted patterns of eating"
+    ],
+    "Examination Indicators": [
+      "positive screen on a validated screening tool"
+    ],
+    "Medication Dosage": [
+      "intentional omission or underdosing of insulin or noninsulin medication"
+    ],
+    "Examination Methods": [
+      "screen for diabetes distress"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Screen for diabetes distress at least annually",
+      "Address diabetes distress",
+      "Refer to qualified behavioral health professional"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "At least annually",
+      "At transitional times"
+    ],
+    "Diseases": [
+      "Diabetes",
+      "Diabetes distress",
+      "Depressive symptoms",
+      "Anxiety",
+      "Fear of hypoglycemia",
+      "Suicidality",
+      "Cognitive impairment",
+      "Disordered eating behavior",
+      "Eating disorder",
+      "Serious mental illness",
+      "Diabetic ketoacidosis"
+    ]
+  }
+}

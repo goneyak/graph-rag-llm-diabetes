@@ -1,0 +1,45 @@
+{
+  "text": "sleep and night-timecaregiving in parents of children and adolescentswith type 1 diabetes mellitus - a qualitative study.behav sleep med 2020;18:622 \u2013636\n505. reutrakul s, thakkinstian a, anothaisintawee\nt, et al. sleep characteristics in type 1 diabetes andassociations with glycemic control: systematic\nreview and meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep characteristics"
+    ],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes mellitus",
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "caregiving"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "night-time"
+    ],
+    "Diseases": [
+      "type 1 diabetes mellitus",
+      "type 1 diabetes"
+    ]
+  }
+}

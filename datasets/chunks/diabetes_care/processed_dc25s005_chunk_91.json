@@ -1,0 +1,54 @@
+{
+  "text": "however, in a 2022 carefully designed12-week rct feeding study among adultswith prediabetes and type 2 diabetes, awell-formulated ketogenic diet (20 \u201350 g/day\nand keeping protein to /c241.5 g/kg ideal\nbody weight/day, with the remainder of\nenergy from fat) did not signi \ufb01cantly im-\nprove a1c and increased ldl cholesterolcompared with a low-carbohydrate medi-terranean diet (105). therefore, questionsstill remain about the optimal degree ofcarbohydrate restriction and long-termeffects of those meal patterns on cardio-vascular disease (cvd).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes",
+      "type 2 diabetes",
+      "increased ldl cholesterol"
+    ],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "12-week rct feeding study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "increased ldl cholesterol"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "well-formulated ketogenic diet (20-50 g/day and keeping protein to 1.5 g/kg ideal body weight/day, with the remainder of energy from fat)",
+      "low-carbohydrate Mediterranean diet"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "20-50 g/day carbohydrates",
+      "1.5 g/kg ideal body weight/day protein"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "12-week"
+    ],
+    "Diseases": [
+      "prediabetes",
+      "type 2 diabetes",
+      "cardiovascular disease (CVD)"
+    ]
+  }
+}

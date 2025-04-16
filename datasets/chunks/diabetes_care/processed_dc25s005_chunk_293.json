@@ -1,0 +1,42 @@
+{
+  "text": "a cluster randomized trial\nfound statistically signi \ufb01cant increases inquit rates and long-term abstinence rates\n(>6 months) when smoking cessation in-\nterventions were offered through dia-\nbetes education clinics, regardless of\nmotivation to quit at baseline (340). the increased prevalence in availability\nand use of tobacco and cannabis prod-\nucts and the effect on the health of peo-\nple with diabetes highlights the need toask about use of these products, educate\nindividuals regarding the associated risks,\nand provide support for cessation.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "statistically signi\ufb01cant increases in quit rates",
+      "long-term abstinence rates (>6 months)"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cluster randomized trial",
+      "smoking cessation interventions",
+      "diabetes education clinics"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "smoking cessation interventions",
+      "diabetes education clinics"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      ">6 months"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

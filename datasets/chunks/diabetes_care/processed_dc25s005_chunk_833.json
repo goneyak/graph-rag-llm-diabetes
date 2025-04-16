@@ -1,0 +1,39 @@
+{
+  "text": "evaluation of a novel eating disorder preventionprogram for young women with type 1 diabetes:a preliminary randomized trial. diabetes res clinpract 2023;206:110997\n469. zaremba n, watson a, kan c, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorder",
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomized trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "eating disorder prevention program"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "eating disorder",
+      "type 1 diabetes"
+    ]
+  }
+}

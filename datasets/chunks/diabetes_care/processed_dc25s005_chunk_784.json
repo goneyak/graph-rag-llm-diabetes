@@ -1,0 +1,38 @@
+{
+  "text": "the relationship\nbetween stigma and psychological distress\namong people with diabetes: a meta-analysis.bmc psychol 2023;11:242\n410. akyirem s, ekpor e, namumbejja abwoye d,\nb a t t e nj ,n e l s o nl e .t y p e2d i a b e t e ss t i g m aa n d\nits association with clinical, psychological, and\nbehavioral outcomes: a systematic review andmeta-analysis. diabetes res clin pract 2023;202:110774\n411. hamilton k, forde r, due-christensen m,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "psychological distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analysis",
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes",
+      "psychological distress"
+    ]
+  }
+}

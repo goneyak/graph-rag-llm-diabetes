@@ -1,0 +1,68 @@
+{
+  "text": "screen atleast annually or when there is achange in disease, treatment, or lifecircumstances. c\n5.46 when indicated, refer to behav-\nioral health professionals or othertrained health care professionals, ide-ally those with experience in diabetes,for further assessment and treatmentfor symptoms of diabetes distress, de-pression, suicidality, anxiety, treatment-related fear of hypoglycemia, disorderedeating, and/or cognitive capacities.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases",
+    "symptoms",
+    "necessary tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depression",
+      "suicidality",
+      "anxiety",
+      "treatment-related fear of hypoglycemia",
+      "disordered eating",
+      "cognitive capacities"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "screen at least annually",
+      "screen when there is a change in disease, treatment, or life circumstances"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "diabetes distress",
+      "depression",
+      "suicidality",
+      "anxiety",
+      "treatment-related fear of hypoglycemia",
+      "disordered eating"
+    ],
+    "Medication Frequency": [
+      "annually",
+      "when there is a change in disease, treatment, or life circumstances"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "screening at least annually",
+      "refer to behavioral health professionals",
+      "refer to trained health care professionals"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "5.46"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "at least annually",
+      "when there is a change in disease, treatment, or life circumstances"
+    ],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress",
+      "depression",
+      "suicidality",
+      "anxiety",
+      "treatment-related fear of hypoglycemia",
+      "disordered eating"
+    ]
+  }
+}

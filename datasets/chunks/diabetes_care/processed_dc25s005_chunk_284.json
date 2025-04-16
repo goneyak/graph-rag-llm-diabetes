@@ -1,0 +1,31 @@
+{
+  "text": "in recent years, there has been an in-\ncrease in the use and availability of mul-tiple noncigarette nicotine products. the\nevidence regarding the effect of these\nproducts on diabetes is not as clear asthat for combustible cigarettes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "recent years"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

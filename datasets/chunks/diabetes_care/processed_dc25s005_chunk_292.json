@@ -1,0 +1,54 @@
+{
+  "text": "health care professionals should con-sider cannabis hyperemesis syndrome inpeople with type 1 diabetes with ph\n$7.4 and bicarbonate >15 mmol/l in\nt h ep r e s e n c eo fk e t o s i s( 3 3 9 ) . diabetes education programs offer po-\ntential to systematically reach and engageindividuals with diabetes in smoking ces-\nsation efforts.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cannabis hyperemesis syndrome",
+      "ketosis",
+      "diabetes"
+    ],
+    "Examination Indicators": [
+      "pH 7.4",
+      "bicarbonate >15 mmol/l"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "cannabis hyperemesis syndrome"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "cannabis"
+    ],
+    "Severity": [
+      "ph $7.4",
+      "bicarbonate >15 mmol/l",
+      "ketosis"
+    ],
+    "Non-Medication Treatment": [
+      "diabetes education programs"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "pH 7.4",
+      "bicarbonate >15 mmol/l"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cannabis hyperemesis syndrome",
+      "type 1 diabetes",
+      "ketosis"
+    ]
+  }
+}

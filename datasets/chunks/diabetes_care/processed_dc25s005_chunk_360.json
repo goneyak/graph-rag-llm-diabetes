@@ -1,0 +1,47 @@
+{
+  "text": "elevated depressive symptoms\nand depressive disorders are common\namong people with diabetes (357,429)\n(tables 5.7 and 5.8), affecting approxi-\nm a t e l yo n ei nf o u rp e o p l ew i t ht y p e1o r\ntype 2 diabetes (360), and among pa-\nrents of youth with diabetes (441). rou-\ntine screening for depressive symptoms\nis indicated for people with type 1 or\ntype 2 diabetes and gestational diabetes\nmellitus.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "elevated depressive symptoms",
+      "depressive disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "routine screening for depressive symptoms"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "elevated depressive symptoms",
+      "depressive disorders"
+    ],
+    "Non-Medication Treatment": [
+      "routine screening for depressive symptoms"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "affecting approximately one in four people with type 1 or type 2 diabetes"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depressive symptoms",
+      "depressive disorders",
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "gestational diabetes mellitus"
+    ]
+  }
+}

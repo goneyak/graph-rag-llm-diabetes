@@ -1,0 +1,41 @@
+{
+  "text": "signi \ufb01cant increases\nin tetrahydrocannabinol (thc) concentra-\ntions in cbd products and use of addi-tional psychoactive cannabinoid products,such as delta-8 thc, are of speci \ufb01cc o n -\ncern (335). most of these products are\ncurrently unregulated by the fda, andpublic health warnings regarding usehave been issued (336).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "significant increases in tetrahydrocannabinol (THC) concentrations in CBD products",
+      "use of additional psychoactive cannabinoid products, such as delta-8 THC"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "tetrahydrocannabinol (THC)",
+      "CBD",
+      "delta-8 THC"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "significant increases"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "significant increases in tetrahydrocannabinol (THC) concentrations in CBD products"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "currently"
+    ],
+    "Diseases": []
+  }
+}

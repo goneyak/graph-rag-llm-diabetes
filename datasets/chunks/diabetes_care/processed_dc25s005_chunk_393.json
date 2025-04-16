@@ -1,0 +1,45 @@
+{
+  "text": "de-\nclines in cognitive capacity have been\nshown to affect executive function and in-\nformation processing speed; they are not\nconsistent between people, and evidence\nis lacking regarding a known course of de-\ncline (485).attention de \ufb01cit hyperactivity disor-\nder, which involves de \ufb01cits in executive\nfunctions, has been linked with twicethe risk of type 2 diabetes (486). amongyouth and young adults with type 1 dia-\nbetes, lower executive functioning has\nbeen linked with more dif \ufb01culties with\ndiabetes self-management and highera1c (487).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "declines in cognitive capacity",
+      "deficit in executive functions",
+      "lower executive functioning"
+    ],
+    "Examination Indicators": [
+      "higher A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "declines in cognitive capacity affect executive function and information processing speed",
+      "attention deficit hyperactivity disorder involves deficits in executive functions",
+      "lower executive functioning linked with more difficulties with diabetes self-management"
+    ],
+    "Examination Indicator Values": [
+      "twice the risk of type 2 diabetes",
+      "higher A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "attention deficit hyperactivity disorder",
+      "type 2 diabetes",
+      "type 1 diabetes"
+    ]
+  }
+}

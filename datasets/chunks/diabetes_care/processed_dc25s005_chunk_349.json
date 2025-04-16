@@ -1,0 +1,47 @@
+{
+  "text": "there are few outcome data on long-\nterm systematic treatment of diabetes\ndistress integrated into routine care. as\nthe burden of diabetes management can\nvary over time, diabetes distress may \ufb02uc-\ntuate and may need varying treatment\napproaches at different life stages and at\ndifferent levels of diabetes progression.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "burden of diabetes management",
+      "different life stages",
+      "different levels of diabetes progression"
+    ],
+    "Severity": [
+      "diabetes distress may fluctuate"
+    ],
+    "Non-Medication Treatment": [
+      "systematic treatment of diabetes distress integrated into routine care",
+      "varying treatment approaches at different life stages and at different levels of diabetes progression"
+    ],
+    "Pathogenesis": [
+      "burden of diabetes management can vary over time",
+      "diabetes distress may fluctuate"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "diabetes distress",
+      "diabetes"
+    ]
+  }
+}

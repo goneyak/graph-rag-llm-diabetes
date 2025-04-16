@@ -1,0 +1,42 @@
+{
+  "text": "long-term change in physiological markers\nand cognitive performance in type 2 diabetes:the look ahead study. j clin endocrinol metab2020;105:e4778-4791 \u2013e4791\n483. jin c-y , yu s-w , yin j-t, yuan x-y , wang x-g.\ncorresponding risk factors between cognitive\nimpairment and type 1 diabetes mellitus: anarrative review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "cognitive impairment"
+    ],
+    "Examination Indicators": [
+      "physiological markers",
+      "cognitive performance"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "look ahead study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "cognitive impairment",
+      "type 1 diabetes mellitus"
+    ]
+  }
+}

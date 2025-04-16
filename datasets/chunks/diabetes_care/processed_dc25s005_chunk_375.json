@@ -1,0 +1,42 @@
+{
+  "text": "inconsistent interven-tion\ufb01ndings point to the need for treat-\nment of eating disorders and disorderedeating behavior in the context of thecondition and its treatment. recent in-tervention efforts have focused on pre-venting disordered eating behaviorsamong individuals with type 1 diabetesand on supporting parents of youthwith type 1 diabetes who are at risk fordisordered eating; however, more rcts\nwith longer-term follow-up are needed(466 \u2013468).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorders",
+      "disordered eating behaviors"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCTs"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "preventing disordered eating behaviors",
+      "supporting parents of youth with type 1 diabetes who are at risk for disordered eating"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "longer-term follow-up"
+    ],
+    "Diseases": [
+      "eating disorders",
+      "disordered eating behavior",
+      "type 1 diabetes"
+    ]
+  }
+}

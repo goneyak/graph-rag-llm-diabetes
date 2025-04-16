@@ -1,0 +1,41 @@
+{
+  "text": "long-term effects of a novel continuous\nremote care intervention including nutritionalketosis for the management of type 2 diabetes: a2-year non-randomized clinical trial. front endo-\ncrinol (lausanne) 2019;10:348\n108. saslow lr, daubenmier jj, moskowitz jt,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "continuous remote care intervention",
+      "nutritional ketosis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "continuous remote care intervention",
+      "nutritional ketosis"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2-year"
+    ],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

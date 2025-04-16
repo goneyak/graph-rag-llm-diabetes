@@ -1,0 +1,44 @@
+{
+  "text": "\u201d\nmalnutrition can occur in people ofvarying weight status, with the \u201cdouble\nburden \u201dof obesity and malnutrition be-\ning increasingly recognized among thosewith chronic conditions. malnutrition isalso more likely to develop in popula-\ntions experiencing poverty and in older\nage-groups (241).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "malnutrition",
+      "obesity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "poverty",
+      "older age-groups",
+      "chronic conditions"
+    ],
+    "Severity": [
+      "double burden"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "double burden of obesity and malnutrition in chronic conditions",
+      "malnutrition is more likely to develop in populations experiencing poverty",
+      "malnutrition is more likely to develop in older age-groups"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "malnutrition",
+      "obesity",
+      "chronic conditions"
+    ]
+  }
+}

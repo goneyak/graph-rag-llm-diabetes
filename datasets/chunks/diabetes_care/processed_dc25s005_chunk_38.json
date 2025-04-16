@@ -1,0 +1,49 @@
+{
+  "text": "one potential modelis virtual environments, which allow peo-ple with diabetes to self-represent as\navatars and interact in a world with em-\nbedded informational resources that canbe accessed using principles of gami \ufb01ca-\ntion. an rct that tested dsmes in a vir-tual environment demonstrated greater\nweight loss but similar decreases in a1c,\nblood pressure, cholesterol, and triglycer-ides compared with dsmes via a standardwebsite (61).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [
+      "A1C",
+      "blood pressure",
+      "cholesterol",
+      "triglycerides"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCT",
+      "virtual environment",
+      "DSMES",
+      "standard website"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "virtual environments",
+      "self-representation as avatars",
+      "interaction in a world with embedded informational resources",
+      "gamification",
+      "DSMES (Diabetes Self-Management Education and Support) in a virtual environment",
+      "DSMES via a standard website"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

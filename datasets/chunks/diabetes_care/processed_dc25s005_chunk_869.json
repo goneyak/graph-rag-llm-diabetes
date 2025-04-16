@@ -1,0 +1,36 @@
+{
+  "text": "j family med prim care 2019;8:3814 \u20133820\n511. modarresnia l, golgiri f, madani nh,\nemami z, tanha k. restless legs syndrome iniranian people with type 2 diabetes mellitus: therole in quality of life and quality of sleep. j clin\nsleep med 2018;14:223 \u2013228\n512. manodpitipong a, saetung s, nimitphong\nh, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "legs"
+    ],
+    "Clinical Manifestations": [
+      "restless legs syndrome"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "restless legs syndrome",
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

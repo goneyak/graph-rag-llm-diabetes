@@ -1,0 +1,45 @@
+{
+  "text": "effects of mindfulness-\nbased intervention on glycemic control andpsychological outcomes in people with diabetes:\na systematic review and meta-analysis. j diabetes\ninvestig 2021;12:1092 \u20131103\n393. hood kk, iturralde e, rausch j, weissberg-\nbenchell j. preventing diabetes distress in adole-\nscents with type 1 diabetes: results 1 year after\nparticipation in the steps program.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "mindfulness-based intervention",
+      "systematic review",
+      "meta-analysis",
+      "STEPS program"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "mindfulness-based intervention",
+      "steps program"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "1 year after participation"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes",
+      "diabetes distress"
+    ]
+  }
+}

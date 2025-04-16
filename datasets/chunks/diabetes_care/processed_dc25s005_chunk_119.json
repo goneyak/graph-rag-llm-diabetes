@@ -1,0 +1,45 @@
+{
+  "text": "growing evidence suggests higher\nplant protein intake and replacement ofanimal protein with plant protein is asso-ciated with lower risk of all-cause andcardiovascular mortality. a meta-analysis\nof 13 rcts showed that replacing animal\nproteins with plant proteins leads tosmall improvements in a1c and fastingglucose in adults with type 2 diabetes(130).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "A1C",
+      "fasting glucose"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analysis of 13 RCTs"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "replacing animal proteins with plant proteins",
+      "higher plant protein intake"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "small improvements in A1C",
+      "small improvements in fasting glucose"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "all-cause mortality",
+      "cardiovascular mortality"
+    ]
+  }
+}

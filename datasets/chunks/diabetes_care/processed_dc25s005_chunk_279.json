@@ -1,0 +1,40 @@
+{
+  "text": "however, data show that tobacco use\nprevalence among adults with chronic\nconditions has remained persistentlyhigher than that in the general popula-\ntion, though with recent declines in\nsmoking in middle-aged and older adultswith diabetes (318). numerous large\nrcts have demonstrated the ef \ufb01cacy\nand cost-effectiveness of both intensiveand brief counseling on smoking cessa-\ntion, including the use of telephone quit\nlines and web-based interventions, in re-\nducing tobacco use and maintaining ab-\nstinence from smoking (317,319).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "tobacco use"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intensive counseling",
+      "brief counseling",
+      "telephone quit lines",
+      "web-based interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "recent declines"
+    ],
+    "Diseases": [
+      "diabetes",
+      "chronic conditions"
+    ]
+  }
+}

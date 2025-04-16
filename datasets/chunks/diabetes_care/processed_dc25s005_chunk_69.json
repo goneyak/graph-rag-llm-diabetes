@@ -1,0 +1,50 @@
+{
+  "text": "supplementation with micronutrients (e.g., vitamins and minerals, such as\nmagnesium or chromium) or herbs or spices (e.g., cinnamon and aloe vera) for glycemicbene \ufb01ts is not recommended. c\n5.17 counsel against b-carotene supplementation, as there is evidence of harm for certain\nindividuals and it confers no bene \ufb01t.b\navoid excess alcohol intake 5.18 advise adults with diabetes and those at risk for diabetes who consume alcohol to not exceed\nthe recommended daily limits.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "micronutrients",
+      "vitamins",
+      "minerals",
+      "magnesium",
+      "chromium",
+      "herbs",
+      "spices",
+      "cinnamon",
+      "aloe vera",
+      "b-carotene",
+      "alcohol"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "harm for certain individuals"
+    ],
+    "Medication Frequency": [
+      "not exceed the recommended daily limits"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "avoid excess alcohol intake",
+      "counsel against b-carotene supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "text": "along with routine medical manage-\nment visits, people with diabetes and\nprediabetes should be screened during\ndsmes and mnt encounters for a his-tory of dieting and past or current disor-dered eating behaviors. characterizingan individual \u2019s past efforts with weight\nloss and their body weight history can\nalso be very useful.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required tests",
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "prediabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "screening for history of dieting",
+      "screening for past or current disordered eating behaviors",
+      "characterizing weight loss efforts",
+      "characterizing body weight history",
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "MNT (Medical Nutrition Therapy)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetes",
+      "prediabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and support (dsmes)",
+      "medical nutrition therapy (mnt)",
+      "routine medical management visits",
+      "screening for history of dieting",
+      "screening for disordered eating behaviors",
+      "characterizing weight loss efforts",
+      "characterizing body weight history"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "past",
+      "current"
+    ],
+    "Diseases": [
+      "diabetes",
+      "prediabetes",
+      "disordered eating behaviors"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "text": "longitu-\ndinal epidemiological studies have docu-\nmented that chronic hyperglycemia, acute\nglucose variability, older age, less educa-\ntion, retinopathy, and nephropathy are as-\nsociated with diabetes-related cognitivedysfunction (493,494). importantly, the\nrisk of cognitive decline can be reduced\nthrough improved a1c (495).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "chronic hyperglycemia",
+      "acute glucose variability",
+      "retinopathy",
+      "nephropathy",
+      "diabetes-related cognitive dysfunction"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "longitudinal epidemiological studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "cognitive dysfunction",
+      "cognitive decline"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "chronic hyperglycemia",
+      "acute glucose variability",
+      "older age",
+      "less education",
+      "retinopathy",
+      "nephropathy"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "chronic hyperglycemia",
+      "acute glucose variability"
+    ],
+    "Examination Indicator Values": [
+      "improved A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes-related cognitive dysfunction",
+      "retinopathy",
+      "nephropathy"
+    ]
+  }
+}

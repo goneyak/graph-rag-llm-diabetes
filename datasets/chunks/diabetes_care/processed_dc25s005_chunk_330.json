@@ -1,0 +1,45 @@
+{
+  "text": "diabetes distressnegatively affects medication-taking behav-iors and is linked to higher a1c, lower self-ef\ufb01cacy, and less optimal eating and exer-\ncise behaviors (5,403,407). diabetes dis-tress is also associated with symptoms of\nanxiety, depression, and reduced health-\nrelated quality of life (408).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "symptoms of anxiety",
+      "depression",
+      "reduced health-related quality of life"
+    ],
+    "Examination Indicators": [
+      "higher A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise behaviors",
+      "eating behaviors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "higher A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "anxiety",
+      "depression"
+    ]
+  }
+}

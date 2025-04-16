@@ -1,0 +1,39 @@
+{
+  "text": "; ascend study collaborative group. effectsof n-3 fatty acid supplements in diabetesmellitus.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "n-3 fatty acid supplements"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [
+      "n-3 fatty acid supplements"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "n-3 fatty acid supplements"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "supplements"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "diabetes mellitus"
+    ]
+  }
+}

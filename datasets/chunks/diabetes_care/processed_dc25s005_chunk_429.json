@@ -1,0 +1,37 @@
+{
+  "text": "sci diabetes self manag care\n2024;50:87 \u201395\n15. rutten gehm, van vugt h, de koning e.\nperson-centered diabetes care and patient acti-vation in people with type 2 diabetes. bmj opendiabetes res care 2020;8\n16. li r, shrestha ss, lipman r, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self management care",
+      "person-centered diabetes care",
+      "patient activation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

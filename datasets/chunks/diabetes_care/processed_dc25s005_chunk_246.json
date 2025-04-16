@@ -1,0 +1,36 @@
+{
+  "text": "a systematic review and meta-analysis\nfound that higher frequency of regular lei-sure-time physical activity was more effec-tive in reducing a1c (291). a wide range\nof activities, including yoga, tai chi, and\nother types, can signi \ufb01cantly affect a1c,\n\ufb02exibility, muscle strength, and balance\n(255,292 \u2013294).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "a1c"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "regular leisure-time physical activity",
+      "yoga",
+      "tai chi"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

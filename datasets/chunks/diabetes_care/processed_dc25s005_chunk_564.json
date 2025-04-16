@@ -1,0 +1,58 @@
+{
+  "text": "serum\n25(oh)d concentration, vitamin d supplementation,\nand risk of cardiovascular disease and mortality in\npatients with type 2 diabetes or prediabetes: asystematic review and dose-response meta-analysis.am j clin nutr 2023;118:697 \u2013707\n163. dadon y, hecht sagie l, mimouni fb, arad i,\nmendlovic j. vitamin d and insulin-dependent\ndiabetes: a systematic review of clinical trials. nutrients 2024;16\n164. moridpour ah, kavyani z, khosravi s, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "insulin-dependent diabetes",
+      "type 2 diabetes",
+      "prediabetes"
+    ],
+    "Examination Indicators": [
+      "serum 25(OH)D concentration"
+    ],
+    "Medication Dosage": [
+      "vitamin D supplementation"
+    ],
+    "Examination Methods": [
+      "systematic review",
+      "dose-response meta-analysis",
+      "clinical trials"
+    ],
+    "Medication Name": [
+      "vitamin d"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "prediabetes",
+      "insulin-dependent diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "vitamin D supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "serum 25(OH)D concentration"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular disease",
+      "type 2 diabetes",
+      "prediabetes",
+      "insulin-dependent diabetes"
+    ]
+  }
+}

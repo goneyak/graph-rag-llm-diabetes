@@ -1,0 +1,94 @@
+{
+  "text": "\u201d\nif screening is positive for food insecu-\nrity, efforts should be made to refer to ap-propriate programs and resources. seetable 5.4 \u2014elements for risk calculation and suggested risk score for people\nwith diabetes who seek to fast during ramadan\nrisk element risk score\n1. diabetes classi \ufb01cation and duration\n\u0081type 1 diabetes 1\n\u0081type 2 diabetes 0\n2. duration of diabetes (years)\n\u0081a duration of $10 years 1\n\u0081a duration of <10 years 0\n3. presence of hypoglycemia\n\u0081hypoglycemia unawareness 6.5\n\u0081recent severe hypoglycemia 5.5\n\u0081multiple weekly hypoglycemia 3.5\n\u0081hypoglycemia less than one time per week 1\n\u0081no hypoglycemia 0\n4. level of glycemic management\n\u0081a1c levels >9% (>75 mmol/mol) 2\n\u0081a1c levels 7.5 \u20139% (59 \u201375 mmol/mol) 1\n\u0081a1c levels <7.5% (<59 mmol/mol) 0\n5. type of treatment\n\u0081multiple daily mixed insulin injections 3\n\u0081basal bolus/insulin pump 2.5\n\u0081once-daily mixed insulin 2\n\u0081basal insulin 1.5\n\u0081glibenclamide/glyburide 1\n\u0081gliclazide modi \ufb01ed release or glimepiride or repaglinide 0.5\n\u0081other therapy not including sulfonylureas or insulin 0\n6. self-monitoring of glucose\n\u0081indicated but not conducted 2\n\u0081indicated but conducted suboptimally 1\n\u0081conducted as indicated 0\n7. acute complications\n\u0081dka or hhs in the last 3 months 3\n\u0081dka or hhs in the last 6 months 2\n\u0081dka or hhs in the last 12 months 1\n\u0081no dka or hhs 0\n8. mvd complications and comorbidities\n\u0081unstable mvd 6.5\n\u0081stable mvd 2\n\u0081no mvd 0\n9. renal complications and comorbidities\n\u0081egfr<30 ml/min/1.73 m26.5\n\u0081egfr 30 \u201345 ml/min/1.73 m24\n\u0081egfr 45 \u201360 ml/min/1.73 m23\n\u0081egfr>60 ml/min/1.73 m20\n10. pregnancy*\n\u0081pregnant not within glycemic goals 6.5\n\u0081pregnant within glycemic goals 3.5\n\u0081not pregnant 0\n11. frailty and cognitive function\n\u0081impaired cognitive function or frail 6.5\n\u0081>70 years old with no home support 3.5\n\u0081no frailty or loss in cognitive function 0\n12. physical labor\n\u0081highly intense physical labor 4\n\u0081moderately intense physical labor 2\n\u0081no physical labor 0\n13. previous ramadan experience\n\u0081overall negative experience 1\n\u0081no negative or positive experience 0\ncontinued on p. s100diabetesjournals.org/care facilitating positive health behaviors and well-being s99downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nsection 1, \u201cimproving care and promoting\nhealth in populations, \u201dfor more informa-\ntion concerning the social determinants ofhealth and related issues like food insecu-rity and access.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia unawareness",
+      "severe hypoglycemia",
+      "multiple weekly hypoglycemia",
+      "hypoglycemia less than one time per week",
+      "food insecurity"
+    ],
+    "Examination Indicators": [
+      "A1C levels >9% (>75 mmol/mol)",
+      "A1C levels 7.5-9% (59-75 mmol/mol)",
+      "A1C levels <7.5% (<59 mmol/mol)",
+      "eGFR<30 ml/min/1.73 m2",
+      "eGFR 30-45 ml/min/1.73 m2",
+      "eGFR 45-60 ml/min/1.73 m2",
+      "eGFR>60 ml/min/1.73 m2"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "self-monitoring of glucose"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "hypoglycemia unawareness",
+      "recent severe hypoglycemia",
+      "multiple weekly hypoglycemia",
+      "hypoglycemia less than one time per week",
+      "DKA",
+      "HHS"
+    ],
+    "Medication Frequency": [
+      "multiple daily mixed insulin injections",
+      "once-daily mixed insulin"
+    ],
+    "Cause": [],
+    "Severity": [
+      "A1C levels >9% (>75 mmol/mol)",
+      "A1C levels 7.5-9% (59-75 mmol/mol)",
+      "A1C levels <7.5% (<59 mmol/mol)"
+    ],
+    "Non-Medication Treatment": [
+      "self-monitoring of glucose",
+      "referral to appropriate programs and resources for food insecurity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "A1C levels >9% (>75 mmol/mol)",
+      "A1C levels 7.5-9% (59-75 mmol/mol)",
+      "A1C levels <7.5% (<59 mmol/mol)",
+      "eGFR<30 ml/min/1.73 m2",
+      "eGFR 30-45 ml/min/1.73 m2",
+      "eGFR 45-60 ml/min/1.73 m2",
+      "eGFR>60 ml/min/1.73 m2"
+    ],
+    "Medication Methods": [
+      "multiple daily mixed insulin injections",
+      "basal bolus/insulin pump",
+      "once-daily mixed insulin",
+      "basal insulin"
+    ],
+    "Duration": [
+      "diabetes duration \u226510 years",
+      "diabetes duration <10 years",
+      "DKA or HHS in the last 3 months",
+      "DKA or HHS in the last 6 months",
+      "DKA or HHS in the last 12 months"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "hypoglycemia",
+      "hypoglycemia unawareness",
+      "DKA (diabetic ketoacidosis)",
+      "HHS (hyperglycemic hyperosmolar state)",
+      "MVD (microvascular disease)",
+      "renal complications",
+      "food insecurity"
+    ]
+  }
+}

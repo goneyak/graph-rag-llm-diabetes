@@ -1,0 +1,44 @@
+{
+  "text": "; look\nahead research group. association of intensivelifestyle intervention, \ufb01tness, and body mass\nindex with risk of heart failure in overweight orobese adults with type 2 diabetes mellitus: an\nanalysis from the look ahead trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "heart"
+    ],
+    "Clinical Manifestations": [
+      "heart failure",
+      "type 2 diabetes mellitus",
+      "overweight",
+      "obesity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "fitness assessment",
+      "body mass index measurement"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intensive lifestyle intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "heart failure",
+      "type 2 diabetes mellitus",
+      "overweight",
+      "obesity"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "text": "people with diabetes who\nare taking insulin and/or secretagoguesshould be medically monitored duringthe fasting period (218). because of thesimplicity of intermittent fasting andtime-restricted eating, these may be use-\nful strategies for people with diabetes\nwho are looking for practical eating man-agement tools.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "insulin",
+      "secretagogues"
+    ],
+    "Examination Methods": [
+      "medical monitoring during fasting period"
+    ],
+    "Medication Name": [
+      "insulin",
+      "secretagogues"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intermittent fasting",
+      "time-restricted eating",
+      "fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "during the fasting period"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "text": "; look\nahead research group. bene \ufb01ts of modest\nweight loss in improving cardiovascular risk factorsin overweight and obese individuals with type 2diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "overweight",
+      "obese",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "cardiovascular risk factors"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "overweight",
+      "obese"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "weight loss",
+      "modest weight loss"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "cardiovascular risk factors",
+      "obesity",
+      "overweight"
+    ]
+  }
+}

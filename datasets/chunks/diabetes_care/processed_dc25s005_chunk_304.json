@@ -1,0 +1,37 @@
+{
+  "text": "clinically signi \ufb01cant behavioral\nhealth diagnoses are considerably more\nprevalent in people with diabetes than in\nthose without (357,358). psychosocial well-being is a critical component of diabetescare and self-management.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "behavioral health diagnoses"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "psychosocial well-being",
+      "diabetes-care",
+      "self-management"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "behavioral health diagnoses",
+      "diabetes"
+    ]
+  }
+}

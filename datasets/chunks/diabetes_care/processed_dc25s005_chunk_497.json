@@ -1,0 +1,44 @@
+{
+  "text": "asystematic review and network meta-analysis.diabetes res clin pract 2023;195:110207\n90. builes-monta ~no ce, ortiz-cano na, ramirez-\nrinc/c19on a, rojas-henao na. ef \ufb01cacy and safety of\ncarbohydrate counting versus other forms ofdietary advice in patients with type 1 diabetesmellitus: a systematic review and meta-analysisof randomised clinical trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes mellitus"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "network meta-analysis",
+      "randomised clinical trials"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Carbohydrate counting",
+      "Dietary advice"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Type 1 diabetes mellitus"
+    ]
+  }
+}

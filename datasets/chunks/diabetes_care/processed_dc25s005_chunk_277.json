@@ -1,0 +1,68 @@
+{
+  "text": "people with diabetes who smoke and areexposed to second-hand smoke have a\nheightened risk of macrovascular compli-\ncations (e.g., cardiovascular and peripheral\nvascular disease), microvascular complica-\ntions (e.g., kidney disease and visual im-pairment), worsened glycemic outcomes,\nand premature death compared with\nthose who do not smoke (312 \u2013315). emerging data suggest that smoking has a\nrole in the development of type 2 diabe-\ntes, and quitting has been shown to signi \ufb01-\ncantly decrease this risk over time (316).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "concurrent diseases",
+    "symptoms",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular",
+      "peripheral vascular",
+      "kidney",
+      "visual"
+    ],
+    "Clinical Manifestations": [
+      "macrovascular complications",
+      "microvascular complications",
+      "kidney disease",
+      "visual impairment",
+      "worsened glycemic outcomes",
+      "premature death",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "macrovascular complications (e.g., cardiovascular and peripheral vascular disease)",
+      "microvascular complications (e.g., kidney disease and visual impairment)",
+      "worsened glycemic outcomes",
+      "premature death"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes",
+      "smoking",
+      "second-hand smoke exposure"
+    ],
+    "Severity": [
+      "heightened risk"
+    ],
+    "Non-Medication Treatment": [
+      "quitting smoking"
+    ],
+    "Pathogenesis": [
+      "smoking has a role in the development of type 2 diabetes",
+      "smoking and second-hand smoke exposure increase risk of complications in people with diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes",
+      "macrovascular complications",
+      "cardiovascular disease",
+      "peripheral vascular disease",
+      "microvascular complications",
+      "kidney disease",
+      "visual impairment"
+    ]
+  }
+}

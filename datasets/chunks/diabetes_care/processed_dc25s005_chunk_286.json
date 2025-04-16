@@ -1,0 +1,49 @@
+{
+  "text": "while combustible tobaccoproducts are clearly the most harmful,electronic products should not be charac-\nterized as harmless, as health risks with\nuse that affect the cardiovascular and re-spiratory systems have been identi \ufb01ed\n(328,329). findings from the population\nassessment of tobacco and health (path)\nstudy suggest e-cigarettes may contributeto nicotine dependence, con \ufb01rming there\nis no safe tobacco product (330,331).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent_diseases",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular system",
+      "respiratory systems"
+    ],
+    "Clinical Manifestations": [
+      "health risks",
+      "nicotine dependence"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "population assessment of tobacco and health (path) study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "health risks with use that affect the cardiovascular and respiratory systems",
+      "nicotine dependence"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "combustible tobacco products",
+      "electronic products",
+      "e-cigarettes"
+    ],
+    "Severity": [
+      "most harmful"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular system risks",
+      "respiratory system risks",
+      "nicotine dependence"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "text": "when combined with individu-\nalized dsmes or behavioral interventions,\ncgm demonstrated greater improvementof glycemic and psychosocial outcomesthan cgm alone (47,64). similarly, dsmesplus intermittently scanned cgm (iscgm)demonstrated increased time in range\n(70\u2013180 mg/dl [3.9 \u201310.0 mmol/l]), less\ntime above range, and greater reductionin a1c compared with dsmes alone (65).incorporating a systematic approach fortechnology assessment, adoption, and\nintegration into the diabetes care plan\ncould help ensure equity in access andstandardized application of technology-enabled solutions (8,51,66 \u201368).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycemic outcomes",
+      "psychosocial outcomes",
+      "time in range (70-180 mg/dl [3.9-10.0 mmol/l])",
+      "time above range",
+      "reduction in A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "continuous glucose monitoring (CGM)",
+      "intermittently scanned CGM (isCGM)",
+      "diabetes self-management education and support (DSMES)",
+      "technology assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (diabetes self-management education and support)",
+      "behavioral interventions",
+      "CGM (continuous glucose monitoring)",
+      "iSCGM (intermittently scanned CGM)",
+      "systematic approach for technology assessment, adoption, and integration into diabetes care plan"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "time in range (70-180 mg/dl [3.9-10.0 mmol/l])",
+      "reduction in A1C"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

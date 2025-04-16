@@ -1,0 +1,45 @@
+{
+  "text": "diabetes res clin pract 2022;184:109197\n535. goebel-fabbri ae, fikkan j, franko dl,\npearson k, anderson bj, weinger k. insulin\nrestriction and associated morbidity and mortality\nin women with type 1 diabetes. diabetes care2008;31:415 \u2013419\n536. araia e, king rm, pouwer f, speight j,\nhendrieckx c. psychological correlates of disordered\neating in youth with type 1 diabetes: results from\ndiabetes miles youth-australia.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "disordered eating"
+    ],
+    "Examination Indicators": [
+      "insulin restriction"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes miles youth-australia"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "insulin restriction and associated morbidity and mortality"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin restriction"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "disordered eating"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "association of diabetes care & education\nspecialists, 2023, p. 455-484\n85. salvia mg, quatromoni pa. behavioral\napproaches to nutrition and eating patterns formanaging type 2 diabetes: a review. am j medopen 2023;9:100034\n86. schwingshackl l, schwedhelm c, hoffmann g,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "nutrition",
+      "eating patterns",
+      "behavioral approaches"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "behavioral approaches to nutrition and eating patterns"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "text": "front med (lausanne)2023;10:1204849\n204. farhat g, mellor dd, sattar n, harvie m,\nissa b, rutter mk. effectiveness of lifestyle\ninterventions/culturally bespoke programmes insouth asian ethnic groups targeting weight lossfor prevention and/or remission of type 2diabetes: a systematic review and meta-analysis\nof intervention trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "lifestyle interventions",
+      "culturally bespoke programmes",
+      "weight loss interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

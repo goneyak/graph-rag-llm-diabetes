@@ -1,0 +1,52 @@
+{
+  "text": "hypoglycemia risk while fasting inpeople using insulin, sulfonylureas,\nand other insulin secretagogues is higher\nthan those treated with other types ofdiabetes medications (230). the safety of\nsglt2 inhibitors was assessed in several\nstudies during ramadan fasting.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "causes",
+    "required medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin",
+      "sulfonylureas",
+      "insulin secretagogues",
+      "sglt2 inhibitors"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "fasting",
+      "Ramadan fasting"
+    ],
+    "Severity": [
+      "higher risk"
+    ],
+    "Non-Medication Treatment": [
+      "fasting",
+      "ramadan fasting"
+    ],
+    "Pathogenesis": [
+      "hypoglycemia risk while fasting is higher in people using insulin, sulfonylureas, and other insulin secretagogues compared to other diabetes medications"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "hypoglycemia",
+      "diabetes"
+    ]
+  }
+}

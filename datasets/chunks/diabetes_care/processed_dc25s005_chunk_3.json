@@ -1,0 +1,44 @@
+{
+  "text": "essential to achieving these goals are diabetes self-management education andsupport (dsmes), medical nutrition therapy (mnt), routine physical activity, ade-quate quality sleep, support for cessation of tobacco products and vaping, health be-havior counseling, and psychosocial care. following an initial comprehensive healthevaluation (see section 4, \u201ccomprehensive medical evaluation and assessment of\ncomorbidities \u201d), health care professionals should engage in person-centered collabo-\nrative care with people with diabetes (3 \u20136).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "comprehensive medical evaluation",
+      "assessment of comorbidities",
+      "diabetes self-management education and support (DSMES)",
+      "medical nutrition therapy (MNT)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and support (DSMES)",
+      "medical nutrition therapy (MNT)",
+      "routine physical activity",
+      "adequate quality sleep",
+      "support for cessation of tobacco products and vaping",
+      "health behavior counseling",
+      "psychosocial care",
+      "person-centered collaborative care",
+      "comprehensive health evaluation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

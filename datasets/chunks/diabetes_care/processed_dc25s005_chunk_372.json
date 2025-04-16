@@ -1,0 +1,36 @@
+{
+  "text": "in people with type 2 diabe-tes, bingeing (excessive food intake withan accompanying sense of loss of control)is most commonly reported. for peoplewith type 2 diabetes treated with insulin,intentional omission is also frequently re-ported (461).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "bingeing (excessive food intake with an accompanying sense of loss of control)",
+      "intentional omission of insulin"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "text": "strengthening\nresistance exercise (i.e., any \nactivity that uses the person's \nown body weight or works against \na resistance) also improves insulin \nsensitivity and glucose levels; activities \nlike tai chi and yoga also encompass \nelements of flexibility and balance.sitting/breaking up prolonged sitting \n\u2022 limit sitting. breaking up prolonged sitting (at least every 30 min)  \nwith short regular bouts of slow walking or simple resistance  \nexercises can improve glucose metabolism.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "body"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glucose levels",
+      "glucose metabolism"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "resistance exercise",
+      "tai chi",
+      "yoga",
+      "slow walking",
+      "simple resistance exercises"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "at least every 30 min"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "resistance exercise",
+      "activities using body weight",
+      "working against resistance",
+      "tai chi",
+      "yoga",
+      "breaking up prolonged sitting",
+      "short regular bouts of slow walking",
+      "simple resistance exercises",
+      "limit sitting"
+    ],
+    "Pathogenesis": [
+      "prolonged sitting affects glucose metabolism"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "at least every 30 min"
+    ],
+    "Diseases": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "text": "international diabetes nursing\n2015;12:40 \u201355\n415. ngan hy , chong yy , chien wt. effects of\nmindfulness- and acceptance-based interventionson diabetes distress and glycaemic level in people\nwith type 2 diabetes: systematic review and meta-\nanalysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [
+      "glycaemic level"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "mindfulness-based interventions",
+      "acceptance-based interventions",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "diabetes distress"
+    ],
+    "Non-Medication Treatment": [
+      "mindfulness-based interventions",
+      "acceptance-based interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "diabetes distress"
+    ]
+  }
+}

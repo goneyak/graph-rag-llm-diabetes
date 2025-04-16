@@ -1,0 +1,47 @@
+{
+  "text": "simi-\nlarly, a randomized proof-of-concept studywith 30 adults with osa and obesity com-pared cpap therapy, glp-1 ra \u2013mediated\nweight loss, and both in combination for\n24 weeks (517). findings showed thatcpap alone and in combination reducedapnea-hypopnea severity more than glp-1\nra\u2013mediated weight loss alone.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "OSA",
+      "obesity",
+      "apnea-hypopnea"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "CPAP therapy",
+      "GLP-1 RA\u2013mediated weight loss"
+    ],
+    "Medication Name": [
+      "GLP-1 RA"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "obesity"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "CPAP therapy"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "24 weeks"
+    ],
+    "Diseases": [
+      "OSA",
+      "obesity",
+      "apnea-hypopnea"
+    ]
+  }
+}

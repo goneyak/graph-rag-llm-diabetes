@@ -1,0 +1,59 @@
+{
+  "text": "physical function/\nfrailty/sarcopenia\n\u2022   the frailty \nphenotype in type 2 \ndiabetes is unique, \noften encompassing \nobesity alongside \nphysical frailty, at \nan earlier age. the \nability of people with type 2 diabetes to \nundertake simple \nfunctional exercises \nin middle-age is \nsimilar to that in those \nover a decade older.sleep\naim for consistent, \nuninterrupted sleep, \neven on weekends.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "frailty phenotype",
+      "obesity",
+      "physical frailty"
+    ],
+    "Examination Indicators": [
+      "reduced physical function",
+      "sarcopenia"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "functional exercises"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "frailty phenotype in type 2 diabetes",
+      "physical frailty",
+      "sarcopenia"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "type 2 diabetes"
+    ],
+    "Severity": [
+      "obesity alongside physical frailty",
+      "at an earlier age",
+      "functional ability similar to those over a decade older"
+    ],
+    "Non-Medication Treatment": [
+      "consistent, uninterrupted sleep",
+      "functional exercises"
+    ],
+    "Pathogenesis": [
+      "frailty phenotype in type 2 diabetes encompasses obesity alongside physical frailty",
+      "occurs at an earlier age"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "frailty",
+      "sarcopenia",
+      "obesity"
+    ]
+  }
+}

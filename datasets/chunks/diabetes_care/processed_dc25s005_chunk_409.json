@@ -1,0 +1,69 @@
+{
+  "text": "sleepfragmentation and hypoxemia activate the\nsympathetic nervous system, contributing\nto hyperglycemia, insulin resistance, in-creased circulating free fatty acids, im-paired microcirculation, oxidative stress,\nand psychological stress (515). a systematic\nreview and meta-analysis of 11 rcts with964 total participants found that continu-ous positive airway pressure (cpap) signi \ufb01-\ncantly reduced a1c by 0.24% (95% ci\n/c00.43 to /c00.06%, p= 0.001) (516).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "sympathetic nervous system",
+      "microcirculation"
+    ],
+    "Clinical Manifestations": [
+      "sleep fragmentation",
+      "hypoxemia",
+      "hyperglycemia",
+      "insulin resistance",
+      "increased circulating free fatty acids",
+      "oxidative stress",
+      "psychological stress"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "continuous positive airway pressure (CPAP)",
+      "systematic review",
+      "meta-analysis",
+      "RCTs"
+    ],
+    "Medication Name": [
+      "continuous positive airway pressure",
+      "CPAP"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "sleepfragmentation",
+      "hypoxemia",
+      "sympathetic nervous system activation",
+      "psychological stress"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "continuous positive airway pressure (CPAP)"
+    ],
+    "Pathogenesis": [
+      "sleep fragmentation and hypoxemia activate the sympathetic nervous system",
+      "contributing to hyperglycemia",
+      "insulin resistance",
+      "increased circulating free fatty acids",
+      "impaired microcirculation",
+      "oxidative stress",
+      "psychological stress"
+    ],
+    "Examination Indicator Values": [
+      "A1C reduced by 0.24% (95% CI -0.43 to -0.06%, p=0.001)"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "sleep fragmentation",
+      "hypoxemia"
+    ]
+  }
+}

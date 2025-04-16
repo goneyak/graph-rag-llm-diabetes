@@ -1,0 +1,50 @@
+{
+  "text": "psychological\nand social problems can interfere with a\nperson \u2019s( 3 5 9 \u2013361) or family \u2019s (361) ability\nto perform diabetes care tasks and nega-tively affect health status. in addition to\naffecting a person \u2019s ability to co nduct self-\nmanagement, behavioral health diagnosesare associated with reduced short-term gly-cemic stability and increased mortality risk\n(358,362).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "psychological problems",
+      "social problems",
+      "reduced short-term glycemic stability"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "psychological problems",
+      "social problems"
+    ],
+    "Severity": [
+      "reduced short-term glycemic stability",
+      "increased mortality risk"
+    ],
+    "Non-Medication Treatment": [
+      "diabetes care tasks"
+    ],
+    "Pathogenesis": [
+      "psychological and social problems can interfere with ability to perform diabetes care tasks",
+      "behavioral health diagnoses are associated with reduced short-term glycemic stability and increased mortality risk"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "short-term"
+    ],
+    "Diseases": [
+      "diabetes",
+      "psychological problems",
+      "social problems",
+      "behavioral health diagnoses"
+    ]
+  }
+}

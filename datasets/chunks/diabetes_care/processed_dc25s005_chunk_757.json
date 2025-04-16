@@ -1,0 +1,41 @@
+{
+  "text": "pediatr diabetes 2021;22:\n656\u2013666\n377. myers ak, grannemann bd, lingvay i, trivedi\nmh. brief report: depression and history of suicideattempts in adults with new-onset type 2 diabetes.psychoneuroendocrinology 2013;38:2810 \u20132814\n378. majidi s, o \u2019donnell hk, stanek k, youngkin\ne, gomer t, driscoll ka.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "suicide attempts"
+    ],
+    "Examination Indicators": [
+      "new-onset type 2 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "psychoneuroendocrinology"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "new-onset type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "depression",
+      "type 2 diabetes",
+      "suicide attempts"
+    ]
+  }
+}

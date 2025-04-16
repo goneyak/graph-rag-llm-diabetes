@@ -1,0 +1,38 @@
+{
+  "text": "priority trial: results from a feasibility randomisedcontrolled trial of a psychoeducational interventionfor parents to prevent disordered eating in\nchildren and young people with type 1 diabetes. diabet med 2024;41:e15263\n467. wisting l, haugvik s, wennersberg al, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "disordered eating"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "randomised controlled trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "psychoeducational intervention for parents"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "disordered eating",
+      "type 1 diabetes"
+    ]
+  }
+}

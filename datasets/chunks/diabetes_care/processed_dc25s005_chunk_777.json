@@ -1,0 +1,36 @@
+{
+  "text": "pediatr diabetes 2018;19:840 \u2013\n847\n402. wasserman rm, eshtehardi ss, anderson\nbj, weissberg-benchell ja, hilliard me. pro \ufb01les of\ndepressive symptoms and diabetes distress in\npreadolescents with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depressive symptoms",
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "depressive symptoms",
+      "diabetes distress"
+    ]
+  }
+}

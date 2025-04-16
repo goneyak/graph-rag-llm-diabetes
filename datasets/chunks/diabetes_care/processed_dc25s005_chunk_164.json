@@ -1,0 +1,38 @@
+{
+  "text": "however, in another rct with long-term, real-world, clinic-based follow-\nup of 10 years, tomah et al. reported\nlasting glycemic bene \ufb01ts in their co-\nhort with an average weight loss of 7.7 \u00b10.9 kg ( /c06.9 \u00b1 0.8%) maintained for\n10 years (211).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glycemic benefits",
+      "weight loss of 7.7 \u00b10.9 kg",
+      "weight loss of 6.9 \u00b1 0.8%"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCT with long-term, real-world, clinic-based follow-up of 10 years"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "weight loss of 7.7 \u00b10.9 kg",
+      "/c06.9 \u00b1 0.8% (maintained for 10 years)"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "10 years"
+    ],
+    "Diseases": []
+  }
+}

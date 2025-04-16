@@ -1,0 +1,33 @@
+{
+  "text": "/c15whole-grain foods \u2014where culturally appropriate, whole-grain versions of commonly consumed foods such as 100% whole-wheat breads or\npastas, and brown rice. when not culturally appropriate, focus more on portion control.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended_foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "whole-grain foods",
+      "whole-wheat breads",
+      "whole-wheat pastas",
+      "brown rice",
+      "portion control"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

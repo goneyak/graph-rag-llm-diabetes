@@ -1,0 +1,41 @@
+{
+  "text": "comparison of glycemic and metaboliccontrol in youth with type 1 diabetes with andwithout antipsychotic medication: analysis fromthe nationwide german/austrian diabetes\nsurvey (dpv). diabetes care 2015;38:1051 \u20131057\n538. cooper mn, lin a, alvares ga, de klerk nh,\njones tw , davis ea.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [
+      "glycemic control",
+      "metabolic control"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "nationwide german/austrian diabetes survey (dpv)"
+    ],
+    "Medication Name": [
+      "antipsychotic medication"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "association of plasma phospholipid n-3 and n-6\npolyunsaturated fatty acids with type 2 diabetes:\nthe epic-interact case-cohort study. plos med2016;13:e1002094\n1 3 6 .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "plasma"
+    ],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "phospholipid n-3 and n-6 polyunsaturated fatty acids"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "case-cohort study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "plasma phospholipid n-3 and n-6 polyunsaturated fatty acids"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

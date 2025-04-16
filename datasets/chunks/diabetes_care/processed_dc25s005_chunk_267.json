@@ -1,0 +1,57 @@
+{
+  "text": "exercise in the presence of\nmicrovascular complications\nsee section 11, \u201cchronic kidney disease\nand risk management, \u201dand section 12,\n\u201cretinopathy, neuropathy, and foot care, \u201d\nfor more information on these long-termcomplications. a meta-analysis demon-strated that high versus low levels of phys-ical activity were associated with lowercvd incidence and mortality (summaryrisk ratio 0.84 [95% ci 0.77 \u20130.92], n=7 ,\nand 0.62 [0.55 \u20130.69], n= 11) and\nfewer microvascular complications (0.76[0.67 \u20130.86], n= 8).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "foot"
+    ],
+    "Clinical Manifestations": [
+      "retinopathy",
+      "neuropathy"
+    ],
+    "Examination Indicators": [
+      "microvascular complications",
+      "CVD incidence",
+      "CVD mortality"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "meta-analysis",
+      "physical activity assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "high versus low levels of physical activity"
+    ],
+    "Non-Medication Treatment": [
+      "exercise",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "summary risk ratio 0.84 [95% CI 0.77-0.92]",
+      "0.62 [0.55-0.69]",
+      "0.76 [0.67-0.86]"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "microvascular complications",
+      "chronic kidney disease",
+      "retinopathy",
+      "neuropathy",
+      "foot care",
+      "CVD"
+    ]
+  }
+}

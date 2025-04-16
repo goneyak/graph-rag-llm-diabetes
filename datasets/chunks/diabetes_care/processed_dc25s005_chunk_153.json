@@ -1,0 +1,55 @@
+{
+  "text": "weight management\nmanagement and reduction of weight is\nimportant for people with type 1 diabe-tes, type 2 diabetes, or prediabetes withoverweight or obesity. to support weightloss and improve a1c, cvd risk factors,and well-being in adults with overweightor obesity and prediabetes or diabetes,mnt and dsmes services should includean individualized eating plan resulting in\nan energy de \ufb01cit in combination with en-\nhanced physical activity (50).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "medical nutrition therapy (MNT)",
+      "diabetes self-management education and support (DSMES)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "prediabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "overweight",
+      "obesity"
+    ],
+    "Non-Medication Treatment": [
+      "management and reduction of weight",
+      "individualized eating plan resulting in an energy deficit",
+      "enhanced physical activity",
+      "MNT",
+      "DSMES services"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "prediabetes",
+      "obesity",
+      "overweight"
+    ]
+  }
+}

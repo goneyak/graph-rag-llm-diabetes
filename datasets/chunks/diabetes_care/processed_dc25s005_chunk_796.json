@@ -1,0 +1,48 @@
+{
+  "text": "diabetescare 2016;39:1963 \u20131971\n424. godoi a, reis marques i, padr ~ao emh,\net al. glucose control and psychosocial outcomes\nwith use of automated insulin delivery for 12 to96 weeks in type 1 diabetes: a meta-analysis ofrandomised controlled trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glucose control"
+    ],
+    "Medication Dosage": [
+      "automated insulin delivery for 12 to 96 weeks"
+    ],
+    "Examination Methods": [
+      "meta-analysis of randomised controlled trials"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "automated insulin delivery for 12 to 96 weeks"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "automated insulin delivery"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "automated insulin delivery"
+    ],
+    "Duration": [
+      "12 to 96 weeks"
+    ],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

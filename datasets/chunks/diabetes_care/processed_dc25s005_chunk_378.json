@@ -1,0 +1,49 @@
+{
+  "text": "caution should be taken in labeling\nindividuals with diabetes as having a diag-\nnosable psychiatric disorder, i.e., an eating\ndisorder, when disordered or disrupted\neating patterns are found to be associated\nwith the disease and its treatment. inother words, patterns of maladaptive food\nintake that appear to have a psychological\norigin may be driven by physiologic disrup-\ntion in hunger and satiety cues, metabolic\nperturbations, and/or secondary distress\nbecause of the individual \u2019s inability to con-\ntrol their hunger and satiety (465).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "disordered eating patterns",
+      "disrupted eating patterns",
+      "maladaptive food intake",
+      "physiologic disruption in hunger and satiety cues",
+      "metabolic perturbations",
+      "secondary distress",
+      "inability to control hunger and satiety"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "physiologic disruption in hunger and satiety cues",
+      "metabolic perturbations",
+      "secondary distress due to inability to control hunger and satiety"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "physiologic disruption in hunger and satiety cues",
+      "metabolic perturbations"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "eating disorder",
+      "disordered eating",
+      "disrupted eating patterns"
+    ]
+  }
+}

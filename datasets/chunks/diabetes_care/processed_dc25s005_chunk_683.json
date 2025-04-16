@@ -1,0 +1,37 @@
+{
+  "text": "exercise/physical activity in individuals with type 2\ndiabetes: a consensus statement from the\namerican college of sports medicine. med scisports exerc 2022;54:353 \u2013368\n298. g illen jb, little jp, punthakee z, tarnopolsky\nma, riddell mc, gibala mj.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required_medications",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "Type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

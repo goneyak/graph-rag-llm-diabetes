@@ -1,0 +1,47 @@
+{
+  "text": "higher intensities of\naerobic training are generally considered\nsuperior to low-intensity training (300).hiit reduces a1c and bmi and improves\ufb01tness levels in individuals with type 2\ndiabetes. because hiit can lead to tran-\nsient increases in post-exercise hypergly-cemia, individuals with type 1 diabetesmay need to use bolus correction (301)\nand individuals with type 2 diabetes are\nencouraged to monitor blood glucosewhen starting hiit (297).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "post-exercise hyperglycemia"
+    ],
+    "Examination Indicators": [
+      "A1C",
+      "BMI",
+      "fitness levels"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "blood glucose monitoring"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "post-exercise hyperglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "aerobic training",
+      "HIIT (high-intensity interval training)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "bolus correction"
+    ],
+    "Duration": [
+      "post-exercise"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "text": "food groups and risk of all-cause mortality: a\nsystematic review and meta-analysis of prospective\nstudies. am j clin nutr 2017;105:1462 \u20131473\n87. benson g, hayes j. an update on the\nmediterranean, vegetarian, and dash eatingpatterns in people with type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "prospective studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Mediterranean diet",
+      "vegetarian diet",
+      "DASH eating pattern"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "all-cause mortality"
+    ]
+  }
+}

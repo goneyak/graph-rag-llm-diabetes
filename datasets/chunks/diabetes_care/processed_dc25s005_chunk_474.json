@@ -1,0 +1,48 @@
+{
+  "text": "a r o n s o nr ,b r o w nr e ,c h ul ,e ta l .i m p a c to f\n\ufb02ash glucose monitoring in people with type 2\ndiabetes inadequately controlled with non-insulinantihyperglycaemic therapy (immediate): a ran-\ndomized controlled trial. diabetes obes metab\n2023;25:1024 \u20131031\n66. patil sp , albanese-o \u2019neill a, yehl k, seley jj,\nhughes as.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "inadequately controlled with non-insulin antihyperglycaemic therapy"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "flash glucose monitoring"
+    ],
+    "Medication Name": [
+      "flash glucose monitoring",
+      "non-insulin antihyperglycaemic therapy"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "inadequately controlled"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "inadequately controlled"
+    ],
+    "Non-Medication Treatment": [
+      "flash glucose monitoring"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "non-insulin antihyperglycaemic therapy"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

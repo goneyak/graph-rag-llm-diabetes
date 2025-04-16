@@ -1,0 +1,44 @@
+{
+  "text": "a systematic review of interventions that addressfood insecurity for persons with prediabetes ordiabetes using the re-aim framework. sci diabetesself manag care 2024;50:141 \u2013166\n254. hager er, quigg am, black mm, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes",
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "RE-AIM framework"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "food insecurity"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "interventions that address food insecurity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "prediabetes",
+      "diabetes"
+    ]
+  }
+}

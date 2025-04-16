@@ -1,0 +1,48 @@
+{
+  "text": "am j clin nutr 2009;89:1 \u201314\n185. mcglynn nd, khan ta, wang l, et al. association of low- and no-calorie sweetened\nbeverages as a replacement for sugar-sweetened\nbeverages with body weight and cardiometabolicrisk: a systematic review and meta-analysis.jama netw open 2022;5:e222092\n186. gostoli s, raimondi g, popa ap, giovannini\nm, benasi g, rafanelli c. behavioral lifestyle\ninterventions for weight loss in overweight or\nobese patients with type 2 diabetes: a systematicreview of the literature.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes",
+      "overweight",
+      "obese"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "behavioral lifestyle interventions for weight loss",
+      "replacement of sugar-sweetened beverages with low- and no-calorie sweetened beverages"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "overweight",
+      "obesity",
+      "cardiometabolic risk"
+    ]
+  }
+}

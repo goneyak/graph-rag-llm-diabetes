@@ -1,0 +1,43 @@
+{
+  "text": "impact of physical activity on glycemic\ncontrol and prevalence of cardiovascular riskfactors in adults with type 1 diabetes: a cross-sectional multicenter study of 18,028 patients.diabetes care 2015;38:1536 \u20131543\n282. u.s. department of health and human\nservices. physical activity guidelines for americans.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [
+      "type 1 diabetes",
+      "glycemic control",
+      "cardiovascular risk factors"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cross-sectional multicenter study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "cardiovascular risk factors"
+    ]
+  }
+}

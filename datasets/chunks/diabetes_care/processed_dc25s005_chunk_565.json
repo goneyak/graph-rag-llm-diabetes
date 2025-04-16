@@ -1,0 +1,46 @@
+{
+  "text": "the effect of cinnamon supplementation onglycemic control in patients with type 2 diabetesmellitus: an updated systematic review and dose-\nresponse meta-analysis of randomized controlled\ntrials. phytother res 2024;38:117 \u2013130\n165. khattab r, albannawi m, alhajjmohammed\nd, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes mellitus"
+    ],
+    "Examination Indicators": [
+      "glycemic control"
+    ],
+    "Medication Dosage": [
+      "cinnamon supplementation"
+    ],
+    "Examination Methods": [
+      "systematic review",
+      "dose-response meta-analysis",
+      "randomized controlled trials"
+    ],
+    "Medication Name": [
+      "cinnamon"
+    ],
+    "Disease Staging and Classification": [
+      "type 2 diabetes mellitus"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "cinnamon supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes mellitus"
+    ]
+  }
+}

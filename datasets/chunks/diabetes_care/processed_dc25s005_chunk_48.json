@@ -1,0 +1,41 @@
+{
+  "text": "while the\noverarching healthy eating concepts used\nin dsmes can be taught by all membersof the team, mnt, which is more in-depth and individualized and derived\nfrom the evidence-based nutrition care\nprocess, can only be delivered and billedby rdns. for medicare part b, the mnt\nbene\ufb01t includes individual encounters re-\nimbursable for 3 h. each subsequent yearis reimbursed for 2 h. however, additional\nhours are available if a subsequent refer-\nral identi \ufb01es a change in treatment.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "MNT (Medical Nutrition Therapy)",
+      "nutrition care process"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "MNT (Medical Nutrition Therapy)",
+      "healthy eating concepts",
+      "evidence-based nutrition care process"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "3 h for initial Medicare part B MNT benefit",
+      "2 h each subsequent year",
+      "additional hours available with subsequent referral"
+    ],
+    "Diseases": []
+  }
+}

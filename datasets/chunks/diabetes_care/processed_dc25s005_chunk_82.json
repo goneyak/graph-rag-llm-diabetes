@@ -1,0 +1,42 @@
+{
+  "text": "thediabetes plate method (96) is a com-\nmonly used visual approach for providing\nbasic meal planning guidance for individ-uals with type 1 and type 2 diabetes. this simple graphic (featuring a 9-in\nplate) shows how to portion foods(one-half of the plate for nonstarchy\nvegetables, one-quarter of the plate\nfor protein, and one-quarter of theplate for carbohydrates).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes plate method"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes plate method",
+      "visual approach for meal planning guidance",
+      "simple graphic showing food portioning (one-half plate for nonstarchy vegetables, one-quarter plate for protein, one-quarter plate for carbohydrates)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "9-in plate"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "text": "diabetes distress in people withtype 2 diabetes is common and persis-tent, with prevalence rates over 60%(404,405). among people with type 1 dia-betes, the prevalence of diabetes distress\nis 22 \u201342%, with a 9-month incidence of\n54% (400,406).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [
+      "prevalence rates over 60% in type 2 diabetes",
+      "prevalence of 22-42% in type 1 diabetes",
+      "9-month incidence of 54% in type 1 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "diabetes distress with prevalence rates over 60% in type 2 diabetes",
+      "diabetes distress with prevalence of 22-42% in type 1 diabetes",
+      "9-month incidence of 54% in type 1 diabetes"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "prevalence rates over 60% in type 2 diabetes",
+      "prevalence of 22-42% in type 1 diabetes",
+      "9-month incidence of 54% in type 1 diabetes"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "9-month"
+    ],
+    "Diseases": [
+      "diabetes distress",
+      "type 2 diabetes",
+      "type 1 diabetes"
+    ]
+  }
+}

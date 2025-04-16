@@ -1,0 +1,46 @@
+{
+  "text": "effect of switching from intermittently scanned\nto real-time continuous glucose monitoring inadults with type 1 diabetes: 24-month resultsfrom the randomised alertt1 trial. lancetdiabetes endocrinol 2023;11:96 \u2013108\n437. talbo mk, katz a, hill l, peters tm, yale j-f,\nbrazeau a-s. effect of diabetes technologies on\nthe fear of hypoglycaemia among people livingwith type 1 diabetes: a systematic review andmeta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "necessary tests",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycaemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "intermittently scanned continuous glucose monitoring",
+      "real-time continuous glucose monitoring",
+      "diabetes technologies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intermittently scanned glucose monitoring",
+      "real-time continuous glucose monitoring",
+      "diabetes technologies"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "24-month"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "hypoglycaemia"
+    ]
+  }
+}

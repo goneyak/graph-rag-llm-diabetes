@@ -1,0 +1,36 @@
+{
+  "text": "exercise has been shown\nto improve blood glucose levels, reduce\ncardiovascular risk factors, contribute to\nweight loss, and improve well-being (255). physical activity is important for the gen-\neral population as well as people at risk\nfor and with established diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "blood glucose levels",
+      "cardiovascular risk factors"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

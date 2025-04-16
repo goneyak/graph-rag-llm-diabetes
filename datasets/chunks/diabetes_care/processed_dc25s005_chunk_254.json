@@ -1,0 +1,42 @@
+{
+  "text": "pre-exercise evaluation\nas discussed more fully in section 10,\u201ccardiovascular disease and risk man-\nagement, \u201dthe best protocol for assess-\ning asymptomatic people with diabetes\nfor coronary artery disease remains un-clear. the ada consensus report \u201cscreening\nfor coronary artery disease in patients\nwith diabetes \u201d(302) concluded that rou-\ntine testing is not recommended.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required tests",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "coronary artery"
+    ],
+    "Clinical Manifestations": [
+      "asymptomatic"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "pre-exercise evaluation",
+      "screening for coronary artery disease"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "pre-exercise evaluation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "coronary artery disease",
+      "cardiovascular disease"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "text": "the physiology of weight loss maintenanceis complex and involves many hormonal,psychosocial, behavioral, and environmen-tal factors. following a weight loss of at\nleast 8%, a subsequent \u201cweight loss main-\ntenance \u201dintervention was reported to beonly moderately bene \ufb01cial, as it helped\nsustain physical health improvements butnot glucose metabolism improvements(210).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "weight loss"
+    ],
+    "Examination Indicators": [
+      "glucose metabolism improvements"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "hormonal factors",
+      "psychosocial factors",
+      "behavioral factors",
+      "environmental factors"
+    ],
+    "Severity": [
+      "weight loss of at least 8%"
+    ],
+    "Non-Medication Treatment": [
+      "weight loss maintenance intervention"
+    ],
+    "Pathogenesis": [
+      "involves many hormonal, psychosocial, behavioral, and environmental factors"
+    ],
+    "Examination Indicator Values": [
+      "at least 8% weight loss"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "glucose metabolism"
+    ]
+  }
+}

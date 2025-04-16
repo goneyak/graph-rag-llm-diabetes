@@ -1,0 +1,55 @@
+{
+  "text": "b\n5.52 rescreen for depression at diag-\nnosis of complications or when thereare signi \ufb01cant changes in medical sta-\ntus.b\n5.53 refer to quali \ufb01ed behavioral\nhealth professionals or other trained\nhealth care professionals with experi-\nence using evidence-based treatmentapproaches for depression in con-junction with collaborative care withthe diabetes treatment team. a\nhistory of depression, current depres-\nsion, and antidepressant medication use\nare risk factors for the development of\ntype 2 diabetes, especially if the individ-\nual has other risk factors, such as obesity\nand family history of type 2 diabetes\n(439,440).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "type 2 diabetes",
+      "obesity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "rescreen for depression at diagnosis of complications",
+      "rescreen for depression when there are significant changes in medical status"
+    ],
+    "Medication Name": [
+      "antidepressant medication"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "depression",
+      "antidepressant medication use",
+      "obesity",
+      "family history of type 2 diabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "rescreen for depression at diagnosis of complications",
+      "rescreen when there are significant changes in medical status",
+      "refer to qualified behavioral health professionals",
+      "refer to trained health care professionals with experience using evidence-based treatment approaches for depression",
+      "collaborative care with the diabetes treatment team"
+    ],
+    "Pathogenesis": [
+      "history of depression, current depression, and antidepressant medication use are risk factors for the development of type 2 diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "type 2 diabetes",
+      "obesity",
+      "complications"
+    ]
+  }
+}

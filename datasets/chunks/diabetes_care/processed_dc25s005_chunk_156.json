@@ -1,0 +1,48 @@
+{
+  "text": "people\nwith prediabetes at a healthy weightshould also be considered for behavioralinterventions to help establish routineaerobic and resistance exercise (186,190,191) as well as healthy eating pat-terns. services delivered by health careprofessionals familiar with diabetes and\nits management, such as an rdn, have\nbeen found to be effective (81).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "behavioral interventions",
+      "routine aerobic and resistance exercise",
+      "healthy eating patterns",
+      "services delivered by health care professionals",
+      "services delivered by RDN"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "at a healthy weight"
+    ],
+    "Non-Medication Treatment": [
+      "behavioral interventions",
+      "routine aerobic exercise",
+      "resistance exercise",
+      "healthy eating patterns",
+      "services delivered by health care professionals familiar with diabetes and its management, such as an RDN"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "prediabetes"
+    ]
+  }
+}

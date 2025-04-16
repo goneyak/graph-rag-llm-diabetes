@@ -1,0 +1,47 @@
+{
+  "text": "neuropsychol\nrehabil 2017;27:507 \u2013521\n543. chow yy , verdonschot m, mcevoy ct,\npeeters g. associations between depression andcognition, mild cognitive impairment and\ndementia in persons with diabetes mellitus: a\nsystematic review and meta-analysis. diabetesres clin pract 2022;185:109227\n544. matsunaga m, tanihara s, he y, yatsuya h,\nota a. impact of diabetes on mortality andhospitalization after dementia diagnosis: health\ninsurance claims data analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "cognitive impairment",
+      "mild cognitive impairment",
+      "dementia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "health insurance claims data analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "mild cognitive impairment",
+      "dementia"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes mellitus"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "cognition",
+      "mild cognitive impairment",
+      "dementia",
+      "diabetes mellitus"
+    ]
+  }
+}

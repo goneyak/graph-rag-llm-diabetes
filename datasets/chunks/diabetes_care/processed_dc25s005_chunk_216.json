@@ -1,0 +1,65 @@
+{
+  "text": "/c15if once weekly, no change of time./c15no change\nnew generation sulfonylurea\n(glimepiride and gliclazide)low to moderate /c15if once daily, then take at main\nmealtime. /c15if twice daily, then split dose\nbetween the two meals./c15reduce dose if glucose levels are\nwithin individualized goal range and\nif no hypoglycemia or hyperglycemia\nis present at baseline.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycemia",
+      "hyperglycemia"
+    ],
+    "Examination Indicators": [
+      "glucose levels"
+    ],
+    "Medication Dosage": [
+      "once weekly, no change of time",
+      "once daily, then take at main mealtime",
+      "twice daily, then split dose between the two meals",
+      "reduce dose if glucose levels are within individualized goal range",
+      "low to moderate"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [
+      "glimepiride",
+      "gliclazide",
+      "sulfonylurea"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia",
+      "hyperglycemia"
+    ],
+    "Medication Frequency": [
+      "once weekly",
+      "once daily",
+      "twice daily"
+    ],
+    "Cause": [],
+    "Severity": [
+      "low to moderate"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "once weekly",
+      "once daily",
+      "twice daily",
+      "take at main mealtime",
+      "split dose between the two meals"
+    ],
+    "Duration": [
+      "once weekly",
+      "once daily",
+      "twice daily"
+    ],
+    "Diseases": [
+      "hypoglycemia",
+      "hyperglycemia"
+    ]
+  }
+}

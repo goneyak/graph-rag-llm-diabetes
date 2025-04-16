@@ -1,0 +1,46 @@
+{
+  "text": "checking glucose 3 h aftereating may help determine if additional in-sulin adjustments are required (i.e., increas-ing or stopping bolus) (124,125). adjusting\ninsulin doses to account for high-fat and/or\nhigh-protein meals requires determinationof anticipated nutrient intake to calculatethe mealtime dose.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glucose 3 h after eating"
+    ],
+    "Medication Dosage": [
+      "insulin adjustments",
+      "increasing or stopping bolus",
+      "insulin doses to account for high-fat and/or high-protein meals"
+    ],
+    "Examination Methods": [
+      "checking glucose 3 h after eating"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "3 h after eating"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "checking glucose 3 h after eating"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "mealtime dose"
+    ],
+    "Duration": [
+      "3 h after eating"
+    ],
+    "Diseases": []
+  }
+}

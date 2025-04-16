@@ -1,0 +1,41 @@
+{
+  "text": "j exerc sci fit 2021;19:241 \u2013251\n284. fan t, lin m-h, kim k. intensity differences\nof resistance training for type 2 diabetic patients:a systematic review and meta-analysis. health-care (basel) 2023;11:11285. jensen sbk, blond mb, sandsdal rm, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetic"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "resistance training",
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetic"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "resistance training"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetic",
+      "type 2 diabetes"
+    ]
+  }
+}

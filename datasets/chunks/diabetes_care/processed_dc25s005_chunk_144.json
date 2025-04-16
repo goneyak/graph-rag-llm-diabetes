@@ -1,0 +1,37 @@
+{
+  "text": "peo-ple with diabetes should be educatedabout these risks and encouraged tomonitor glucose frequently before andafter drinking alcohol to minimize such\nrisks. people with diabetes who consume\nalcohol can follow the same guidelinesas those without diabetes consistentwith dietary guidelines for americans,\n2020\u20132025 (76), which does not promote\nalcohol consumption in people who donot currently drink.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods_to_avoid",
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "glucose"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "glucose monitoring"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "monitoring glucose frequently before and after drinking alcohol",
+      "following the same guidelines as those without diabetes consistent with Dietary Guidelines for Americans, 2020-2025"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

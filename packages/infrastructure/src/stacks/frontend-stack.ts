@@ -7,17 +7,26 @@ import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as path from 'path';
 
+export interface FrontendStackProps extends cdk.StackProps {
+  environment: string;
+  s3Config: {
+    websiteBucketName?: string;
+  };
+  cloudfrontConfig: {
+    priceClass?: string;
+  };
+  apiEndpoint: string;
+}
+
 export class FrontendStack extends cdk.Stack {
   public readonly cloudfrontDistribution: cloudfront.Distribution;
   public readonly websiteBucket: s3.Bucket;
 
-  constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+  constructor(scope: Construct, id: string, props: FrontendStackProps) {
     super(scope, id, props);
 
-    // Get environment values from context
-    const environment = this.node.tryGetContext('environment') || 'dev';
-    const s3Config = this.node.tryGetContext('s3') || {};
-    const cloudfrontConfig = this.node.tryGetContext('cloudfront') || {};
+    // Get environment values from props
+    const { environment, s3Config, cloudfrontConfig, apiEndpoint } = props;
 
     // Create an S3 bucket for the website
     const bucketName = s3Config.websiteBucketName || `graph-app-website-${environment}-${this.account}`;
@@ -78,9 +87,6 @@ export class FrontendStack extends cdk.Stack {
       ],
     });
 
-    // Get the API endpoint from context
-    const apiEndpoint = this.node.tryGetContext('apiEndpoint');
-    
     // Deploy the website to S3 with environment variables
     new s3deploy.BucketDeployment(this, 'DeployWebsite', {
       sources: [
@@ -95,13 +101,11 @@ export class FrontendStack extends cdk.Stack {
     });
     
     // Output the API endpoint
-    if (apiEndpoint) {
-      new cdk.CfnOutput(this, 'ApiEndpoint', {
-        value: apiEndpoint,
-        description: 'The API endpoint for the chat service',
-        exportName: `ApiEndpoint-${environment}`,
-      });
-    }
+    new cdk.CfnOutput(this, 'ApiEndpoint', {
+      value: apiEndpoint,
+      description: 'The API endpoint for the chat service',
+      exportName: `ApiEndpoint-${environment}`,
+    });
 
     // Output the CloudFront URL
     new cdk.CfnOutput(this, 'CloudFrontURL', {

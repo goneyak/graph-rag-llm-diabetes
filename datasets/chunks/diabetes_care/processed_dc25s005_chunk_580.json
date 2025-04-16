@@ -1,0 +1,37 @@
+{
+  "text": "obes rev 2020;21:e13020\n182. azad mb, abou-setta am, chauhan bf, et al. nonnutritive sweeteners and cardio-metabolichealth: a systematic review and meta-analysis ofrandomized controlled trials and prospective\ncohort studies.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "obes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "randomized controlled trials",
+      "prospective cohort studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardio-metabolic health"
+    ]
+  }
+}

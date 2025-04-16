@@ -1,0 +1,37 @@
+{
+  "text": "suchspecialized psychosocial care shoulduse age-appropriate standardized and\nvalidated tools and treatment ap-\nproaches. b\n5.47 consider developmental factors\nand use age-appropriate validatedtools for psychosocial screening inpeople with diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "age-appropriate standardized and validated tools",
+      "age-appropriate validated tools for psychosocial screening"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "specialized psychosocial care",
+      "age-appropriate standardized and validated tools",
+      "age-appropriate validated tools for psychosocial screening"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

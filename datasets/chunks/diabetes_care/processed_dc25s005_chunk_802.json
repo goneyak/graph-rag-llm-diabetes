@@ -1,0 +1,38 @@
+{
+  "text": "j pediatr nurs 2022;66:125 \u2013135\n431. zambanini a, newson rb, maisey m, feher\nmd. injection related anxiety in insulin-treated\ndiabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "injection related anxiety"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "injection related anxiety"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "injection"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "insulin-treated diabetes",
+      "injection related anxiety"
+    ]
+  }
+}

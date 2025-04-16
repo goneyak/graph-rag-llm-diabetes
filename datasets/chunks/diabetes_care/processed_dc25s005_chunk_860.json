@@ -1,0 +1,41 @@
+{
+  "text": "quantity and quality of sleep and incidenceof type 2 diabetes: a systematic review andmeta-analysis. diabetes care 2010;33:414 \u2013420\n500. zhang x, zhang r, cheng l, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "quantity and quality of sleep"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "sleep"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

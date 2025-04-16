@@ -1,0 +1,37 @@
+{
+  "text": "mental health comorbidity and youth onset type 2diabetes: a systematic review of the literature. int jpsychiatry med 2023;58:37 \u201355\n358. naicker k, johnson ja, skogen jc, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "youth onset type 2 diabetes",
+      "mental health comorbidity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "youth onset type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "mental health comorbidity",
+      "youth onset type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "text": "effects of time-restricted eating on weight lossand other metabolic parameters in women andmen with overweight and obesity: the treatrandomized clinical trial. jama intern med 2020;\n180:1491 \u20131499\n216. schroor mm, joris pj, plat j, mensink rp .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity"
+    ],
+    "Examination Indicators": [
+      "metabolic parameters",
+      "weight loss"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "time-restricted eating",
+      "treat randomized clinical trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "overweight and obesity"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "time-restricted eating"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "overweight",
+      "obesity"
+    ]
+  }
+}

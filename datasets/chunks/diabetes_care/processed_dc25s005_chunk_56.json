@@ -1,0 +1,40 @@
+{
+  "text": "however, after pharmacotherapyis initiated, nutrition therapy continuesto be an important component of ongo-\ning diabetes self-management, and rdns\nproviding diabetes-speci \ufb01cm n ts h o u l da s -\nsess and monitor medication changes inrelation to the nutrition care plan (50,79).all members of the health care teamshould also be empowered to reiteratethe general and evidence-based nutritionadvice to limit processed foods and foodshigh in added salt, sugars, and fats and,\nwhen possible, choose whole foods. for more detailed information on nu-\ntrition therapy, please refer to the ada\nconsensus report on nutrition therapy(50).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "nutrition therapy",
+      "diabetes self-management",
+      "limit processed foods",
+      "limit foods high in added salt, sugars, and fats",
+      "choose whole foods"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "pharmacotherapy"
+    ],
+    "Duration": [
+      "ongoing"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

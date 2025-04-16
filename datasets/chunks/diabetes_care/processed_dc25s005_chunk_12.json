@@ -1,0 +1,38 @@
+{
+  "text": "e\n5.6consider offering dsmes via tel-\nehealth and/or digital interventions\nas needed to meet individual pref-\nerences, address barriers to access,and improve satisfaction. b\n5.7dsmes can improve outcomes\nand reduce costs, so reimbursement bythird-party payors is recommended.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "telehealth",
+      "digital interventions",
+      "DSMES (Diabetes Self-Management Education and Support)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (Diabetes Self-Management Education and Support)",
+      "DSMES via telehealth",
+      "DSMES via digital interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Diabetes"
+    ]
+  }
+}

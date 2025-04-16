@@ -1,0 +1,46 @@
+{
+  "text": "a\n5.11 because diabetes medical nutrition therapy can result in cost savings band improved\ncardiometabolic outcomes, amedical nutrition therapy should be adequately reimbursed by\ninsurance. e\npromote energy balance 5.12 provide weight management treatment based on nutrition, physical activity, and behavioral\ntherapy for all people with overweight or obesity, aiming for at least 3 \u20137% weight loss.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "medical nutrition therapy"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "medical nutrition therapy",
+      "weight management treatment",
+      "nutrition",
+      "physical activity",
+      "behavioral therapy"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "3-7% weight loss"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "overweight",
+      "obesity"
+    ]
+  }
+}

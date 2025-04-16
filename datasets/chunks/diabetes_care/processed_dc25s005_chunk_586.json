@@ -1,0 +1,37 @@
+{
+  "text": "diabetes spectr2017;30:250 \u2013257\n190. jeon cy, lokken rp, hu fb, van dam rm. physical activity of moderate intensity and risk oftype 2 diabetes: a systematic review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity of moderate intensity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

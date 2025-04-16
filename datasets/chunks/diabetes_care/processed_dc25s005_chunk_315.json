@@ -1,0 +1,51 @@
+{
+  "text": "\u201dhealth care\nprofessionals may also use informal verbalinquires, for example, by asking whetherthere have been persistent changes inmood during the past 2 weeks or since theindividual \u2019s last appointment and whether\nthe person can identify a triggering eventor change in circumstances. diabetes careprofessionals should also ask whetherthere are new or different barriers to\ntreatment and self-management, such as\nfeeling overwhelmed or stressed by hav-ing diabetes (see\ndiabetes distress ,b e l o w ) ,\nchanges in \ufb01nances, or competing medi-\ncal demands (e.g., the diagnosis of a co-morbid condition).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms",
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "persistent changes in mood during the past 2 weeks"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "informal verbal inquires",
+      "asking about mood changes",
+      "asking about triggering events",
+      "asking about barriers to treatment and self-management"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "triggering event",
+      "change in circumstances",
+      "feeling overwhelmed or stressed by having diabetes",
+      "changes in finances",
+      "competing medical demands",
+      "diagnosis of a co-morbid condition"
+    ],
+    "Severity": [
+      "persistent changes in mood"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "past 2 weeks",
+      "since the individual's last appointment"
+    ],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "text": "sleep disturbances are associated with\nless engagement in diabetes self-manage-ment and can interfere with achieving andmaintaining glucose levels within the goal\nrange among people with type 1 and type 2\ndiabetes (502,505). risk of hypoglycemiaposes speci \ufb01c challenges for sleep in people\nwith type 1 diabetes and may require\ndetailed assessment and treatment ap-\nproaches (519).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "concurrent_diseases",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "sleep disturbances",
+      "hypoglycemia"
+    ],
+    "Examination Indicators": [
+      "glucose levels"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "detailed assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "sleep disturbances",
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "risk of hypoglycemia poses specific challenges for sleep in people with type 1 diabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "detailed assessment",
+      "treatment approaches"
+    ],
+    "Pathogenesis": [
+      "sleep disturbances are associated with less engagement in diabetes self-management",
+      "sleep disturbances can interfere with achieving and maintaining glucose levels within the goal range",
+      "risk of hypoglycemia poses specific challenges for sleep in people with type 1 diabetes"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "hypoglycemia"
+    ]
+  }
+}

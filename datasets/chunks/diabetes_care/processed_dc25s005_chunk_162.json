@@ -1,0 +1,54 @@
+{
+  "text": "like in adultswith type 2 diabetes, there is some evi-dence that glp-1 ras are useful in\nachieving weight loss among those with\ntype 1 diabetes, although with a higherrisk of nausea and ketosis (207). regardless of diabetes type, maintaining\nweight loss is challenging (208,209) but\nhas well-recognized long-term bene \ufb01ts.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications",
+    "concurrent diseases",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "nausea",
+      "ketosis"
+    ],
+    "Examination Indicators": [
+      "weight loss"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "glp-1 ras"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [
+      "nausea",
+      "ketosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "higher risk"
+    ],
+    "Non-Medication Treatment": [
+      "weight loss"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "type 1 diabetes",
+      "nausea",
+      "ketosis"
+    ]
+  }
+}

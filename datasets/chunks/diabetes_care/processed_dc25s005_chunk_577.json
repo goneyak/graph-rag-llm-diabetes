@@ -1,0 +1,42 @@
+{
+  "text": "nutrrev 2023;81:1105 \u20131117\n179. miller pe, perez v. low-calorie sweeteners\nand body weight and composition: a meta-\nanalysis of randomized controlled trials andprospective cohort studies. am j clin nutr 2014;100:765 \u2013777\n180. rogers pj, hogenkamp ps, de graaf c, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "body weight and composition"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "low-calorie sweeteners"
+    ],
+    "Examination Methods": [
+      "meta-analysis",
+      "randomized controlled trials",
+      "prospective cohort studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low-calorie sweeteners"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "body weight",
+      "body composition"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "text": "a new taxonomy for technology-enabled diabetesself-management interventions: results of an\numbrella review. j diabetes sci technol 2022;16:\n812\u2013824\n68. association for diabetes care & education\nspecialists.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "umbrella review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetesself-management interventions"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "technology-enabled diabetes self-management interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

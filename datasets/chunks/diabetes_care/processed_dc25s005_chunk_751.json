@@ -1,0 +1,45 @@
+{
+  "text": "effect of routinely assessing and addressingdepression and diabetes distress on clinicaloutcomes among adults with type 2 diabetes: a\nsystematic review. bmj open 2022;12:e054650\n371. harkness e, macdonald w, valderas j,\ncoventry p , gask l, bower p .",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "diabetes distress"
+    ],
+    "Examination Indicators": [
+      "clinical outcomes among adults with type 2 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "routinely assessing and addressing depression and diabetes distress"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "routinely assessing and addressing depression and diabetes distress"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "diabetes distress",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "people with diabe-tes who participate in dsmes are more\nlikely to follow best practice treatment\nrecommendations, particularly those withmedicare, and have lower medicare andinsurance claim costs (28,30). better out-comes were reported for dsmes interven-tions that were >10 h over the course of\n6\u201312 months (19), included ongoing sup-\nport (12,13,31), were culturally (30,32 \u201334)\nand age appropriate (35,36), were tai-lored to individual needs and preferen-\nces, addressed psychosocial issues, and\nincorporated behavioral strategies (4,26,37,38).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (diabetes self-management education and support)",
+      "culturally appropriate interventions",
+      "age appropriate interventions",
+      "tailored individual needs and preferences",
+      "addressing psychosocial issues",
+      "incorporating behavioral strategies",
+      "ongoing support"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      ">10 h over the course of 6-12 months"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "6-12 months"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

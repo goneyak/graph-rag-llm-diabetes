@@ -1,0 +1,34 @@
+{
+  "text": "therefore, macro-\nnutrient distribution should be basedon an individualized assessment of cur-\nrent eating patterns, preferences, and\nmetabolic goals. members of the healthcare team should complement and rein-force mnt by providing evidence-based\nguidance that helps people with diabe-\ntes make healthy food choices that meettheir individualized needs and improve\noverall health.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "macronutrient distribution based on individualized assessment",
+      "medical nutrition therapy (MNT)",
+      "evidence-based guidance for healthy food choices"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

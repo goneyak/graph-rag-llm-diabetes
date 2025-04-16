@@ -1,0 +1,47 @@
+{
+  "text": "b-carotene\nwas associated with increased lung cancerand cardiovascular mortality risk (157). vitamin d in the context of diabetes\nhas generated much research, but uni-versal vitamin d supplementation forpeople with type 1 or type 2 diabeteswithout de \ufb01ciency is not recommended\nat this time.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "lung"
+    ],
+    "Clinical Manifestations": [
+      "lung cancer",
+      "cardiovascular mortality"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "b-carotene",
+      "vitamin d"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "increased lung cancer",
+      "cardiovascular mortality risk"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "vitamin d supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "lung cancer",
+      "cardiovascular mortality",
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "vitamin d deficiency"
+    ]
+  }
+}

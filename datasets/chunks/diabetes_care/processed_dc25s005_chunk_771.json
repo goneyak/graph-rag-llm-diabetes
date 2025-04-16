@@ -1,0 +1,38 @@
+{
+  "text": "jconsult clin psychol 2020;88:1019 \u20131031\n395. laffel lmb, vangsness l, connell a, goebel-\nfabbri a, butler d, anderson bj. impact ofambulatory, family-focused teamwork interventionon glycemic control in youth with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic control in youth with type 1 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "ambulatory, family-focused teamwork intervention"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "ambulatory, family-focused teamwork intervention"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

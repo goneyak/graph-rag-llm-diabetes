@@ -1,0 +1,31 @@
+{
+  "text": "itshould be noted that the association be-\nt w e e nt h ee f f e c t so na 1 ca n db e h a v i o r a l\nhealth was limited, and no interventioncharacteristics predicted bene \ufb01to nb o t houtcomes. cost analyses also have shown\nthat behavioral health interventions are\nboth effective and cost-effective approachesfor the prevention of diabetes (372).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "behavioral health interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

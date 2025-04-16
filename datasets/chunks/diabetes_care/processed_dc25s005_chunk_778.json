@@ -1,0 +1,41 @@
+{
+  "text": "can j\ndiabetes 2021;45:436 \u2013443\n403. fisher l, hessler dm, polonsky wh, mullan\nj. when is diabetes distress clinically meaningful?establishing cut points for the diabetes distress\nscale. diabetes care 2012;35:259 \u2013264\n404. fisher l, polonsky wh, perez-nieves m,\ndesai u, strycker l, hessler d. a new perspectiveon diabetes distress using the type 2 diabetes\ndistress assessment system (t2-ddas): prevalence\nand change over time.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "Diabetes Distress Scale",
+      "Type 2 Diabetes Distress Assessment System (T2-DDAS)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "over time"
+    ],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress",
+      "type 2 diabetes"
+    ]
+  }
+}

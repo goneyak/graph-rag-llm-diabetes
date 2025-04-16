@@ -1,0 +1,41 @@
+{
+  "text": "afteridenti \ufb01cation of use, recommend\nand refer for combination treat-ment consisting of both tobacco/smoking cessation counseling andpharmacologic therapy. a\n5.42 advise people with type 1 dia-\nbetes cand those with other forms\nof diabetes at risk for diabetic ke-\ntoacidosis enot to use recreational\ncannabis in any form.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetic ketoacidosis"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "diabetic ketoacidosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "tobacco/smoking cessation counseling"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "pharmacologic therapy"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetic ketoacidosis"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "text": "j pers med 2024;14\n42. eberle c, stichling s. clinical improvements\nby telemedicine interventions managing type 1\nand type 2 diabetes: systematic meta-review. j\nmed internet res 2021;23:e23244\n43. moschonis g, siopis g, jung j, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medication",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "telemedicine interventions"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "telemedicine interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

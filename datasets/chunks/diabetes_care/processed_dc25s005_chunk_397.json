@@ -1,0 +1,61 @@
+{
+  "text": "episodes of severe hypoglycemia are\nindependently associated with cognitivedecline as well as the more immediatesymptoms of mental confusion (489). early-onset type 1 diabetes is associated\nwith potential long-term de \ufb01cits in intel-\nlectual abilities, especially in the contextof repeated episodes of severe hypoglyce-\nmia (490), and is correlated with higher\na1c and sensor glucose values (491) (seesection 14, \u201cchildren and adolescents, \u201d\nfor information on early-onset diabetesand cognitive abilities and the effects of\nsevere hypoglycemia on children \u2019sc o g n i -\ntive and academic performance).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "severe hypoglycemia",
+      "cognitive decline",
+      "mental confusion",
+      "deficits in intellectual abilities"
+    ],
+    "Examination Indicators": [
+      "higher A1C",
+      "sensor glucose values"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "mental confusion",
+      "cognitive decline",
+      "deficits in intellectual abilities"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "episodes of severe hypoglycemia",
+      "early-onset type 1 diabetes",
+      "higher A1C",
+      "higher sensor glucose values"
+    ],
+    "Severity": [
+      "severe hypoglycemia"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "early-onset type 1 diabetes is associated with potential long-term deficits in intellectual abilities",
+      "higher A1C and sensor glucose values correlated with cognitive deficits"
+    ],
+    "Examination Indicator Values": [
+      "higher A1C",
+      "higher sensor glucose values"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "long-term"
+    ],
+    "Diseases": [
+      "severe hypoglycemia",
+      "cognitive decline",
+      "mental confusion",
+      "early-onset type 1 diabetes"
+    ]
+  }
+}

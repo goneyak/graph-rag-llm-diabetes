@@ -1,0 +1,47 @@
+{
+  "text": "effect of\nlow glycaemic index or load dietary patterns on\nglycaemic control and cardiometabolic risk factors\nin diabetes: systematic review and meta-analysisof randomised controlled trials. bmj 2021;374:n1651\n107. athinarayanan sj, adams rn, hallberg sj,\net al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods",
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiometabolic"
+    ],
+    "Clinical Manifestations": [
+      "diabetes",
+      "glycaemic control"
+    ],
+    "Examination Indicators": [
+      "cardiometabolic risk factors"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "randomised controlled trials"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "low glycaemic index dietary patterns",
+      "low glycaemic load dietary patterns"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "cardiometabolic risk factors"
+    ]
+  }
+}

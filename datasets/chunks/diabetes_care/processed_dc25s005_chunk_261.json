@@ -1,0 +1,56 @@
+{
+  "text": "chronotype - evening chronotypes (i.e., night owl: go to bed \nlate and get up late ) may be more susceptible to inactivity \nand poorer glycemic levels than morning chronotypes (i.e., \nearly bird: go to bed early and get up early).sleep quality chronotype\nsleep quantitystrengtheningsweating\nphysical \nfunctionsitting/breaking \nup prolonged \nsitting\nsteppingstepping\n\u2022 an increase of only \n500 steps/day is \nassociated with \n2-9% decreased risk \nof cardiovascular \nmorbidity and all-\ncause mortality. \u2022 a 5-to 6-min \nbrisk-intensity \nwalk per day \nequates to ~4 \nyears' greater life expectancy.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "evening chronotypes (night owl)",
+      "morning chronotypes (early bird)",
+      "inactivity",
+      "poorer glycemic levels"
+    ],
+    "Examination Indicators": [
+      "steps/day associated with cardiovascular morbidity risk",
+      "steps/day associated with all-cause mortality risk"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "chronotype assessment",
+      "sleep quality assessment",
+      "sleep quantity assessment",
+      "step counting"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "evening chronotypes (night owl: go to bed late and get up late) may be more susceptible to inactivity and poorer glycemic levels"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "strengthening",
+      "sweating",
+      "physical function",
+      "breaking up prolonged sitting",
+      "stepping"
+    ],
+    "Pathogenesis": [
+      "evening chronotypes may be more susceptible to inactivity and poorer glycemic levels than morning chronotypes"
+    ],
+    "Examination Indicator Values": [
+      "an increase of only 500 steps/day is associated with 2-9% decreased risk of cardiovascular morbidity and all-cause mortality",
+      "a 5-to 6-min brisk-intensity walk per day equates to ~4 years' greater life expectancy"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "inactivity",
+      "poorer glycemic levels",
+      "cardiovascular morbidity",
+      "all-cause mortality"
+    ]
+  }
+}

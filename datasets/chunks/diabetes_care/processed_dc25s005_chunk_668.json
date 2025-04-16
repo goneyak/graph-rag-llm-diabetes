@@ -1,0 +1,49 @@
+{
+  "text": "obes rev 2015;16:942 \u2013961\n280. little jp , g illen jb, percival me, et al. low-\nvolume high-intensity interval training reduceshyperglycemia and increases muscle mitochondrialcapacity in patients with type 2 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "muscle"
+    ],
+    "Clinical Manifestations": [
+      "hyperglycemia",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [
+      "reduced hyperglycemia",
+      "increased muscle mitochondrial capacity"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "low-volume high-intensity interval training"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "hyperglycemia"
+    ],
+    "Non-Medication Treatment": [
+      "low-volume high-intensity interval training"
+    ],
+    "Pathogenesis": [
+      "hyperglycemia"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

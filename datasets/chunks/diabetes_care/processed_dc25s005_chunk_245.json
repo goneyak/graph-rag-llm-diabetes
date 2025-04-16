@@ -1,0 +1,40 @@
+{
+  "text": "evidence supports that all individuals,\nincluding those with diabetes, should beencouraged to reduce the amount oftime spent being sedentary \u2014waking be-\nhaviors with low energy expenditure\n(e.g., seated work at a computer andwatching television) \u2014by breaking up\nbouts of sedentary activity (at least every30 min) by brie \ufb02y standing, walking, or\nperforming other light physical activities\n(286\u2013288). participating in leisure-timeactivity and avoiding extended sedentary\nperiods may help prevent type 2 diabetesfor those at risk and may also aid in glyce-mic management for those with diabetes\n(289,290).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "reducing time spent being sedentary",
+      "breaking up bouts of sedentary activity at least every 30 min",
+      "briefly standing",
+      "walking",
+      "performing light physical activities",
+      "participating in leisure-time activity",
+      "avoiding extended sedentary periods"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "at least every 30 min"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

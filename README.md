@@ -1,4 +1,4 @@
-# CDK Monorepo with Graph Processing and Web Frontend
+# CDK Monorepo with Graph Processing, and Web Frontend
 
 This is a monorepo project using AWS CDK with TypeScript for infrastructure, Python for Lambda functions, and React for the web frontend. It includes a complete graph processing system with a web interface.
 
@@ -12,14 +12,22 @@ cdk-monorepo/
 │   │       ├── app.ts
 │   │       └── stacks/
 │   │           ├── graph-processing-stack.ts  # Defines S3, Lambda, and Neptune
-│   │           └── frontend-stack.ts          # Defines S3 website and CloudFront
+│   │           ├── frontend-stack.ts          # Defines S3 website and CloudFront
+│   │           └── chat-api-stack.ts          # Defines API Gateway and Lambda for chat
 │   ├── lambda/          # Lambda handler code (Python)
 │   │   └── src/
-│   │       ├── index.py         # Processes S3 events and graph data
-│   │       └── requirements.txt # Python dependencies
+│   │       ├── index.py                     # Processes S3 events and graph data
+│   │       ├── chat_handler.py              # Handles chat API requests
+│   │       ├── med_knowledge_graph_handler.py # Processes medical text and builds knowledge Lambda
+│   │       └── requirements.txt             # Python dependencies
 │   └── frontend/        # React web application
 │       ├── public/      # Static assets
 │       └── src/         # React components and logic
+│           └── components/
+│               ├── Chat.js       # Chat interface component
+│               ├── Home.js       # Home page component
+│               ├── Upload.js     # File upload component
+│               └── Navigation.js # Navigation component
 ├── package.json         # Root package.json
 └── tsconfig.json        # Root TypeScript configuration
 ```
@@ -90,7 +98,7 @@ This project implements a complete graph processing system:
 1. **Web Frontend**: React application hosted on S3 and served via CloudFront
 2. **Data Storage**: S3 bucket for uploading graph data files
 3. **Processing**: Lambda function triggered by S3 events
-4. **Database**: Neptune graph database for storing and querying graph data
+4. **Database**: Serverless Neptune graph database for storing and querying graph data (on-demand capacity)
 
 ## Graph Processing Workflow
 
@@ -140,15 +148,21 @@ source,target,label,since
 
 The infrastructure code is located in `packages/infrastructure/`. It defines:
 - An S3 bucket for graph data
-- A Neptune database for graph storage
+- A Serverless Neptune database for graph storage (on-demand capacity)
 - A Lambda function that processes S3 events and inserts data into Neptune
 - An S3 bucket for hosting the web frontend
 - A CloudFront distribution for serving the web frontend
 
+The CDK code follows modern AWS CDK v2 patterns:
+- Uses props instead of context for configuration
+- Defines clear interfaces for stack props
+- Follows a modular approach with separate stacks for different components
+- Uses cross-stack references for resource sharing
+
 To synthesize the CloudFormation template without deploying:
 
 ```bash
-npm run cdk synth
+npm run synth
 ```
 
 ### Lambda Function
@@ -196,10 +210,12 @@ Located in `packages/infrastructure/.env`:
 - `CDK_DEFAULT_ACCOUNT`: AWS account ID (inherited from root)
 - `CDK_DEFAULT_REGION`: AWS region (inherited from root)
 - `AWS_PROFILE`: AWS profile to use for deployment (default: default)
-- `NEPTUNE_INSTANCE_TYPE`: Neptune instance type (default: db.t3.medium)
-- `NEPTUNE_ENGINE_VERSION`: Neptune engine version (default: 1.2.0.0)
+- `NEPTUNE_ENGINE_VERSION`: Neptune engine version (default: 1.2.1.0)
+- `NEPTUNE_MIN_CAPACITY`: Minimum Neptune Capacity Units for serverless (default: 1.0)
+- `NEPTUNE_MAX_CAPACITY`: Maximum Neptune Capacity Units for serverless (default: 8.0)
 - `S3_GRAPH_DATA_BUCKET_NAME`: Name of the S3 bucket for graph data
 - `S3_WEBSITE_BUCKET_NAME`: Name of the S3 bucket for the website
+- `S3_MEDICAL_DATA_BUCKET_NAME`: Name of the S3 bucket for medical data
 - `CLOUDFRONT_PRICE_CLASS`: CloudFront price class (default: PriceClass_100)
 
 #### AWS Profile Configuration

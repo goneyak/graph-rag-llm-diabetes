@@ -1,0 +1,52 @@
+{
+  "text": "forexample, caloric restriction may be essen-\ntial for glycemic management and weight\nmaintenance, but rigid meal plans and stricttracking of food intake and/or body weightmay be contraindicated for individuals who\nare at increased risk of clinically signi \ufb01cant\nmaladaptive eating behaviors (213). ifs96 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\neating disorders are identi \ufb01ed during screen-\ning with diabetes-speci \ufb01c questionnaires, in-\ndividuals should be referred to a quali \ufb01ed\nbehavioral health professional (1).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorders",
+      "maladaptive eating behaviors"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes-specific questionnaires",
+      "screening"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "maladaptive eating behaviors",
+      "eating disorders"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "caloric restriction"
+    ],
+    "Severity": [
+      "clinically significant"
+    ],
+    "Non-Medication Treatment": [
+      "caloric restriction",
+      "rigid meal plans",
+      "tracking of food intake",
+      "tracking of body weight",
+      "referral to qualified behavioral health professional"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "maladaptive eating behaviors",
+      "eating disorders"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "text": "however,health care professionals should perform acareful history, assess cardiovascular risk\nfactors, and be aware of the atypical pre-\nsentation of coronary artery disease, suchas a recently reported or measured de-crease in exercise tolerance. certainly,\nt h o s ew i t hh i g hr i s ks h o u l db ee n c o u r -\naged to start with short periods of low--intensity exercise and slowly increasethe duration and intensity as tolerated.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "coronary artery"
+    ],
+    "Clinical Manifestations": [
+      "decrease in exercise tolerance"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "careful history",
+      "assess cardiovascular risk factors"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "high risk"
+    ],
+    "Non-Medication Treatment": [
+      "short periods of low-intensity exercise",
+      "slowly increase the duration and intensity as tolerated"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "decrease in exercise tolerance"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "coronary artery disease"
+    ]
+  }
+}

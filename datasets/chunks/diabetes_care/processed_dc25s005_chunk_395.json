@@ -1,0 +1,46 @@
+{
+  "text": "as with other disorders affecting mental\ncapacity (e.g., major psychiatric disorders),the key issue is whether the person can\ncollaborate with the care team to achieve\noptimal metabolic outcomes and preventcomplications, both short term and longterm (476). when cognitive ability is al-\ntered, declining, or absent, a lay care pro-\nfessional should be introduced into thecare team to serve in the capacity of aday-to-day monitor as well as a liaison to\nthe care team (1).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "disorders affecting mental capacity",
+      "cognitive ability is altered",
+      "cognitive ability is declining",
+      "cognitive ability is absent"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "disorders affecting mental capacity",
+      "major psychiatric disorders"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "cognitive ability is altered, declining, or absent"
+    ],
+    "Non-Medication Treatment": [
+      "introducing a lay care professional into the care team to serve as a day-to-day monitor and liaison"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "short term",
+      "long-term"
+    ],
+    "Diseases": [
+      "disorders affecting mental capacity",
+      "major psychiatric disorders"
+    ]
+  }
+}

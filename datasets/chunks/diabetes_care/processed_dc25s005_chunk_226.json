@@ -1,0 +1,45 @@
+{
+  "text": "another rct, including\n324 individuals with prediabetes, showed\nincreased physical activity at 8 weeks\nwith supportive text messages, but by12 weeks there was no difference be-\ntween groups (258). it is important for\ndiabetes care management teams to un-\nderstand the dif \ufb01c u l t yt h a tm a n yp e o p l e\nhave reaching recommended physical\nactivity goals and to identify individual-\nized approaches to improve physical ac-tivity and exercise goal achievement,\nwhich may need to change over time.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "text messages",
+      "physical activity assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity",
+      "supportive text messages",
+      "exercise goal achievement",
+      "individualized approaches to improve physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "8 weeks",
+      "12 weeks"
+    ],
+    "Diseases": [
+      "prediabetes",
+      "diabetes"
+    ]
+  }
+}

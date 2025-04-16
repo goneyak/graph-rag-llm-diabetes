@@ -1,0 +1,29 @@
+{
+  "text": "no level of\nalcohol consumption is safe for our health. accessed 13 august 2024. available from https://\nwww.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health\n168. anderson bo, berdzuli n, ilbawi a, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "alcohol consumption"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "text": "it is knownthat smokeless tobacco products, such as\ndip and chew, pose an increased risk for\ncvd and oral cancer (325,326). vapingwith e-cigarettes and related devices hasgained public awareness and popularity\nbecause of perceptions that e-cigarette\nuse is less harmful than regular cigarettesmoking (327).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "oral"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "smokeless tobacco products (dip and chew)",
+      "vaping with e-cigarettes"
+    ],
+    "Severity": [
+      "increased risk for CVD and oral cancer"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular disease",
+      "oral cancer"
+    ]
+  }
+}

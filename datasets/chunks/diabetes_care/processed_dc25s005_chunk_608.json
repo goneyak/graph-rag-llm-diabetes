@@ -1,0 +1,37 @@
+{
+  "text": "bmj open diabetes res care 2023;11\n212. ekong g, kavookjian j. motivational inter-\nviewing and outcomes in adults with type 2\ndiabetes: a systematic review. patient educ couns\n2016;99:944 \u2013952\n213. nip asy , reboussin ba, dabelea d, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "motivational interviewing"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Motivational interviewing"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Type 2 diabetes"
+    ]
+  }
+}

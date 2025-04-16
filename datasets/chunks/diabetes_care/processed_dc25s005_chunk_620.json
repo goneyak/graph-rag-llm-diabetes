@@ -1,0 +1,45 @@
+{
+  "text": "shift work is\nassociated with an increased risk of type 2diabetes and elevated rbp4 level: cross sectionalanalysis from the ohspiw cohort study. bmcpublic health 2023;23:1139\n226. al-arouj m, assaad-khalil s, buse j, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "elevated rbp4 level"
+    ],
+    "Examination Indicators": [
+      "elevated rbp4 level"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "cross sectional analysis",
+      "cohort study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "shift work"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "shift work is associated with an increased risk of type 2 diabetes",
+      "shift work is associated with elevated rbp4 level"
+    ],
+    "Examination Indicator Values": [
+      "elevated rbp4 level"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

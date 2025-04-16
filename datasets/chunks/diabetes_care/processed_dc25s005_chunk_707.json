@@ -1,0 +1,43 @@
+{
+  "text": "an of \ufb01cial american thoracic\nsociety clinical practice guideline. am j respir crit\ncare med 2020;202:e5 \u2013e31\n323. tian j, venn a, otahal p , gall s. the\nassociation between quitting smoking and weightgain: a systematic review and meta-analysis ofprospective cohort studies.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "thoracic"
+    ],
+    "Clinical Manifestations": [
+      "weight gain"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "prospective cohort studies"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "weight gain"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "quitting smoking"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "quitting smoking"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "weight gain"
+    ]
+  }
+}

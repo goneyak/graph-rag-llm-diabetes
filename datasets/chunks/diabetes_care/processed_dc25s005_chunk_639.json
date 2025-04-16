@@ -1,0 +1,43 @@
+{
+  "text": "racial disparities in selected micronutrient de \ufb01-\nciencies after bariatric surgery: a systematicreview. surg obes relat dis 2024;20:283 \u2013290\n247. mellen rh, girotto os, marques eb, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [
+      "bariatric surgery"
+    ],
+    "Location": [],
+    "Clinical Manifestations": [
+      "micronutrient deficiencies"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "micronutrient deficiencies"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "bariatric surgery",
+      "racial disparities"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "bariatric surgery"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "micronutrient deficiencies"
+    ]
+  }
+}

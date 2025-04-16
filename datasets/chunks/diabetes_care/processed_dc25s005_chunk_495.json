@@ -1,0 +1,43 @@
+{
+  "text": "diabetesspectr 2020;33:125 \u2013132\n88. ge l, sadeghirad b, ball gdc, et al. comparison of dietary macronutrient patterns of14 popular named dietary programmes forweight and cardiovascular risk factor reduction inadults: systematic review and network meta-analysis of randomised trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "weight",
+      "cardiovascular risk factor"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "network meta-analysis",
+      "randomised trials"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "popular named dietary programmes",
+      "weight reduction programmes",
+      "dietary programmes for cardiovascular risk factor reduction"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular risk"
+    ]
+  }
+}

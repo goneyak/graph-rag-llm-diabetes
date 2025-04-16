@@ -1,0 +1,35 @@
+{
+  "text": "speci \ufb01c recommendations for\ndiabetes management during religious\nfasting in different faiths are available(230,231). in general, for people planning\nto fast for long hours and for multiple con-\nsecutive days, choice of treatment shouldprioritize drugs with low hypoglycemiarisk.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "medications",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "religious fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "long hours",
+      "multiple consecutive days"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

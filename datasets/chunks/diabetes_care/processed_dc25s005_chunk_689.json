@@ -1,0 +1,46 @@
+{
+  "text": "glucose management for exercise using continuousglucose monitoring (cgm) and intermittently\nscanned cgm (iscgm) systems in type 1 diabetes:\nposition statement of the european associationfor the study of diabetes (easd) and of theinternational society for pediatric and adolescent\ndiabetes (ispad) endorsed by jdrf and supported\nby the american diabetes association (ada).diabetologia 2020;63:2501 \u20132520\n304. rietz m, lehr a, mino e, et al. physical activity\nand risk of major diabetes-related complications in\nindividuals with diabetes: a systematic review and\nmeta-analysis of observational studies.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "continuous glucose monitoring (CGM)",
+      "intermittently scanned CGM (isCGM)",
+      "physical activity"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "continuous glucose monitoring (CGM)",
+      "intermittently scanned CGM (isCGM)",
+      "physical activity"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetes",
+      "diabetes-related complications"
+    ]
+  }
+}

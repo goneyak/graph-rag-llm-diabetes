@@ -1,0 +1,38 @@
+{
+  "text": "diabet med 2021;38:e14525\n416. roddy mk, spieker aj, nelson la, et al. well-\nbeing outcomes of a family-focused interventionfor persons with type 2 diabetes and supportpersons: main, mediated, and subgroup effects\nfrom the fams 2.0 rct.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "FAMS 2.0 RCT"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "family-focused intervention",
+      "FAMS 2.0 RCT"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

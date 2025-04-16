@@ -1,0 +1,39 @@
+{
+  "text": "j clin endocrinolmetab 2020;105:dgaa335\n161. barbarawi m, kheiri b, zayed y, et al. vitamin d supplementation and cardiovascular\ndisease risks in more than 83,000 individuals in21 randomized clinical trials: a meta-analysis.jama cardiol 2019;4:765 \u2013776\n162. jayedi a, daneshvar m, jibril at, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "vitamin d supplementation"
+    ],
+    "Examination Methods": [
+      "meta-analysis",
+      "randomized clinical trials"
+    ],
+    "Medication Name": [
+      "vitamin d"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular disease"
+    ]
+  }
+}

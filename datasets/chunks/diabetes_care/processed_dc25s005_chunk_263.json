@@ -1,0 +1,53 @@
+{
+  "text": "glucose/\ninsulinblood\npressure a1c lipidsphysical \nfunctiondepressionquality \nof life\nsitting/breaking up prolonged sitting \ue139 \ue139 \ue139 \ue139  \ue138  \ue139  \ue138  \nstepping \ue139 \ue139 \ue139  \ue139  \ue138 \ue139 \ue138  \nsweating (moderate-to-vigorous activity) \ue139 \ue139  \ue139  \ue139  \ue138  \ue139  \ue138  \nstrengthening \ue139 \ue139 \ue139 \ue139 \ue138 \ue139 \ue138 \nadequate sleep duration \ue139 \ue139 \ue139 \ue139 \ue132 \ue139 \ue138  \ngood sleep quality \ue139 \ue139  \ue139  \ue139  \ue132 \ue139 \ue138 \nchronotype/consistent timing \ue139 \ue132 \ue139 \ue132 \ue132  \ue139 \ue132 importance of 24-hour physical behaviors for type 2 diabetes\nimpact of physical behaviors on cardiometabolic health in people with type 2 diabetes\n\ue138 higher levels of improvement (physical function, quality of life) \ue139 lower levels of improvement (glucose/insulin, blood pressure , a1c, lipids, depression)\n\ue132  no data available\n\ue138 green arrows  = strong evidence \ue138 yellow arrows  = medium-strength evidence \ue138 red arrows  = limited evidence\nfigure 5.2 \u2014importance of 24-h physical behaviors for type 2 diabetes. adapted from davies et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression"
+    ],
+    "Examination Indicators": [
+      "glucose",
+      "insulin",
+      "blood pressure",
+      "a1c",
+      "lipids"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "physical function assessment",
+      "quality of life assessment"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "sitting/breaking up prolonged sitting",
+      "stepping",
+      "sweating (moderate-to-vigorous activity)",
+      "strengthening",
+      "adequate sleep duration",
+      "good sleep quality",
+      "chronotype/consistent timing"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "24-hour physical behaviors"
+    ],
+    "Diseases": [
+      "type 2 diabetes"
+    ]
+  }
+}

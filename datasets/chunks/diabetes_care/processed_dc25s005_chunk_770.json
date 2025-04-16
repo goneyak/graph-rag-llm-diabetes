@@ -1,0 +1,43 @@
+{
+  "text": "diabetes care2018;41:1623 \u20131630\n394. weissberg-benchell j, shapiro jb, bryant\nfb, hood kk. supporting teen problem-solving\n(steps) 3 year outcomes: preventing diabetes-\nspeci \ufb01c emotional distress and depressive\nsymptoms in adolescents with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes-specific emotional distress",
+      "depressive symptoms"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "Supporting Teen Problem-Solving (STEPS)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Supporting Teen Problem-Solving (STEPS)",
+      "problem-solving"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "3 year outcomes"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetes-specific emotional distress",
+      "depressive symptoms"
+    ]
+  }
+}

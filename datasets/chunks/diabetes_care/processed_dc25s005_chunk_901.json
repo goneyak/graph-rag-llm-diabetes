@@ -1,0 +1,33 @@
+{
+  "text": "diabetes-related distress and its association withthe complications of diabetes in iran. j diabetes\nmetab disord 2022;21:1569 \u20131575\n547. park h-s, cho y , seo dh, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "complications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes-related distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "diabetes-related distress",
+      "complications of diabetes"
+    ]
+  }
+}

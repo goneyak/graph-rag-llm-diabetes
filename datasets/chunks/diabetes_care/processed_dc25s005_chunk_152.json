@@ -1,0 +1,37 @@
+{
+  "text": "healthcare professionals can regularly assess\nindividual use of nns based on the ac-\nceptable daily intake (amount of a sub-stance considered safe to consume eachday over a person \u2019s life) and recommend\nmoderation. see the chart from the fda\non safe levels of sweeteners found atdiabetesjournals.org/care facilitating positive health behaviors and well-being s95downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nfda.gov/food/food-additives-petitions/\naspartame-and-other-sweeteners-food.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "assessment of non-nutritive sweeteners (NNS) based on acceptable daily intake"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [
+      "acceptable daily intake",
+      "safe to consume each day over a person's life"
+    ],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "assessment of non-nutritive sweetener intake",
+      "recommend moderation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "acceptable daily intake"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "over a person's life"
+    ],
+    "Diseases": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "j diabetes complications2022;36:108256\n405. aikens je. prospective associations between\nemotional distress and poor outcomes in type 2\ndiabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "emotional distress"
+    ],
+    "Examination Indicators": [
+      "poor outcomes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "emotional distress"
+    ],
+    "Severity": [
+      "poor outcomes"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "prospective"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "emotional distress"
+    ]
+  }
+}

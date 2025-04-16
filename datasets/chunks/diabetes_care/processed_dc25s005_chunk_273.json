@@ -1,0 +1,51 @@
+{
+  "text": "chronic kidney disease\nphysical activity can acutely increase uri-\nnary albumin excretion. however, there\nis no evidence that vigorous-intensityexercise accelerates the rate of progres-sion of ckd, and there appears to be noneed for speci \ufb01c exercise restrictions for\npeople with ckd in general (305).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidney",
+      "urinary"
+    ],
+    "Clinical Manifestations": [
+      "albumin excretion"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "chronic kidney disease",
+      "CKD"
+    ],
+    "Adverse Reactions": [
+      "increase urinary albumin excretion"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "physical activity",
+      "vigorous-intensity exercise"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "physical activity",
+      "vigorous-intensity exercise"
+    ],
+    "Pathogenesis": [
+      "physical activity can acutely increase urinary albumin excretion"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "chronic"
+    ],
+    "Diseases": [
+      "chronic kidney disease",
+      "CKD"
+    ]
+  }
+}

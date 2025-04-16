@@ -1,0 +1,39 @@
+{
+  "text": "depression and advanced complications ofdiabetes: a prospective cohort study. diabetescare 2010;33:264 \u2013269\n556. gonzalez js, peyrot m, mccarl la, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "complications of diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "prospective cohort study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "advanced complications of diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "advanced"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "depression",
+      "diabetes"
+    ]
+  }
+}

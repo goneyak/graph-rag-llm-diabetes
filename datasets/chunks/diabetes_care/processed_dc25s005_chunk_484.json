@@ -1,0 +1,41 @@
+{
+  "text": "management of hyperglycemia in type 2 dia-\nbetes, 2022. a consensus report by the americandiabetes association (ada) and the europeanassociation for the study of diabetes (easd).diabetes care 2022;45:2753 \u20132786\n76. u.s. department of agriculture and u.s.\ndepartment of health and human services. dietary guidelines for americans, 2020 \u20132025 .9 t h\ned.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hyperglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "hyperglycemia"
+    ],
+    "Non-Medication Treatment": [
+      "Dietary guidelines"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "2020-2025"
+    ],
+    "Diseases": [
+      "hyperglycemia",
+      "type 2 diabetes"
+    ]
+  }
+}

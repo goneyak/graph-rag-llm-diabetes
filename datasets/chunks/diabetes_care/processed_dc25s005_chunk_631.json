@@ -1,0 +1,47 @@
+{
+  "text": "to explore\nthe association of ramadan fasting with sym-ptoms of depression, anxiety, and stress inpeople with diabetes. diabetes res clin pract\n2021;172:108545\n238. hassanein m, bashier a, randeree h, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "anxiety",
+      "stress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "symptoms of depression",
+      "anxiety",
+      "stress"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "ramadan fasting"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "ramadan fasting"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "depression",
+      "anxiety",
+      "stress"
+    ]
+  }
+}

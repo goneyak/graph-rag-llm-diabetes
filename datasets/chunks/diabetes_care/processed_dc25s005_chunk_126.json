@@ -1,0 +1,33 @@
+{
+  "text": "in\naddition, as foods high in saturated\nfats are progressively decreased, theyshould be replaced with foods high inunsaturated fats and not with re \ufb01ned\ncarbohydrate foods (142). evidence does not conclusively sup-\nport recommending n-3 (eicosapentae-noic acid and docosahexaenoic acid)supplements for all people with diabe-\ntes for the prevention or treatment of\ncardiovascular events (50,143).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "foods to avoid",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "replace foods high in saturated fats with foods high in unsaturated fats"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "cardiovascular events"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "text": "lancet digit health 2023;5:e125 \u2013e143\n44. anderson a, o \u2019connell ss, thomas c,\nchimmanamada r. telehealth interventions toimprove diabetes management among black andhispanic patients: a systematic review and meta-analysis. j racial ethn health disparities 2022;9:\n2375 \u20132386\n45. sherifali d, brozic a, agema p , et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "telehealth interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

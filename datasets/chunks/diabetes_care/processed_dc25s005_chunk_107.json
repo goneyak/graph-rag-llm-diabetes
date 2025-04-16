@@ -1,0 +1,42 @@
+{
+  "text": "the gly-\ncemic index ranks carbohydrate foodson their postprandial glycemic response,\nand glycemic load considers both the gly-\ncemic index of foods and the amount ofcarbohydrate eaten. studies have foundmixed results regarding the effect of gly-\ncemic index and glycemic load on fasting\nglucose levels and a1c, with one system-atic review \ufb01nding no signi \ufb01cant effect\non a1c (117) while others demonstrated\na1c reductions of 0.15% (116) to\n0.5% (106,119).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "fasting glucose levels",
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "glycemic index",
+      "glycemic load"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "glycemic index dietary approach",
+      "considering glycemic load of foods"
+    ],
+    "Pathogenesis": [
+      "postprandial glycemic response"
+    ],
+    "Examination Indicator Values": [
+      "A1C reductions of 0.15%",
+      "A1C reductions of 0.5%"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": []
+  }
+}

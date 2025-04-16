@@ -1,0 +1,60 @@
+{
+  "text": "dose-response meta-\nanalyses showed that physical activitywas associated with lower risk of diabe-tes-related complications even at loweractivity levels (304). retinopathy\nif proliferative diabetic retinopathy orsevere nonproliferative diabetic retinop-athy is present, then vigorous-intensityaerobic or resistance exercise may becontraindicated because of the risk oftriggering vitreous hemorrhage or retinaldetachment (305).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods",
+    "concurrent diseases",
+    "necessary tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "retina",
+      "vitreous"
+    ],
+    "Clinical Manifestations": [
+      "proliferative diabetic retinopathy",
+      "severe nonproliferative diabetic retinopathy",
+      "vitreous hemorrhage",
+      "retinal detachment"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "dose-response meta-analyses"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "proliferative diabetic retinopathy",
+      "severe nonproliferative diabetic retinopathy"
+    ],
+    "Adverse Reactions": [
+      "vitreous hemorrhage",
+      "retinal detachment"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "severe"
+    ],
+    "Non-Medication Treatment": [
+      "physical activity",
+      "aerobic exercise",
+      "resistance exercise"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "diabetes-related complications",
+      "retinopathy",
+      "proliferative diabetic retinopathy",
+      "severe nonproliferative diabetic retinopathy",
+      "vitreous hemorrhage",
+      "retinal detachment"
+    ]
+  }
+}

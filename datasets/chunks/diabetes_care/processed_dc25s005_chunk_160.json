@@ -1,0 +1,50 @@
+{
+  "text": "in select individuals with type 2 diabe-\ntes, an overall healthy eating plan resulting\nin energy de \ufb01cit and pharmacotherapy\nand/or metabolic surgery should be con-sidered to help achieve weight loss and\nmaintenance goals, lower a1c, and reduce\ncvd risk (188,201,202). a recent systematicreview and meta-analysis concluded thatwhen obesity pharmacotherapy is includedin intervention efforts (alone or as part of a\nmultipronged intervention), people with\nobesity can achieve a more signi \ufb01cant\nweight loss of /c02.94 kg ( p<0.0001)\n(203).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [
+      "metabolic surgery"
+    ],
+    "Location": [],
+    "Clinical Manifestations": [
+      "obesity"
+    ],
+    "Examination Indicators": [
+      "a1c",
+      "weight loss"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "obesity"
+    ],
+    "Non-Medication Treatment": [
+      "healthy eating plan resulting in energy deficit",
+      "metabolic surgery"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "weight loss of \u22652.94 kg (p<0.0001)"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "obesity"
+    ]
+  }
+}

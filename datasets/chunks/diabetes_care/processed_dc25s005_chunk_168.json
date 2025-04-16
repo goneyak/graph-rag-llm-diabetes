@@ -1,0 +1,59 @@
+{
+  "text": "nutrition therapyshould be individualized to help addressmaladaptive eating behavior (e.g., purg-\ning) or compensatory changes in medi-\ncal treatment plan (e.g., overtreatmentof hypoglycemic episodes and reductionin medication dosing to reduce hunger)\n(50) (see\ndisordered eating behavior ,b e l o w ) . disordered eating, eating disorders, and/ordisrupted eating can increase challengesfor weight and diabetes management.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "maladaptive eating behavior",
+      "purging",
+      "disordered eating",
+      "eating disorders",
+      "disrupted eating"
+    ],
+    "Examination Indicators": [
+      "hypoglycemic episodes"
+    ],
+    "Medication Dosage": [
+      "reduction in medication dosing to reduce hunger"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemic episodes"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "maladaptive eating behavior",
+      "purging",
+      "disordered eating",
+      "eating disorders",
+      "disrupted eating"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "nutrition therapy",
+      "individualized therapy"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "reduction in medication dosing to reduce hunger",
+      "overtreatment of hypoglycemic episodes"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "disordered eating",
+      "eating disorders",
+      "disrupted eating",
+      "hypoglycemic episodes",
+      "diabetes"
+    ]
+  }
+}

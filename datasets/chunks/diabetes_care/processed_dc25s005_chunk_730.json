@@ -1,0 +1,35 @@
+{
+  "text": "evidence-based behavioral interventions to promote\ndiabetes management in children, adolescents, andfamilies. am psychol 2016;71:590 \u2013601\n350. lake aj, bo a, hadjiconstantinou m.\ndeveloping and evaluating behaviour changeinterventions for people with younger-onset type 2\ndiabetes: lessons and recommendations from\nexisting programmes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "younger-onset type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "evidence-based behavioral interventions",
+      "behaviour change interventions"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "younger-onset type 2 diabetes"
+    ]
+  }
+}

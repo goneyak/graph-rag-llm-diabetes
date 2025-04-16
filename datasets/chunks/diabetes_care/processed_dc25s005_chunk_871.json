@@ -1,0 +1,43 @@
+{
+  "text": "impact of shift work on glycemic control in insulintreated diabetics dar el chefa hospital, egypt2014. int j diabetes res 2014;3:15 \u201321\n514. itani o, kaneita y, tokiya m, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "glycemic control"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "insulin-treated"
+    ],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "shift work"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin-treated"
+    ],
+    "Duration": [
+      "2014"
+    ],
+    "Diseases": [
+      "diabetes",
+      "glycemic control"
+    ]
+  }
+}

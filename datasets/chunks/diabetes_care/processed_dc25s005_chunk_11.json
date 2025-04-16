@@ -1,0 +1,34 @@
+{
+  "text": "e\n5.5dsmes should be culturally ap-\npropriate and responsive to individ-ual preferences, needs, and valuesand may be offered in group or in-dividual settings. asuch education\nand support should be documentedand made available to members ofthe entire diabetes care team.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "DSMES (diabetes self-management education and support)",
+      "group or individual settings education"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "5.5"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

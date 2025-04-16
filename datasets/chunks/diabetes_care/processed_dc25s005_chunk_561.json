@@ -1,0 +1,50 @@
+{
+  "text": "ann intern med 2023;176:355 \u2013363\n159. dawson-hughes b, staten ma, knowler wc,\net al. intratrial exposure to vitamin d and new-onset diabetes among adults with prediabetes: asecondary analysis from the vitamin d and type 2\ndiabetes (d2d) study.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "concurrent diseases",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes",
+      "new-onset diabetes"
+    ],
+    "Examination Indicators": [
+      "vitamin D levels"
+    ],
+    "Medication Dosage": [
+      "vitamin D"
+    ],
+    "Examination Methods": [
+      "secondary analysis"
+    ],
+    "Medication Name": [
+      "vitamin D"
+    ],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "new-onset diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "vitamin D supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "new-onset diabetes",
+      "prediabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "text": "in the second diabetesattitudes, wishes, and needs (dawn2)study, 45% of the participants reported sig-ni\ufb01cant diabetes distress, but only 24% re-\nported that their health care teams askedthem how diabetes affected their lives(361). similar rates of diabetes distresshave been identi \ufb01ed among adolescents\nwith type 1 diabetes (399) and in parents ofyouth with type 1 diabetes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "Diabetesattitudes, Wishes, and Needs (DAWN2) study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "significant diabetes distress"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "45% of the participants reported significant diabetes distress",
+      "24% reported that their health care teams asked them how diabetes affected their lives"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress",
+      "type 1 diabetes"
+    ]
+  }
+}

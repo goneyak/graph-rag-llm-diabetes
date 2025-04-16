@@ -1,0 +1,46 @@
+{
+  "text": "association of diet withglycated hemoglobin during intensive treatment of\ntype 1 diabetes in the diabetes control and\ncomplications trial. am j clin nutr 2009;89:518\u2013524\n101. kirkpatrick cf, bolick jp, kris-etherton\npm, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [
+      "glycated hemoglobin"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes control and complications trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diet"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "glycated hemoglobin"
+    ],
+    "Medication Methods": [
+      "intensive treatment"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "diabetes control and complications trial"
+    ]
+  }
+}

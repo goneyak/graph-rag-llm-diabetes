@@ -1,0 +1,48 @@
+{
+  "text": "diabetes care 2006;29:1294 \u20131299\n309. spallone v, ziegler d, freeman r, et al. ;\ntoronto consensus panel on diabetic neuropathy.cardiovascular autonomic neuropathy in diabetes:\nclinical impact, assessment, diagnosis, and man-\nagement.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "symptoms",
+    "diagnosis",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular",
+      "autonomic",
+      "neuropathy"
+    ],
+    "Clinical Manifestations": [
+      "diabetic neuropathy",
+      "cardiovascular autonomic neuropathy"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "assessment",
+      "diagnosis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "cardiovascular autonomic neuropathy in diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "cardiovascular autonomic neuropathy",
+      "diabetes",
+      "diabetic neuropathy"
+    ]
+  }
+}

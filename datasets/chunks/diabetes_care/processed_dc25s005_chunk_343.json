@@ -1,0 +1,54 @@
+{
+  "text": "in adults\nwith type 2 diabetes in the veterans af-fairs system, an rct demonstrated thatintegrating a single session of mindful-ness into dsmes, followed by a booster\nsession and 24 weeks of mobile app \u2013\nbased home practice, signi \ufb01cantly re-\nduced diabetes distress compared with adsmes-only control group (421). an rct\nof cbt demonstrated positive bene \ufb01ts\nfor diabetes distress, a1c, and depres-sive symptoms for up to 1 year amongadults with type 2 diabetes and elevated\nsymptoms of distress or depression (422).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depressive symptoms"
+    ],
+    "Examination Indicators": [
+      "A1C"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCT",
+      "CBT",
+      "single session of mindfulness",
+      "DSMES",
+      "booster session",
+      "mobile app-based home practice"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "mindfulness session integrated into DSMES",
+      "booster session",
+      "24 weeks of mobile app-based home practice",
+      "CBT (Cognitive Behavioral Therapy)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "24 weeks",
+      "up to 1 year"
+    ],
+    "Diseases": [
+      "type 2 diabetes",
+      "diabetes distress",
+      "depression",
+      "depressive symptoms"
+    ]
+  }
+}

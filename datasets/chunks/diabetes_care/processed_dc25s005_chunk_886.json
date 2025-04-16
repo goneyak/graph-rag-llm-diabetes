@@ -1,0 +1,38 @@
+{
+  "text": "; hypo-resolve consortium. the impact ofhypoglycaemia on quality of life among adults\nwith type 1 diabetes: results from \u201cyoursay:\nhypoglycaemia.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "hypoglycaemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "yoursay: hypoglycaemia"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "hypoglycaemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "hypoglycaemia",
+      "type 1 diabetes"
+    ]
+  }
+}

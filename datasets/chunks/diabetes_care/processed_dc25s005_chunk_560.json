@@ -1,0 +1,46 @@
+{
+  "text": "jama 2022;327:2326 \u20132333\n158. pittas ag, kawahara t, jorde r, et al. vitamin d and risk for type 2 diabetes in peoplewith prediabetes: a systematic review and meta-\nanalysis of individual participant data from 3\nrandomized clinical trials.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "vitamin D"
+    ],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis"
+    ],
+    "Medication Name": [
+      "vitamin d"
+    ],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "Vitamin D supplementation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "Type 2 diabetes",
+      "Prediabetes"
+    ]
+  }
+}

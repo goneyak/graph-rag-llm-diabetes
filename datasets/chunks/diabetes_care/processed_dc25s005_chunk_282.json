@@ -1,0 +1,46 @@
+{
+  "text": "weight gain after smoking cessation\nhas been a concern related to diabetesmanagement and risk for new onset of\ndisease (323). while post-cessation weight\ngain is an identi \ufb01ed issue, studies have\nfound that an average weight gain of3\u20135 kg does not necessarily persist long\nterm nor diminish the substantial cardio-\nvascular bene \ufb01t realized from smoking\ncessation (316).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "weight gain after smoking cessation"
+    ],
+    "Examination Indicators": [
+      "average weight gain of 3-5 kg"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "weight gain after smoking cessation"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "smoking cessation"
+    ],
+    "Severity": [
+      "average weight gain of 3-5 kg"
+    ],
+    "Non-Medication Treatment": [
+      "smoking cessation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "average weight gain of 3\u20135 kg"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "not necessarily persist long term"
+    ],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

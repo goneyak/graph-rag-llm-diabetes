@@ -1,0 +1,53 @@
+{
+  "text": "a 2024 systematicreview and meta-analysis of rcts exam-\nined the most common types of fasting instudies lasting 2 \u201352 weeks. the authors\nconcluded that intermittent energy restric-tion produces small but signi \ufb01cant reduc-\ntions in waist circumference and fat-free\nmass but were otherwise not superior to\ncontinuous energy restriction diets (216).generally, time-restricted eating or short-ening the eating window can be adaptedto any eating pattern and has been shownto be safe for adults with type 1 or type 2\ndiabetes (217).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "recommended foods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "waist"
+    ],
+    "Clinical Manifestations": [
+      "reductions in waist circumference",
+      "reductions in fat-free mass"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "RCTs"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "intermittent energy restriction",
+      "continuous energy restriction diets",
+      "time-restricted eating",
+      "shortening the eating window"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "small but significant reductions in waist circumference",
+      "reductions in fat-free mass"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "2-52 weeks"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

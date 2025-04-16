@@ -1,0 +1,54 @@
+{
+  "text": "mnt is effective and bene \ufb01cial to\npeople with diabetes. when deliveredby an rdn, mnt is associated with a1c\nabsolute decreases of 1.0 \u20131.9% for peo-\nple with type 1 diabetes and 0.3 \u20132.0%\nfor people with type 2 diabetes (78).because type 2 diabetes is progressive,behavior modi \ufb01cation alone may not be\nadequate to maintain euglycemia overtime.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "euglycemia"
+    ],
+    "Examination Indicators": [
+      "A1C decreases of 1.0-1.9% for type 1 diabetes",
+      "A1C decreases of 0.3-2.0% for type 2 diabetes"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "Medical Nutrition Therapy (MNT)"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "MNT (Medical Nutrition Therapy)",
+      "behavior modification"
+    ],
+    "Pathogenesis": [
+      "type 2 diabetes is progressive"
+    ],
+    "Examination Indicator Values": [
+      "A1C absolute decreases of 1.0\u20131.9% for people with type 1 diabetes",
+      "A1C absolute decreases of 0.3\u20132.0% for people with type 2 diabetes"
+    ],
+    "Medication Methods": [],
+    "Duration": [
+      "over time"
+    ],
+    "Diseases": [
+      "diabetes",
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

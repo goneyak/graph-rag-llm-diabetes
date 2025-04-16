@@ -1,0 +1,39 @@
+{
+  "text": "diabetes care 2017;40:461 \u2013467\n486. garcia-argibay m, li l, du rietz e, et al. the\nassociation between type 2 diabetes and attention-\nde\ufb01cit/hyperactivity disorder: a systematic review,\nmeta-analysis, and population-based sibling study.neurosci biobehav rev 2023;147:105076\n487. ding k, reynolds cm, driscoll ka, janicke dm.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 2 diabetes",
+      "attention-deficit/hyperactivity disorder"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review",
+      "meta-analysis",
+      "population-based sibling study"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "attention-deficit/hyperactivity disorder"
+    ]
+  }
+}

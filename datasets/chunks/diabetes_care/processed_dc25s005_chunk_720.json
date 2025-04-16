@@ -1,0 +1,39 @@
+{
+  "text": "association betweencannabis use and risk for diabetic ketoacidosis inadults with type 1 diabetes. jama intern med2019;179:115 \u2013118\n338. kinney gl, akturk hk, taylor dd, foster nc,\nshah vn.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "disease overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetic ketoacidosis"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "cannabis"
+    ],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [
+      "diabetic ketoacidosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetic ketoacidosis",
+      "type 1 diabetes"
+    ]
+  }
+}

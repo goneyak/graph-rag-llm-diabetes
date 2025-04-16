@@ -1,0 +1,48 @@
+{
+  "text": "/c15include family or roommates in meal preparation; share the responsibilities of grocery shopping and cooking.s92 facilitating positive health behaviors and well-being diabetes care volume 48, supplement 1, january 2025downloaded from http://diabetesjournals.org/care/article-pdf/48/supplement_1/s86/791496/dc25s005.pdf by guest on 13 april 2025\nhealth care professionals should main-\ntain consistent medical oversight of indi-viduals following very-low-carbohydrateeating plans and recognize that insulinand other diabetes medications may need\nto be adjusted to prevent hypoglycemia,\nand blood pressure will need to be moni-tored. in addition, very-low-carbohydrateeating plans are not currently recom-\nmended for individuals who are pregnant\nor lactating, children, people who havekidney disease, or people with or at riskfor disordered eating.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "kidney"
+    ],
+    "Clinical Manifestations": [
+      "hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "blood pressure monitoring"
+    ],
+    "Medication Name": [
+      "insulin"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "very-low-carbohydrate eating plans",
+      "include family or roommates in meal preparation",
+      "share the responsibilities of grocery shopping and cooking"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "hypoglycemia",
+      "kidney disease",
+      "disordered eating"
+    ]
+  }
+}

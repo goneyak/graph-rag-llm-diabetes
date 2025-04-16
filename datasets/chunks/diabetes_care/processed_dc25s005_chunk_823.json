@@ -1,0 +1,34 @@
+{
+  "text": "am j\ngeriatr psychiatry 2024;32:117 \u2013127\n457. pinhas-hamiel o, hamiel u, levy-shraga y.\neating disorders in adolescents with type 1diabetes: challenges in diagnosis and treatment.world j diabetes 2015;6:517 \u2013526\n458. papelbaum m, appolin /c19ario jc, moreira\nrdo, ellinger vcm, kupfer r, coutinho wf. prevalence of eating disorders and psychiatriccomorbidity in a clinical sample of type 2 dia-betes mellitus patients.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "eating disorders"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "eating disorders",
+      "type 1 diabetes",
+      "type 2 diabetes mellitus",
+      "psychiatric comorbidity"
+    ]
+  }
+}

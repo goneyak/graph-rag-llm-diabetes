@@ -1,0 +1,45 @@
+{
+  "text": "in prediabetes, the weight loss goal is\nat least 3 \u20137% from baseline body weight,\nand higher for reducing risk of progres-sion to type 2 diabetes. in conjunctionwith support for healthy lifestyle behav-iors, medication-assisted weight loss canbe considered for people at risk for type 2diabetes when needed to achieve andsustain 7 \u201310% weight loss (188,189)\n(see section 8, \u201cobesity and weight\nmanagement for the prevention and\ntreatment of type 2 diabetes \u201d).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "disease overview",
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "prediabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "prediabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "weight loss goal of at least 3-7% from baseline body weight",
+      "support for healthy lifestyle behaviors"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "3-7% from baseline body weight",
+      "7-10% weight loss"
+    ],
+    "Medication Methods": [
+      "medication-assisted weight loss"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "prediabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

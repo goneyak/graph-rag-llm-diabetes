@@ -1,0 +1,43 @@
+{
+  "text": "dka,\ndiabetic ketoacidosis; egfr, estimated glomerular \ufb01ltration rate; hhs, hyperglycemic hyperos-\nmolar state; mvd, macrovascular disease (cardiac, cerebral, or peripheral). *individuals who\nare pregnant or breastfeeding have the right to not fast regardless of whether they have di-abetes or not.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "complications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetic ketoacidosis",
+      "hyperglycemic hyperosmolar state"
+    ],
+    "Examination Indicators": [
+      "estimated glomerular filtration rate"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "diabetic ketoacidosis",
+      "hyperglycemic hyperosmolar state"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "egfr, estimated glomerular \ufb01ltration rate"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "dka, diabetic ketoacidosis",
+      "hhs, hyperglycemic hyperosmolar state",
+      "mvd, macrovascular disease (cardiac, cerebral, or peripheral)",
+      "diabetes"
+    ]
+  }
+}

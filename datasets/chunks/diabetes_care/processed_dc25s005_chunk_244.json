@@ -1,0 +1,61 @@
+{
+  "text": "this has raised concern about\nthe loss of muscle mass leading over\ntime to the development or worseningof frailty and sarcopenic obesity (285).one study demonstrated that after discon-tinuation of weight management pharma-\nc o t h e r a p yw i t hg l p - 1r a si np e o p l ew i t h\nobesity but without diabetes, the combina-tion of supervised exercise and glp-1 ratherapy was more favorable in maintaining\nbody weight and body composition com-\np a r e dw i t hg l p - 1r at h e r a p ya l o n e .d a t ain people with diabetes and overweight orobesity are emerging. it is recommended\nthat people with diabetes be encouraged\nto follow the physical activity recommen-dations, in particular muscle-strengthen-ing activities, to reduce the loss of lean\nmass (285).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatments"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "muscle"
+    ],
+    "Clinical Manifestations": [
+      "frailty",
+      "sarcopenic obesity",
+      "loss of muscle mass"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "supervised exercise"
+    ],
+    "Medication Name": [
+      "GLP-1 RA",
+      "GLP-1 receptor agonist"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "loss of muscle mass",
+      "frailty",
+      "sarcopenic obesity"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "discontinuation of weight management pharmacotherapy"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "supervised exercise",
+      "physical activity",
+      "muscle-strengthening activities"
+    ],
+    "Pathogenesis": [
+      "loss of muscle mass leading to development or worsening of frailty and sarcopenic obesity"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "pharmacotherapy with GLP-1 RAs"
+    ],
+    "Duration": [
+      "over time",
+      "after discontinuation"
+    ],
+    "Diseases": [
+      "diabetes",
+      "obesity",
+      "frailty",
+      "sarcopenic obesity",
+      "overweight"
+    ]
+  }
+}

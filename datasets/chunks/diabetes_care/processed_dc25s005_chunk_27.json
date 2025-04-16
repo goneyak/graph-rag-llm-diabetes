@@ -1,0 +1,39 @@
+{
+  "text": "greater a1c reductions are\ndemonstrated with increased engage-ment (47), although data from trials areheterogeneous. diabetes care and education specialists\n(dces) are effective providers of dsmes.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "required tests"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [
+      "a1c reductions"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes care and education specialists (dces)",
+      "dsmes"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "diabetes self-management education and support (DSMES)"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "A1C reductions"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

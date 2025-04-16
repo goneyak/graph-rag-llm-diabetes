@@ -1,0 +1,37 @@
+{
+  "text": "j diabetes scitechnol 2022;16:1419 \u20131427399. hagger v, hendrieckx c, sturt j, skinner tc,\nspeight j. diabetes distress among adolescents\nwith type 1 diabetes: a systematic review.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic review"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "type 1 diabetes"
+    ]
+  }
+}

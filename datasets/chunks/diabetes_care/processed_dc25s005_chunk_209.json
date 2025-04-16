@@ -1,0 +1,44 @@
+{
+  "text": "physical activity\nrecommendations\n5.34 counsel youth with type 1 diabe-\ntescor type 2 diabetes bto engage\nin 60 min/day or more of moderate-\nor vigorous-intensity aerobic activity,\nwith muscle-strengthening and bone-\nstrengthening activities at least 3 days/\nweek, and to limit the amount of timebeing spent sedentary, including recre-\national screen time. c\n5.35 counsel most adults with type 1\ndiabetes cand type 2 diabetes bto\nengage in 150 min or more of moder-ate- to vigorous-intensity aerobic ac-tivity per week, spread over at least3 days/week, with no more than 2consecutive days without activity.shorter durations (minimum 75 min/week) of vigorous-intensity or intervaltraining may be suf \ufb01cient for more\nphysically \ufb01t individuals.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "60 min/day or more of moderate- or vigorous-intensity aerobic activity for youth with diabetes",
+      "muscle-strengthening and bone-strengthening activities at least 3 days/week for youth with diabetes",
+      "limit sedentary time including recreational screen time for youth with diabetes",
+      "150 min or more of moderate- to vigorous-intensity aerobic activity per week for adults with diabetes",
+      "aerobic activity spread over at least 3 days/week, with no more than 2 consecutive days without activity for adults",
+      "shorter durations (minimum 75 min/week) of vigorous-intensity or interval training for physically fit individuals"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "60 min/day for youth",
+      "at least 3 days/week for strengthening activities",
+      "150 min or more per week for adults",
+      "at least 3 days/week for adults",
+      "no more than 2 consecutive days without activity",
+      "minimum 75 min/week for more physically fit individuals"
+    ],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

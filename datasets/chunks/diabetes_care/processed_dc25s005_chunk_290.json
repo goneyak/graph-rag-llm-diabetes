@@ -1,0 +1,43 @@
+{
+  "text": "the fda re-\nports adverse effects related to delta-\n8 thc, some of which may have healthimplications for people with diabetes(e.g., vomiting) (336). evidence of spe-ci\ufb01c increased risk of diabetic keto-\nacidosis associated with cannabis use\nh a sb e e nr e p o r t e di na d u l t sw i t ht y p e1diabetes (337 \u2013339).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "symptoms",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "vomiting",
+      "diabetic ketoacidosis"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "delta-8 thc",
+      "cannabis"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "vomiting",
+      "diabetic ketoacidosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetic ketoacidosis",
+      "diabetes",
+      "type 1 diabetes",
+      "vomiting"
+    ]
+  }
+}

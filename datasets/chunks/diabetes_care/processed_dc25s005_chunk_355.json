@@ -1,0 +1,49 @@
+{
+  "text": "psychological and behavioral care can be\nhelpful to address symptoms of anxiety in\npeople with diabetes. among adults withtype 2 diabetes and elevated depressivesymptoms, an rct of collaborative caredemonstrated bene \ufb01ts on anxiety symp-\ntoms for up to 1 year (434).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases",
+    "treatment methods",
+    "symptoms"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "anxiety symptoms",
+      "elevated depressive symptoms"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "RCT of collaborative care"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "elevated depressive symptoms",
+      "anxiety symptoms"
+    ],
+    "Non-Medication Treatment": [
+      "psychological and behavioral care",
+      "collaborative care"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "up to 1 year"
+    ],
+    "Diseases": [
+      "anxiety",
+      "diabetes",
+      "type 2 diabetes",
+      "elevated depressive symptoms"
+    ]
+  }
+}

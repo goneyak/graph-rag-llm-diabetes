@@ -1,0 +1,36 @@
+{
+  "text": "changes in delta-9-tetrahydrocannabinol (thc)and cannabidiol (cbd) concentrations in cannabisover time: systematic review and meta-analysis. addiction 2021;116:1000 \u20131010\n336. u.s. food and drug administration.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes",
+    "treatment"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "delta-9-tetrahydrocannabinol (THC)",
+      "cannabidiol (CBD)",
+      "cannabis"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "over time"
+    ],
+    "Diseases": [
+      "addiction"
+    ]
+  }
+}

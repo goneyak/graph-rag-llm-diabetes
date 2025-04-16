@@ -1,0 +1,31 @@
+{
+  "text": "diabetes care\n2010;33:1658 \u20131664\n342. asche c, lafleur j, conner c. a review of\ndiabetes treatment adherence and the asso-ciation with clinical and economic outcomes. clinther 2011;33:74 \u2013109\n343. berhe kk, gebru hb, kahsay hb.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "medications",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

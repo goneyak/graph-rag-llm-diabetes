@@ -1,0 +1,44 @@
+{
+  "text": "the experienceof stigma related to living with diabetes maycontribute to increased diabetes distress(409,410). diabetes distress should be routinely\nmonitored (411) using diabetes-speci \ufb01c\nvalidated measures (1), such as thoseavailable through the ada \u2019sw e b s i t e\n(professional.diabetes.org/sites/default/\ufb01les/media/ada_mental_health_toolkit_\nquestionnaires.pdf).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "querying disease overview",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "diabetes-specific validated measures",
+      "ADA website questionnaires"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "stigma related to living with diabetes"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "routine monitoring of diabetes distress",
+      "using diabetes-specific validated measures"
+    ],
+    "Pathogenesis": [
+      "stigma related to living with diabetes may contribute to increased diabetes distress"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "diabetes distress"
+    ]
+  }
+}

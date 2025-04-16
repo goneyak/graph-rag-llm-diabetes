@@ -1,0 +1,46 @@
+{
+  "text": "disrupted sleep and sleep dis-orders, including obstructive sleep apnea\n(osa) (505), insomnia, and sleep distur-\nbances (506), are common among peoplewith diabetes. in type 1 diabetes, esti-mates of poor sleep range from 30% to\n50% (507), and estimates of moderate to\nsevere osa are >50% (505).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "disrupted sleep",
+      "obstructive sleep apnea (OSA)",
+      "insomnia",
+      "sleep disturbances",
+      "poor sleep"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "moderate to severe osa"
+    ],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "poor sleep range from 30% to 50% in type 1 diabetes",
+      "moderate to severe OSA >50% in people with diabetes"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "disrupted sleep",
+      "sleep disorders",
+      "obstructive sleep apnea (OSA)",
+      "insomnia",
+      "sleep disturbances",
+      "diabetes",
+      "type 1 diabetes"
+    ]
+  }
+}

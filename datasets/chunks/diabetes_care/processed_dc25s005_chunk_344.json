@@ -1,0 +1,73 @@
+{
+  "text": "an rct among people with type 1 and type 2diabetes found mindful self-compassiontable 5.8 \u2014psychosocial concerns and their association with diabetes-related outcomes in adults with type 2 diabetes\nincreased\na1cincreased\nblood pressureincreased\ndyslipidemiaincreased\nmacrovascular\ncomplicationsincreased\nmicrovascular\ncomplicationsdecreased\nself-care\nbehaviorscomorbid\npsychosocial\nconcernsdecreased\nquality\nof lifeincreased\nmortality\ndiabetes distress (545 \u2013551) +++ + + +++ +++ +++ +++ +++ +++\ndepression and depressive\nsymptoms (552 \u2013559)+++ ++ +++ +++ +++ +++ +++ +++ +++\nanxiety (358,408,553,560 \u2013563) +++ ++ + +++ + +++ +++ +++ +++\ndisordered eating behaviors\n(binge eating disorder, night\neating syndrome) (564 \u2013567)+/\u2013 ? ??",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview",
+    "concurrent_diseases",
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "depression",
+      "depressive symptoms",
+      "anxiety",
+      "disordered eating behaviors",
+      "binge eating disorder",
+      "night eating syndrome",
+      "increased A1C",
+      "increased blood pressure",
+      "dyslipidemia"
+    ],
+    "Examination Indicators": [
+      "increased A1C",
+      "increased blood pressure",
+      "dyslipidemia"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "mindful self-compassion"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "Type 1 diabetes",
+      "Type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [
+      "Increased A1C",
+      "Increased blood pressure",
+      "Increased dyslipidemia",
+      "Increased macrovascular complications",
+      "Increased microvascular complications",
+      "Decreased self-care behaviors",
+      "Decreased quality of life",
+      "Increased mortality"
+    ],
+    "Non-Medication Treatment": [
+      "mindful self-compassion"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "type 2 diabetes",
+      "diabetes distress",
+      "depression",
+      "depressive symptoms",
+      "anxiety",
+      "disordered eating behaviors",
+      "binge eating disorder",
+      "night eating syndrome",
+      "dyslipidemia",
+      "macrovascular complications",
+      "microvascular complications"
+    ]
+  }
+}

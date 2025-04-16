@@ -1,0 +1,41 @@
+{
+  "text": "patient reported\noutcomes (pros) and user experiences of youngchildren with type 1 diabetes using t:slim x2insulin pump with control-iq technology.diabetes res clin pract 2024;208:111114\n522. cobry ec, hamburger e, jaser ss. impact of\nthe hybrid closed-loop system on sleep and\nquality of life in youth with type 1 diabetes and\ntheir parents.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "t:slim x2 insulin pump with control-iq technology",
+      "hybrid closed-loop system"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "hybrid closed-loop system",
+      "t:slim x2 insulin pump with Control-IQ technology"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [
+      "insulin pump"
+    ],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "text": "b\nproteins 5.29 people with diabetes and those at risk for diabetes are advised to incorporate more plant-based protein\nsources (e.g., nuts, seeds, and legumes) as part of an overall diverse eating pattern to reduce cardiovasculardisease risk. b\n5.30 counsel people with diabetes to consider an eating plan emphasizing elements of a mediterranean eating\npattern, which is rich in monounsaturated and polyunsaturated fats and long-chain fatty acids such as fatty\ufb01sh, nuts, and seeds, to reduce cardiovascular disease risk aand improve glucose metabolism.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "treatment methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiovascular system"
+    ],
+    "Clinical Manifestations": [],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "incorporate more plant-based protein sources (e.g., nuts, seeds, and legumes) as part of an overall diverse eating pattern",
+      "eating plan emphasizing elements of a mediterranean eating pattern, which is rich in monounsaturated and polyunsaturated fats and long-chain fatty acids such as fatty fish, nuts, and seeds"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [
+      "proteins 5.29"
+    ],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "cardiovascular disease"
+    ]
+  }
+}

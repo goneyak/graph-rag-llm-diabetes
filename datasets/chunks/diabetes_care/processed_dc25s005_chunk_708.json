@@ -1,0 +1,45 @@
+{
+  "text": "obes rev 2015;16:\n883\u2013901\n324. voulgari c, katsilambros n, tentolouris n.\nsmoking cessation predicts amelioration ofmicroalbuminuria in newly diagnosed type 2\ndiabetes mellitus: a 1-year prospective study. metabolism 2011;60:1456 \u20131464\n325. asthana s, labani s, kailash u, sinha dn,\nmehrotra r. association of smokeless tobaccouse and oral cancer: a systematic global review\nand meta-analysis.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "causes"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "oral"
+    ],
+    "Clinical Manifestations": [
+      "microalbuminuria"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "systematic global review",
+      "meta-analysis"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "smoking",
+      "smokeless tobacco use"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "smoking cessation"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "1-year prospective study"
+    ],
+    "Diseases": [
+      "microalbuminuria",
+      "type 2 diabetes mellitus",
+      "oral cancer"
+    ]
+  }
+}

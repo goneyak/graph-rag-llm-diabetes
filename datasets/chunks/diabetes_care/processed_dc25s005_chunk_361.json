@@ -1,0 +1,39 @@
+{
+  "text": "regardless of diabetes type,\nwomen have signi \ufb01cantly higher rates\nof depression than men (442). for indi-\nviduals with type 2 diabetes, the experience\nof diabetes-related stigma is associated\nwith increased depressive symptoms (410).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "depression",
+      "depressive symptoms"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [
+      "diabetes-related stigma"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "depression",
+      "diabetes-related stigma",
+      "type 2 diabetes"
+    ]
+  }
+}

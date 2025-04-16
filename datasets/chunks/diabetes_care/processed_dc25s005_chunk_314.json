@@ -1,0 +1,42 @@
+{
+  "text": "the adaprovides access to tools for screening spe-ci\ufb01c psychosocial topics, such as diabetes\ndistress, fear of hypoglycemia, and otherrelevant psychological symptoms atprofessional.diabetes.org/sites/default/\ufb01les/media/ada_mental_health_toolkit_\nquestionnaires.pdf. additional informa-tion about developmentally speci \ufb01cp s y -\nchosocial screening topics is available in\nsection 14, \u201cchildren and adolescents, \u201d\nand section 13, \u201colder adults.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease overview",
+    "symptoms",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes distress",
+      "fear of hypoglycemia",
+      "psychological symptoms"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "psychosocial screening",
+      "screening specific psychosocial topics"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "psychosocial screening",
+      "psychological symptom screening"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes distress",
+      "fear of hypoglycemia"
+    ]
+  }
+}

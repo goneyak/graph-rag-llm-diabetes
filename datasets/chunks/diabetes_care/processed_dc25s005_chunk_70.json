@@ -1,0 +1,44 @@
+{
+  "text": "badvise abstainers to not start drinking alcohol, even in\nmoderation. 5.19 educate people with diabetes about the signs, symptoms, and self-management of delayed\nhypoglycemia after drinking alcohol, especially when using insulin or insulin secretagogues.",
+  "source": "dc25s005.pdf",
+  "intent": [],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "delayed hypoglycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "insulin",
+      "insulin secretagogues"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "delayed hypoglycemia"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "drinking alcohol"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "advise abstainers to not start drinking alcohol, even in moderation",
+      "educate people with diabetes about the signs, symptoms, and self-management of delayed hypoglycemia after drinking alcohol"
+    ],
+    "Pathogenesis": [
+      "delayed hypoglycemia after drinking alcohol"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [
+      "delayed"
+    ],
+    "Diseases": [
+      "diabetes",
+      "hypoglycemia"
+    ]
+  }
+}

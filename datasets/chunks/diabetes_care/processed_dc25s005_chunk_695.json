@@ -1,0 +1,44 @@
+{
+  "text": ";\naction to control cardiovascular risk in diabetes\nstudy group. effects of cardiac autonomic\ndysfunction on mortality risk in the action tocontrol cardiovascular risk in diabetes (accord)trial.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment methods",
+    "concurrent diseases"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [
+      "cardiac"
+    ],
+    "Clinical Manifestations": [
+      "cardiac autonomic dysfunction"
+    ],
+    "Examination Indicators": [
+      "mortality risk"
+    ],
+    "Medication Dosage": [],
+    "Examination Methods": [
+      "ACCORD trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "cardiac autonomic dysfunction"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [],
+    "Pathogenesis": [
+      "cardiac autonomic dysfunction"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes",
+      "cardiovascular risk",
+      "cardiac autonomic dysfunction"
+    ]
+  }
+}

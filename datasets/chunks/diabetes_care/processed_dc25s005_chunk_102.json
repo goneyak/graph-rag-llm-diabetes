@@ -1,0 +1,53 @@
+{
+  "text": "very-low-carbohydrate eating plans\nshould also be used with caution in those\ntaking sodium \u2013glucose cotransporter 2\n(sglt2) inhibitors because of the potentialrisk of ketoacidosis (110,111). numerous\ncase reports have now been published il-\nlustrating that diabetic ketoacidosis (dka)or euglycemic dka can occur in peoplewith type 1 and type 2 diabetes usingsglt2 inhibitors in combination with very-\nlow-carbohydrate or ketogenic eating pat-\nterns.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "recommended foods",
+    "foods to avoid",
+    "causes",
+    "treatment methods",
+    "medications"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetic ketoacidosis (DKA)",
+      "euglycemic DKA"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [
+      "sodium-glucose cotransporter 2 (SGLT2) inhibitors"
+    ],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [
+      "diabetic ketoacidosis (DKA)",
+      "euglycemic DKA",
+      "ketoacidosis"
+    ],
+    "Medication Frequency": [],
+    "Cause": [
+      "very-low-carbohydrate eating plans",
+      "very-low-carbohydrate or ketogenic eating patterns"
+    ],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "very-low-carbohydrate eating plans",
+      "ketogenic eating patterns"
+    ],
+    "Pathogenesis": [
+      "ketoacidosis",
+      "euglycemic DKA"
+    ],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetic ketoacidosis (DKA)",
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ]
+  }
+}

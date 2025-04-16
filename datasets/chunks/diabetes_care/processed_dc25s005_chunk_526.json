@@ -1,0 +1,43 @@
+{
+  "text": "amount and\ntype of dietary fat, postprandial glycemia, and\ninsulin requirements in type 1 diabetes: a\nrandomized within-subject trial. diabetes care2020;43:59 \u201366\n122. furthner d, lukas a, schneider am, et al.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "required medications",
+    "recommended foods",
+    "foods to avoid"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "type 1 diabetes",
+      "postprandial glycemia"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [
+      "insulin requirements"
+    ],
+    "Examination Methods": [
+      "randomized within-subject trial"
+    ],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "dietary fat"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 1 diabetes",
+      "postprandial glycemia"
+    ]
+  }
+}

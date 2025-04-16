@@ -1,0 +1,33 @@
+{
+  "text": "diabetes care2017;40:1002 \u20131009\n275. adolfsson p , riddell mc, taplin ce, et al. ispad clinical practice consensus guidelines 2018:exercise in children and adolescents with diabetes.pediatr diabetes 2018;19 suppl 27:205 \u2013226\n276. gortmaker sl, must a, sobol am, peterson\nk, colditz ga, dietz wh.",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "disease_overview"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "diabetes"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "exercise in children and adolescents with diabetes"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "diabetes"
+    ]
+  }
+}

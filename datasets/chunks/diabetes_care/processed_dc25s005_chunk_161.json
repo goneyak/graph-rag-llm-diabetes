@@ -1,0 +1,41 @@
+{
+  "text": "however, in some populations such\nas south asian adults, traditional inter-\nventions have not been as effective inpreventing or remission of type 2 diabe-tes, so those groups will bene \ufb01tf r o m\nmore culturally tailored interventional\napproaches (204). overweight and obesity are increas-\ningly prevalent in people with type 1 di-abetes and present clinical challenges\nregarding diabetes treatment and cvd\nrisk factors (205,206).",
+  "source": "dc25s005.pdf",
+  "intent": [
+    "treatment_methods"
+  ],
+  "entities": {
+    "Surgery": [],
+    "Location": [],
+    "Clinical Manifestations": [
+      "overweight",
+      "obesity"
+    ],
+    "Examination Indicators": [],
+    "Medication Dosage": [],
+    "Examination Methods": [],
+    "Medication Name": [],
+    "Disease Staging and Classification": [
+      "type 1 diabetes",
+      "type 2 diabetes"
+    ],
+    "Adverse Reactions": [],
+    "Medication Frequency": [],
+    "Cause": [],
+    "Severity": [],
+    "Non-Medication Treatment": [
+      "culturally tailored interventional approaches"
+    ],
+    "Pathogenesis": [],
+    "Examination Indicator Values": [],
+    "Medication Methods": [],
+    "Duration": [],
+    "Diseases": [
+      "type 2 diabetes",
+      "type 1 diabetes",
+      "overweight",
+      "obesity",
+      "CVD"
+    ]
+  }
+}
