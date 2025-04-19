@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './Chat.css';
+import GraphDisplay from './GraphDisplay';
 
 function Chat() {
   const [messages, setMessages] = useState([]);
@@ -71,10 +72,16 @@ function Chat() {
       const aiMessage = { 
         text: data.message || "Sorry, I couldn't process your request.", 
         sender: 'ai', 
-        timestamp: new Date() 
+        timestamp: new Date(),
+        graphData: data.graphData || null // Store graph data if available
       };
       
       setMessages(prevMessages => [...prevMessages, aiMessage]);
+      
+      // Log graph data if available for debugging
+      if (data.graphData) {
+        console.log('Graph data received:', data.graphData);
+      }
     } catch (error) {
       console.error('Error calling chat API:', error);
       
@@ -120,6 +127,7 @@ function Chat() {
               <div className="message-content">
                 <p>{message.text}</p>
                 <span className="timestamp">{formatTime(message.timestamp)}</span>
+                {message.graphData && <GraphDisplay graphData={message.graphData} />}
               </div>
             </div>
           ))

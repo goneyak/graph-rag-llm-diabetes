@@ -287,13 +287,29 @@ def main():
     os.environ['NEPTUNE_ENDPOINT'] = 'localhost'
     os.environ['NEPTUNE_PORT'] = '8182'
     
-    # Load the graph data
+    # Load the graph data from the unified JSON graph file
     global GRAPH_DATA
     GRAPH_DATA = load_graph_data(args.graph_file)
     
     if not GRAPH_DATA:
         logger.error(f"Failed to load graph data from {args.graph_file}")
-        sys.exit(1)
+        logger.info("Attempting to load from default locations...")
+        
+        # Try to load from common locations
+        potential_paths = [
+            'unified_diabetes_graph.json',
+        ]
+        
+        for path in potential_paths:
+            if os.path.exists(path):
+                logger.info(f"Found graph file at {path}")
+                GRAPH_DATA = load_graph_data(path)
+                if GRAPH_DATA:
+                    break
+        
+        if not GRAPH_DATA:
+            logger.error("Could not find a valid graph file. Please provide a valid path with --graph-file")
+            sys.exit(1)
     
     # Make graph data available to chat_handler
     chat_handler.GRAPH_DATA = GRAPH_DATA
