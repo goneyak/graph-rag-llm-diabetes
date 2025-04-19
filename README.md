@@ -191,6 +191,108 @@ For local testing of the Lambda function:
 npm run lambda:test
 ```
 
+## Local Development
+
+### Running the Backend Locally
+
+The backend includes a local HTTP server that simulates API Gateway and serves the Lambda functions locally. It loads the unified JSON graph data and makes it available to the chat handler.
+
+1. Navigate to the lambda package directory:
+
+```bash
+cd packages/lambda/src
+```
+
+2. Install the required Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Create or download a unified graph JSON file (unified_diabetes_graph.json) and place it in the src directory.
+
+4. Run the local HTTP server:
+
+```bash
+python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json
+```
+
+This will start a local server on port 3001 with the following endpoints:
+- GET /health - Health check endpoint
+- GET /api/graph - Returns the graph data
+- POST /api/chat - Chat API endpoint
+- POST /api/graph/query - Graph query endpoint
+- POST /api/graph/upload - Simulates S3 upload and processing
+
+### Running the Frontend Locally
+
+The frontend is a React application that can be run locally for development:
+
+1. Navigate to the frontend package directory:
+
+```bash
+cd packages/frontend
+```
+
+2. Install the required npm dependencies:
+
+```bash
+npm install
+```
+
+3. Create a .env.local file with the following content:
+
+```
+REACT_APP_API_ENDPOINT=http://localhost:3001
+```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
+This will start a development server at http://localhost:3000 that connects to the local backend server.
+
+### Running the Medical Knowledge Graph Processing Notebook
+
+The Med_Knowledge_Graph.ipynb notebook in the lambda package can be used to process PDF and CSV files for intent detection, entity recognition, and graph building:
+
+1. Navigate to the lambda package directory:
+
+```bash
+cd packages/lambda/src
+```
+
+2. Install the required Python dependencies:
+
+```bash
+pip install -r requirements.txt
+pip install jupyter notebook matplotlib scikit-learn PyPDF2 google-genai gremlinpython nltk boto3
+```
+
+3. Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open the Med_Knowledge_Graph.ipynb notebook.
+
+5. Update the following variables in the notebook:
+   - `DATA_DIR`: Path to your PDF and CSV files (e.g., "datasets/diabetes_care")
+   - `GEMINI_API_KEY`: Your Google Gemini API key
+   - AWS credentials if using Bedrock
+
+6. Run the notebook cells sequentially to:
+   - Load and process PDF/CSV files
+   - Perform intent detection and entity recognition
+   - Build a knowledge graph
+   - Visualize the graph
+   - Generate a unified JSON graph file
+
+7. The generated unified_diabetes_graph.json file can be used with the local HTTP server.
+
 ## Environment Variables
 
 This project uses environment variables for configuration. Each package has its own `.env` file:
