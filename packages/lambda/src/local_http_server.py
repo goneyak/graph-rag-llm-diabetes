@@ -24,7 +24,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 
 # Import Lambda handlers
-import index
+import graph_processor_handler
 import chat_handler
 
 # Configure logging
@@ -204,30 +204,30 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
                     return {'Body': MockBody()}
             
             # Replace the S3 client
-            original_s3_client = index.s3_client
-            index.s3_client = MockS3Client()
+            original_s3_client = graph_processor_handler.s3_client
+            graph_processor_handler.s3_client = MockS3Client()
             
             # Mock the Neptune connection
-            original_insert = index.insert_into_neptune
+            original_insert = graph_processor_handler.insert_into_neptune
             
             def mock_insert(nodes, edges):
                 logger.info(f"Mock Neptune insert: {len(nodes)} nodes, {len(edges)} edges")
                 return True
             
-            index.insert_into_neptune = mock_insert
+            graph_processor_handler.insert_into_neptune = mock_insert
             
             try:
                 # Call the Lambda handler
                 context = MockContext()
-                response = index.handler(event, context)
+                response = graph_processor_handler.handler(event, context)
                 
                 # Return the response
                 self._set_headers(response.get('statusCode', 200))
                 self.wfile.write(json.dumps(response).encode())
             finally:
                 # Restore original functions
-                index.s3_client = original_s3_client
-                index.insert_into_neptune = original_insert
+                graph_processor_handler.s3_client = original_s3_client
+                graph_processor_handler.insert_into_neptune = original_insert
         
         else:
             # Unknown endpoint

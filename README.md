@@ -16,7 +16,7 @@ cdk-monorepo/
 │   │           └── chat-api-stack.ts          # Defines API Gateway and Lambda for chat
 │   ├── lambda/          # Lambda handler code (Python)
 │   │   └── src/
-│   │       ├── index.py                     # Processes S3 events and graph data
+│   │       ├── graph_processor_handler.py   # Processes S3 events and graph data
 │   │       ├── chat_handler.py              # Handles chat API requests
 │   │       ├── med_knowledge_graph_handler.py # Processes medical text and builds knowledge Lambda
 │   │       └── requirements.txt             # Python dependencies
@@ -165,11 +165,39 @@ To synthesize the CloudFormation template without deploying:
 npm run synth
 ```
 
-### Lambda Function
+### Lambda Functions
 
 The Lambda function code is located in `packages/lambda/src/`. It's written in Python and includes:
-- `index.py`: The main Lambda handler that processes S3 events and graph data
-- `requirements.txt`: Python dependencies including boto3 and gremlinpython
+
+#### Graph Processor Handler
+
+The `graph_processor_handler.py` is the main Lambda handler that:
+- Processes S3 events when new graph data files are uploaded
+- Parses graph data from JSON or CSV formats
+- Connects to the Neptune database
+- Inserts nodes and edges into Neptune using Gremlin
+
+#### Chat Handler
+
+The `chat_handler.py` is a Lambda handler that powers the chat interface:
+- Processes user messages from the API Gateway
+- Uses Google Gemini API to extract medical entities and intents from user messages
+- Queries the knowledge graph to find relevant nodes and connections
+- Augments AI responses with information from the knowledge graph
+- Returns enriched responses with both text and graph visualization data
+
+The chat handler supports:
+- Entity extraction for diseases, treatments, medications, symptoms, and examinations
+- Intent detection to understand the user's query type
+- Graph-based response augmentation to provide context-specific answers
+- Visualization data for displaying relevant graph nodes and connections in the UI
+
+#### Dependencies
+
+The Lambda functions require several Python dependencies listed in `requirements.txt`, including:
+- boto3: For AWS service interactions
+- gremlinpython: For Neptune graph database operations
+- google-genai: For Gemini API integration
 
 ### Frontend Application
 
