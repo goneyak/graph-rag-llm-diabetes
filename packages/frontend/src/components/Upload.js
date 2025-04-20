@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Upload.css';
+import SampleGraphDisplay from './SampleGraphDisplay';
 
 function Upload() {
   const [file, setFile] = useState(null);
@@ -99,6 +100,11 @@ source,target,label,since
               </pre>
             </div>
           </div>
+        </div>
+        {/* Add the visualization section to show the sample knowledge graph */}
+        <div className="visualization-container">
+          <h3>Sample Knowledge Graph Visualization</h3>
+          <SampleGraphDisplay />
         </div>
       </div>
     </div>

@@ -62,6 +62,7 @@ cd packages/infrastructure
 npm install aws-cdk-lib dotenv
 cd ../frontend
 npm install dotenv
+npm install cytoscape cytoscape‑panzoom cytoscape‑cose‑bilkent
 ```
 
 3. Build the frontend:

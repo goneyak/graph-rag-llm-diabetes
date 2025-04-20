@@ -69,8 +69,26 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
         """Handle GET requests"""
         parsed_url = urlparse(self.path)
         path = parsed_url.path
-        query = parse_qs(parsed_url.query)
-        
+
+        # Serve PDFs out of datasets/diabetes_care
+        if path.startswith('/diabetes_care/'):
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            project_root = os.path.normpath(os.path.join(base_dir, '..', '..', '..'))
+            pdf_dir = os.path.join(project_root, 'datasets', 'diabetes_care')
+            filename = path[len('/diabetes_care/'):]
+            file_path = os.path.normpath(os.path.join(pdf_dir, filename))
+
+            logger.info(f"[STATIC] GET {path} → {file_path}")
+            if os.path.isfile(file_path):
+                self._set_headers(200, content_type='application/pdf')
+                with open(file_path, 'rb') as f:
+                    self.wfile.write(f.read())
+            else:
+                logger.warning(f"File not found: {file_path}")
+                self._set_headers(404)
+                self.wfile.write(b'File not found')
+            return
+
         if path == '/health':
             # Health check endpoint
             self._set_headers()
@@ -178,7 +196,6 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
         
         elif path == '/api/graph/upload':
             # Simulate S3 upload and processing
-            # Create a mock S3 event
             event = {
                 "Records": [
                     {
@@ -203,11 +220,9 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
                             return json.dumps(GRAPH_DATA).encode('utf-8')
                     return {'Body': MockBody()}
             
-            # Replace the S3 client
             original_s3_client = graph_processor_handler.s3_client
             graph_processor_handler.s3_client = MockS3Client()
             
-            # Mock the Neptune connection
             original_insert = graph_processor_handler.insert_into_neptune
             
             def mock_insert(nodes, edges):
@@ -217,15 +232,12 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
             graph_processor_handler.insert_into_neptune = mock_insert
             
             try:
-                # Call the Lambda handler
                 context = MockContext()
                 response = graph_processor_handler.handler(event, context)
                 
-                # Return the response
                 self._set_headers(response.get('statusCode', 200))
                 self.wfile.write(json.dumps(response).encode())
             finally:
-                # Restore original functions
                 graph_processor_handler.s3_client = original_s3_client
                 graph_processor_handler.insert_into_neptune = original_insert
         
@@ -267,12 +279,12 @@ def run_server(port):
     server_address = ('', port)
     httpd = HTTPServer(server_address, LocalHTTPHandler)
     logger.info(f"Starting server on port {port}")
-    logger.info(f"API endpoints:")
-    logger.info(f"  - GET  /health")
-    logger.info(f"  - GET  /api/graph")
-    logger.info(f"  - POST /api/chat")
-    logger.info(f"  - POST /api/graph/query")
-    logger.info(f"  - POST /api/graph/upload")
+    logger.info("  - GET  /health")
+    logger.info("  - GET  /api/graph")
+    logger.info("  - POST /api/chat")
+    logger.info("  - POST /api/graph/query")
+    logger.info("  - POST /api/graph/upload")
+    logger.info("  - GET  /diabetes_care/<file>.pdf")
     httpd.serve_forever()
 
 def main():
@@ -283,39 +295,19 @@ def main():
                         help='Path to the graph data file')
     args = parser.parse_args()
     
-    # Set environment variables for the Lambda functions
     os.environ['NEPTUNE_ENDPOINT'] = 'localhost'
     os.environ['NEPTUNE_PORT'] = '8182'
     
-    # Load the graph data from the unified JSON graph file
     global GRAPH_DATA
     GRAPH_DATA = load_graph_data(args.graph_file)
     
     if not GRAPH_DATA:
         logger.error(f"Failed to load graph data from {args.graph_file}")
-        logger.info("Attempting to load from default locations...")
-        
-        # Try to load from common locations
-        potential_paths = [
-            'unified_diabetes_graph.json',
-        ]
-        
-        for path in potential_paths:
-            if os.path.exists(path):
-                logger.info(f"Found graph file at {path}")
-                GRAPH_DATA = load_graph_data(path)
-                if GRAPH_DATA:
-                    break
-        
-        if not GRAPH_DATA:
-            logger.error("Could not find a valid graph file. Please provide a valid path with --graph-file")
-            sys.exit(1)
+        sys.exit(1)
     
-    # Make graph data available to chat_handler
     chat_handler.GRAPH_DATA = GRAPH_DATA
     logger.info("Graph data made available to chat handler")
     
-    # Run the server
     run_server(args.port)
 
 if __name__ == "__main__":
