@@ -58,7 +58,7 @@ export default function GraphDisplay({ graphData }) {
         {
           selector: 'node',
           style: {
-            shape: 'ellipse',
+            shape: 'roundrectangle',
             label: 'data(label)',
             'text-wrap': 'wrap',
             'text-max-width': '80px',

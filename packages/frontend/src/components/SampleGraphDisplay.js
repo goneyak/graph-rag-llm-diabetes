@@ -45,7 +45,7 @@ export default function SampleGraphDisplay() {
         {
           selector: 'node',
           style: {
-            shape: 'ellipse',
+            shape: 'roundrectangle',
             label: 'data(label)',
             'text-wrap': 'wrap',
             'text-max-width': '100px',

@@ -1,4 +1,4 @@
-.graph-container {
+.sample-graph-container {
   width: 100%;
   height: 400px;
   border: 1px solid #ccc;
@@ -9,7 +9,7 @@
   cursor: default;
 }
 
-.graph-info {
+.sample-graph-info {
   margin-top: 10px;
   white-space: pre-wrap;
   padding: 10px;
