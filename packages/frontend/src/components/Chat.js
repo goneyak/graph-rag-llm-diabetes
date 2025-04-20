@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import ReactMarkdown from 'react-markdown';
 import './Chat.css';
 import GraphDisplay from './GraphDisplay';
 
@@ -125,7 +126,11 @@ function Chat() {
               className={`message ${message.sender} ${message.isError ? 'error' : ''}`}
             >
               <div className="message-content">
-                <p>{message.text}</p>
+                {message.sender === 'ai' ? (
+                  <ReactMarkdown>{message.text}</ReactMarkdown>
+                ) : (
+                  <p>{message.text}</p>
+                )}
                 <span className="timestamp">{formatTime(message.timestamp)}</span>
                 {message.graphData && <GraphDisplay graphData={message.graphData} />}
               </div>

@@ -65,6 +65,67 @@
   border-bottom-left-radius: 4px;
 }
 
+/* Markdown styles */
+.message.ai .message-content h1,
+.message.ai .message-content h2,
+.message.ai .message-content h3,
+.message.ai .message-content h4,
+.message.ai .message-content h5,
+.message.ai .message-content h6 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.message.ai .message-content h1 {
+  font-size: 1.5em;
+}
+
+.message.ai .message-content h2 {
+  font-size: 1.3em;
+}
+
+.message.ai .message-content h3 {
+  font-size: 1.2em;
+}
+
+.message.ai .message-content p {
+  margin: 0.5em 0;
+}
+
+.message.ai .message-content ul,
+.message.ai .message-content ol {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+}
+
+.message.ai .message-content li {
+  margin: 0.25em 0;
+}
+
+.message.ai .message-content code {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: monospace;
+}
+
+.message.ai .message-content pre {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.5em;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin: 0.5em 0;
+}
+
+.message.ai .message-content blockquote {
+  border-left: 3px solid #ccc;
+  margin: 0.5em 0;
+  padding-left: 1em;
+  color: #555;
+}
+
 .message.error .message-content {
   background-color: #ffdddd;
   color: #d32f2f;

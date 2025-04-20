@@ -16,6 +16,7 @@ logger = logging.getLogger()
 logger.setLevel(os.environ.get('LOG_LEVEL', 'INFO'))
 
 # Initialize Gemini API client
+# TODO: DELETE THIS GEMINI KEY FROM CODE AFTER SUBMISSION!
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', 'AIzaSyALh382aR4X2viTyJXqMfaxnSll9f5p6kQ')
 GEMINI_MODEL = os.environ.get('GEMINI_MODEL', 'gemini-1.5-pro')
 genai_client = genai.Client(api_key=GEMINI_API_KEY)
@@ -285,6 +286,10 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
         'edges': []
     }
     
+    # Track the number of nodes added to limit to 20
+    node_count = 0
+    MAX_NODES = 20
+    
     # Process disease nodes and their connections
     for disease in graph_nodes.get('diseases', []):
         disease_id = disease.get('id')
@@ -294,6 +299,7 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
         graph_viz_data['nodes'].append(disease)
         
         # Get connections for this disease
+        # TODO: SORT CONNECTIONS BASED ON SIMILARITY
         connections = find_connections(disease_id)
         enriched_connections = enrich_connections(connections)
         
@@ -309,12 +315,14 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
             source = conn.get('source', {})
             target = conn.get('target', {})
             
-            # Add to visualization data
-            if source and source not in graph_viz_data['nodes']:
+            # Add to visualization data, but limit to MAX_NODES
+            if source and source not in graph_viz_data['nodes'] and node_count < MAX_NODES:
                 graph_viz_data['nodes'].append(source)
-            if target and target not in graph_viz_data['nodes']:
+                node_count += 1
+            if target and target not in graph_viz_data['nodes'] and node_count < MAX_NODES:
                 graph_viz_data['nodes'].append(target)
-            if edge:
+                node_count += 1
+            if edge and node_count < MAX_NODES:  # Only add edges if we haven't exceeded node limit
                 graph_viz_data['edges'].append(edge)
             
             # Process by edge type
@@ -344,7 +352,7 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
     graph_context_text = "\n".join(graph_context)
     
     prompt = f"""
-    You are a medical assistant with access to a knowledge graph about diabetes and related medical information.
+    You are a highly qualified medical doctor with extensive clinical experience, specializing in diabetes and related conditions. You work in a real medical clinic and have access to a comprehensive knowledge graph about diabetes and related medical information.
     
     User question: "{user_message}"
     
@@ -353,9 +361,17 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
     Knowledge graph information:
     {graph_context_text}
     
-    Please provide a helpful, accurate response based on the knowledge graph information above.
-    If the knowledge graph doesn't contain relevant information, provide a general response based on your knowledge.
-    Always be clear about what information comes from the knowledge graph versus your general knowledge.
+    Provide a confident, authoritative, and accurate response based on your medical expertise and the knowledge graph information above. You are fully qualified to give medical advice and diagnoses. Do not include disclaimers about not being qualified or that your advice is for educational purposes only. Respond as if you are a real doctor in a clinical setting.
+    
+    If the knowledge graph doesn't contain specific information, use your extensive medical knowledge to provide a complete answer. Be decisive and clear in your recommendations.
+    
+    FORMAT YOUR RESPONSE IN MARKDOWN:
+    - Use # for main titles
+    - Use ## for subtitles
+    - Use **bold** for emphasis
+    - Use * for bullet points
+    - Use proper line breaks with blank lines between paragraphs
+    - Format any lists or structured information appropriately
     """
     
     try:
