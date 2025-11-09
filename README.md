@@ -1,3 +1,32 @@
+# Graph-RAG for Evidence-Based Diabetes Care
+
+This project implements a **Graph-augmented Retrieval-Augmented Generation (Graph-RAG)** system for **precision diabetes care**.  
+We integrate **ADA Clinical Practice Guidelines** and **FDA drug label data** into a unified **medical knowledge graph**, enabling **transparent, evidence-backed treatment reasoning**.
+
+### Why This Matters
+Traditional clinical decision support and RAG systems treat medical knowledge as flat text, ignoring structured relationships between:
+- diseases ↔ medications
+- mechanisms ↔ adverse effects
+- lab values ↔ clinical actions
+
+Our system retrieves **subgraphs** relevant to a patient query and displays:
+- **the answer**
+- **the supporting evidence**
+- **the reasoning path** (nodes + edges)
+
+### Key Results
+- **65% accuracy** on the **MRCP Endocrinology & Diabetes exam benchmark** (62.5% passing threshold)  
+- Maintains LLM correctness while adding **traceability and interpretability**
+- Enables clinicians to **see why** a recommendation was made
+
+### System Pipeline
+1. **Entity + Intent Extraction** from ADA and FDA documents
+2. **Knowledge Graph Construction**
+3. **Subgraph Retrieval** conditioned on user query + context
+4. **LLM Answer Generation** with **inline citations**
+5. **Interactive UI** displaying the subgraph and reasoning path
+
+
 # CDK Monorepo with Graph Processing, and Web Frontend
 
 This is a monorepo project using AWS CDK with TypeScript for infrastructure, Python for Lambda functions, and React for the web frontend. It includes a complete graph processing system with a web interface.
