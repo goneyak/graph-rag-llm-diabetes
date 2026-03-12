@@ -20,7 +20,7 @@
     "typeRoots": ["./node_modules/@types"],
     "baseUrl": ".",
     "paths": {
-      "@cdk-monorepo/*": ["packages/*/src"]
+      "@graph-rag-diabetes/*": ["packages/*/src"]
     }
   },
   "exclude": ["node_modules", "cdk.out"]

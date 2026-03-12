@@ -14,7 +14,7 @@ function Navigation() {
     <nav className="navigation">
       <div className="nav-container">
         <div className="nav-logo">
-          <Link to="/">GP AI</Link>
+          <Link to="/">Graph-RAG Diabetes</Link>
         </div>
         
         <div className="nav-links">

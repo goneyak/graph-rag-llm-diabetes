@@ -1,5 +1,5 @@
 {
-  "name": "cdk-monorepo",
+  "name": "graph-rag-diabetes",
   "version": "1.0.0",
   "private": true,
   "workspaces": [
@@ -25,7 +25,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "AWS CDK Monorepo with TypeScript Lambda and React Frontend",
+  "description": "Graph-RAG system for evidence-based diabetes care",
   "engines": {
     "node": ">=18.0.0"
   }

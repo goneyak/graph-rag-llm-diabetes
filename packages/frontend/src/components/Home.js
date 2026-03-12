@@ -6,8 +6,8 @@ function Home() {
   return (
     <div className="home-container">
       <div className="hero-section">
-        <h1>Welcome to GP AI</h1>
-        <p>A powerful graph processing and AI chat application</p>
+        <h1>Welcome to Graph-RAG Diabetes</h1>
+        <p>An evidence-based clinical graph and AI assistant for diabetes care</p>
         
         <div className="cta-buttons">
           <Link to="/chat" className="cta-button primary">

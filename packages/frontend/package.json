@@ -1,5 +1,5 @@
 {
-  "name": "@cdk-monorepo/frontend",
+  "name": "@graph-rag-diabetes/frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

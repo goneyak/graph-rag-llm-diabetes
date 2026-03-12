@@ -1,5 +1,5 @@
 {
-  "name": "@cdk-monorepo/lambda",
+  "name": "@graph-rag-diabetes/lambda",
   "version": "0.1.0",
   "private": true,
   "description": "Python Lambda function",

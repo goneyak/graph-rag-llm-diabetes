@@ -1,5 +1,5 @@
 {
-  "name": "@cdk-monorepo/infrastructure",
+  "name": "@graph-rag-diabetes/infrastructure",
   "version": "0.1.0",
   "private": true,
   "scripts": {

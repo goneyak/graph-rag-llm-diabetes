@@ -23,7 +23,7 @@ function App() {
         </main>
         
         <footer className="App-footer">
-          <p>GP AI Application &copy; 2025</p>
+          <p>Graph-RAG Diabetes &copy; 2025</p>
         </footer>
       </div>
     </Router>

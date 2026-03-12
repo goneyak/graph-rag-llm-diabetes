@@ -111,13 +111,13 @@ function Chat() {
   return (
     <div className="chat-container">
       <div className="chat-header">
-        <h2>Chat with GP AI</h2>
+        <h2>Chat with Graph-RAG Diabetes</h2>
       </div>
       
       <div className="messages-container">
         {messages.length === 0 ? (
           <div className="empty-chat">
-            <p>Send a message to start chatting with GP AI</p>
+            <p>Send a message to start chatting with Graph-RAG Diabetes</p>
           </div>
         ) : (
           messages.map((message, index) => (
