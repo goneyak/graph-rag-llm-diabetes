@@ -20,7 +20,8 @@
     "bootstrap": "cd packages/infrastructure && npx aws-cdk bootstrap",
     "frontend:start": "cd packages/frontend && npm run start:env",
     "frontend:build": "cd packages/frontend && npm run build:env",
-    "lambda:test": "cd packages/lambda && npm run local:test"
+    "lambda:test": "cd packages/lambda && npm run local:test",
+    "smoke": "node -e \"const fs=require('fs'); const files=['README.md','docs/setup.md','.env.example','packages/lambda/.env.example','packages/frontend/.env.example','packages/infrastructure/.env.example','packages/lambda/src/local_http_server.py']; const missing=files.filter(f=>!fs.existsSync(f)); if(missing.length){console.error('Missing required files: '+missing.join(', ')); process.exit(1);} console.log('Smoke check passed');\""
   },
   "keywords": [],
   "author": "",

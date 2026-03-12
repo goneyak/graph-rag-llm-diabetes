@@ -81,6 +81,8 @@ The resulting graph includes node types such as disease, treatment, medication, 
 
 ## Getting Started
 
+For a full reproducible setup flow, see `docs/setup.md`.
+
 ### Prerequisites
 
 - Node.js 18+
@@ -125,6 +127,12 @@ npm run synth
 ```
 
 Note: Deployment and environment-variable setup still need cleanup. This repository contains working project code, but some packaging and configuration surfaces remain prototype-level.
+
+### Quick Smoke Check
+
+```bash
+npm run smoke
+```
 
 ## Research Basis
 
