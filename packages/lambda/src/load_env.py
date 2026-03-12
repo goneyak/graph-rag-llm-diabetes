@@ -7,7 +7,7 @@ This script loads environment variables from:
 2. Lambda package .env file
 
 Usage:
-python load_env.py python local_test.py
+python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json
 """
 
 import os
@@ -86,7 +86,7 @@ def main():
     if not args:
         print("No command provided")
         print("Usage: python load_env.py <command>")
-        print("Example: python load_env.py python local_test.py")
+        print("Example: python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json")
         sys.exit(1)
     
     # Execute the command with the loaded environment variables

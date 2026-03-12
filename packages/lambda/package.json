@@ -6,8 +6,8 @@
   "scripts": {
     "build": "echo 'No build step for Python Lambda'",
     "test": "cd src && python load_env.py python -m unittest discover",
-    "local:test": "cd src && python load_env.py python local_test.py",
-    "local:test:json": "cd src && python load_env.py python local_test.py json",
-    "local:test:csv": "cd src && python load_env.py python local_test.py csv"
+    "local:test": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json",
+    "local:test:json": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json",
+    "local:test:csv": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json"
   }
 }

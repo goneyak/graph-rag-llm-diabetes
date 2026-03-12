@@ -53,7 +53,7 @@ The solution also creates semantically meaningful edges between these nodes:
 - `graph_to_neptune.py`: Script to convert the unified graph to Neptune-compatible Gremlin queries
 - `neptune_query_examples.py`: Example queries for the Neptune database
 - `visualize_graph.py`: Script to visualize the generated graph using NetworkX and Matplotlib
-- `run_graph_builder.py`: Script to run the graph builder and display statistics
+- `unified_graph_builder.py`: Script entry point to run graph building and display summary statistics
 - `neptune_gremlin_queries.txt`: Generated Gremlin queries for Neptune insertion (created when running the scripts)
 - `unified_diabetes_graph.json`: The unified graph data (created when running the scripts)
 

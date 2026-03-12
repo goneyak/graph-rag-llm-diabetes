@@ -12,10 +12,9 @@ The local HTTP server (`local_http_server.py`) provides a way to:
 
 ## Files
 
-- `index.py`: Main Lambda handler for processing graph data
+- `graph_processor_handler.py`: Main Lambda handler for processing graph uploads
 - `chat_handler.py`: Lambda handler for chat functionality
 - `local_http_server.py`: HTTP server for local testing
-- `local_test.py`: Simple script for testing Lambda functions directly
 - `unified_diabetes_graph.json`: The unified graph data
 
 ## Running the Local HTTP Server
