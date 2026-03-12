@@ -1,0 +1,6 @@
+id,label,name
+d1,Disease,Type 2 Diabetes
+m1,Medication,Metformin
+
+source,target,label
+d1,m1,treated_by

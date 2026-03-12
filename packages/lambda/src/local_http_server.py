@@ -3,8 +3,9 @@
 Local HTTP Server for Lambda Functions
 
 This script sets up a local HTTP server that simulates API Gateway and serves
-the Lambda functions locally. It loads the unified_diabetes_graph.json file
-into memory and makes it available to the Lambda handlers.
+the Lambda functions locally. It loads a graph JSON file (default:
+packages/lambda/examples/unified_diabetes_graph.json) into memory and makes it
+available to the Lambda handlers.
 
 Usage:
     python local_http_server.py [--port PORT]
@@ -19,7 +20,6 @@ import logging
 import os
 import sys
 import time
-import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 
@@ -69,6 +69,7 @@ class LocalHTTPHandler(BaseHTTPRequestHandler):
         """Handle GET requests"""
         parsed_url = urlparse(self.path)
         path = parsed_url.path
+        query = parse_qs(parsed_url.query)
 
         # Serve PDFs out of datasets/diabetes_care
         if path.startswith('/diabetes_care/'):
@@ -289,9 +290,13 @@ def run_server(port):
 
 def main():
     """Main function"""
+    default_graph_file = os.path.normpath(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'examples', 'unified_diabetes_graph.json')
+    )
+
     parser = argparse.ArgumentParser(description='Run a local HTTP server for Lambda functions')
     parser.add_argument('--port', type=int, default=3001, help='Port to run the server on')
-    parser.add_argument('--graph-file', type=str, default='unified_diabetes_graph.json', 
+    parser.add_argument('--graph-file', type=str, default=default_graph_file,
                         help='Path to the graph data file')
     args = parser.parse_args()
     

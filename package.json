@@ -1,5 +1,5 @@
 {
-  "name": "graph-rag-diabetes",
+  "name": "cdk-monorepo",
   "version": "1.0.0",
   "private": true,
   "workspaces": [
@@ -14,19 +14,20 @@
     "deploy": "cd packages/infrastructure && npx aws-cdk deploy --all",
     "deploy:frontend": "cd packages/infrastructure && npx aws-cdk deploy FrontendStack",
     "deploy:backend": "cd packages/infrastructure && npx aws-cdk deploy GraphProcessingStack",
-    "deploy:medkg": "cd packages/infrastructure && npx aws-cdk deploy MedKnowledgeGraphStack",
+    "deploy:chatapi": "cd packages/infrastructure && npx aws-cdk deploy ChatApiStack",
+    "deploy:medkg": "cd packages/infrastructure && npx aws-cdk deploy ChatApiStack",
     "deploy:all": "cd packages/infrastructure && npx aws-cdk deploy --all",
     "synth": "cd packages/infrastructure && npx aws-cdk synth",
     "bootstrap": "cd packages/infrastructure && npx aws-cdk bootstrap",
     "frontend:start": "cd packages/frontend && npm run start:env",
     "frontend:build": "cd packages/frontend && npm run build:env",
     "lambda:test": "cd packages/lambda && npm run local:test",
-    "smoke": "node -e \"const fs=require('fs'); const files=['README.md','docs/setup.md','.env.example','packages/lambda/.env.example','packages/frontend/.env.example','packages/infrastructure/.env.example','packages/lambda/src/local_http_server.py']; const missing=files.filter(f=>!fs.existsSync(f)); if(missing.length){console.error('Missing required files: '+missing.join(', ')); process.exit(1);} console.log('Smoke check passed');\""
+    "smoke": "node -e \"const fs=require('fs');const required=['README.md','docs/setup.md','.env.example','packages/lambda/.env.example','packages/frontend/.env.example','packages/infrastructure/.env.example','packages/lambda/src/local_http_server.py'];const missing=required.filter((p)=>!fs.existsSync(p));if(missing.length){console.error('Missing required files:\\n'+missing.join('\\n'));process.exit(1);}console.log('Smoke check passed');\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "Graph-RAG system for evidence-based diabetes care",
+  "license": "Apache-2.0",
+  "description": "AWS CDK Monorepo with TypeScript Lambda and React Frontend",
   "engines": {
     "node": ">=18.0.0"
   }

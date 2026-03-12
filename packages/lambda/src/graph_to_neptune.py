@@ -6,9 +6,9 @@ This script reads the unified_diabetes_graph.json file and generates Gremlin que
 that can be used to load the graph into an Amazon Neptune database.
 """
 
+import argparse
 import json
 import os
-import argparse
 
 def load_graph_data(input_file):
     """Load graph data from JSON file"""
@@ -155,9 +155,13 @@ def generate_neptune_loader_commands(bucket_name, region="us-east-1"):
     print("Generated Neptune Loader commands in neptune_loader_commands.txt")
 
 def main():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    default_input = os.path.normpath(os.path.join(base_dir, '..', 'examples', 'unified_diabetes_graph.json'))
+    default_output = os.path.normpath(os.path.join(base_dir, '..', 'docs', 'neptune_gremlin_queries.txt'))
+
     parser = argparse.ArgumentParser(description='Convert graph data to Neptune Gremlin queries')
-    parser.add_argument('--input', default='unified_diabetes_graph.json', help='Input graph JSON file')
-    parser.add_argument('--output', default='neptune_gremlin_queries.txt', help='Output Gremlin queries file')
+    parser.add_argument('--input', default=default_input, help='Input graph JSON file')
+    parser.add_argument('--output', default=default_output, help='Output Gremlin queries file')
     parser.add_argument('--bucket', default='your-s3-bucket', help='S3 bucket name for Neptune Loader')
     parser.add_argument('--region', default='us-east-1', help='AWS region for Neptune Loader')
     args = parser.parse_args()

@@ -1,163 +1,148 @@
 # Graph-RAG for Evidence-Based Diabetes Care
 
-An interactive Graph-RAG system for precision diabetes care that combines ADA clinical practice guidelines and FDA drug label data into a queryable medical knowledge graph. The goal is to produce evidence-backed answers that are traceable to structured biomedical relationships rather than flat text retrieval alone.
+Graph-RAG clinical decision-support prototype integrating ADA guidelines and FDA labels for traceable diabetes reasoning.
 
-## Why This Project
+## Why It Matters
 
-Traditional diabetes care relies heavily on population-level guidance, while real clinical decisions depend on relationships across diagnoses, medications, lab values, contraindications, adverse effects, and treatment pathways. Standard RAG pipelines flatten that structure into text chunks and make it harder to inspect why a recommendation was produced.
+Conventional RAG pipelines often return plausible text without transparent evidence paths. This project emphasizes:
 
-This project addresses that gap by:
+- graph-structured evidence retrieval over flat text lookup
+- visible node and edge context for answer traceability
+- reviewer-friendly separation of runtime code, examples, docs, and assets
 
-- integrating guideline and drug-label knowledge into a unified graph
-- extracting clinical intents and entities from user queries
-- retrieving relevant subgraphs instead of only nearby text
-- generating answers with supporting graph context and provenance
+## Architecture Snapshot
 
-## Key Results
+1. React frontend collects a user question and renders answer plus graph context.
+2. Lambda chat handler extracts entities/intents and retrieves relevant subgraph context.
+3. Graph evidence is passed into the LLM prompt for evidence-grounded response generation.
+4. Graph processor Lambda supports ingestion paths into Neptune-backed storage.
 
-- Average accuracy above the MRCP Endocrinology and Diabetes passing threshold on a sample-question benchmark reported in the project poster and final report
-- Knowledge graph built from curated diabetes sources with 5,488 nodes and 39,929 edges
-- Interactive UI for question answering plus graph-based evidence tracing
-
-## System Overview
-
-The system is organized as a modular Graph-RAG pipeline:
-
-1. Data ingestion from ADA guideline PDFs and FDA or DailyMed drug-label data
-2. Intent detection and entity extraction over clinical text and user questions
-3. Knowledge-graph construction with typed nodes and semantically labeled edges
-4. Subgraph retrieval for context selection
-5. LLM-based response generation grounded in retrieved graph evidence
-6. Frontend visualization of answers, entities, and graph structure
-
-## Architecture
-
-This repository uses a monorepo layout, but the primary product is a diabetes Graph-RAG application rather than a generic AWS template.
-
-- `packages/frontend`: React interface for chat and graph visualization
-- `packages/infrastructure`: AWS CDK stacks for deployment and cloud resources
-- `packages/lambda`: Python backend logic for graph processing, local serving, and chat orchestration
-- `datasets`: diabetes guideline assets, annotation resources, and structured data
-- `docs`: project poster and final report
-
-At a high level, the deployed system combines:
-
-- React for the user-facing chat and graph UI
-- AWS CDK for infrastructure definition
-- Lambda and API Gateway for backend orchestration
-- Amazon Neptune for graph storage and retrieval
-- LLM-based intent extraction and answer generation
-
-## Repository Structure
+## Repository Map
 
 ```text
 .
 ├── datasets/
-│   ├── diabetes_care/              # ADA guideline PDFs
-│   ├── 0521_new_format/            # Structured chunk outputs
-│   ├── diatetic_structured_with_ids.json
-│   ├── Annotation_Guidelines_English.md
-│   └── README.md
 ├── docs/
+│   ├── architecture.md
+│   ├── setup.md
 │   ├── team178poster.pdf
 │   └── team178report.pdf
 ├── packages/
-│   ├── frontend/                   # React UI
-│   ├── infrastructure/             # AWS CDK stacks
+│   ├── frontend/
+│   │   ├── src/components/
+│   │   │   ├── Chat.js
+│   │   │   ├── GraphDisplay.js
+│   │   │   ├── Home.js
+│   │   │   ├── Navigation.js
+│   │   │   ├── SampleGraphDisplay.js
+│   │   │   └── Upload.js
+│   ├── infrastructure/
+│   │   └── src/stacks/
+│   │       ├── chat-api-stack.ts
+│   │       ├── frontend-stack.ts
+│   │       └── graph-processing-stack.ts
 │   └── lambda/
-│       └── src/                    # Python graph and chat logic
+│       ├── assets/
+│       ├── docs/
+│       ├── examples/
+│       ├── notebooks/
+│       └── src/
+│           ├── chat_handler.py
+│           ├── graph_processor_handler.py
+│           ├── local_http_server.py
+│           └── unified_graph_builder.py
 ├── package.json
 └── tsconfig.json
 ```
 
-## Data Assets
+## Quickstart
 
-The repository currently combines two main knowledge sources:
+### 1. Set environment files
 
-- ADA diabetes care guideline documents processed into structured chunk-level assets
-- diabetes-related drug-label information transformed into structured graph entities
+```bash
+cp .env.example .env
+cp packages/infrastructure/.env.example packages/infrastructure/.env
+cp packages/lambda/.env.example packages/lambda/.env
+cp packages/frontend/.env.example packages/frontend/.env
+```
 
-The resulting graph includes node types such as disease, treatment, medication, symptom, examination method, indication, contraindication, interaction, and warning.
+Required values:
 
-## Getting Started
+- `.env`: `AWS_ACCOUNT_ID`
+- `packages/lambda/.env`: `GEMINI_API_KEY`
 
-For a full reproducible setup flow, see `docs/setup.md`.
-
-### Prerequisites
-
-- Node.js 18+
-- npm
-- Python 3.9+
-- AWS credentials and service configuration if you plan to deploy cloud infrastructure
-
-### Install Dependencies
+### 2. Install dependencies
 
 ```bash
 npm install
-pip install -r packages/lambda/src/requirements.txt
+cd packages/lambda/src && pip install -r requirements.txt
 ```
 
-### Start the Frontend
+### 3. Run local Lambda API
 
 ```bash
-cd packages/frontend
-npm install
-npm start
+npm run lambda:test
 ```
 
-### Run the Local Backend Server
+This starts the local server with:
+
+- graph source: `packages/lambda/examples/unified_diabetes_graph.json`
+- health endpoint: `http://localhost:3001/health`
+
+### 4. Run frontend
 
 ```bash
-cd packages/lambda/src
-python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json
+npm run frontend:start
 ```
 
-### Build Infrastructure Code
+### 5. Build frontend
 
 ```bash
-cd packages/infrastructure
-npm install
-npm run build
+npm run frontend:build
 ```
 
-### Synthesize CDK
+### 6. Optional CDK deploy
 
 ```bash
-npm run synth
+npm run deploy
 ```
 
-Note: Deployment and environment-variable setup still need cleanup. This repository contains working project code, but some packaging and configuration surfaces remain prototype-level.
+## Local Development Flow
 
-### Quick Smoke Check
+1. Install workspace dependencies with `npm install`.
+2. Install Lambda Python dependencies from `packages/lambda/src/requirements.txt`.
+3. Configure `.env` files including `GEMINI_API_KEY`.
+4. Start local Lambda server using `npm run lambda:test`.
+5. Start frontend using `npm run frontend:start`.
+6. Verify backend health at `/health`.
 
-```bash
-npm run smoke
-```
+## Frontend Notes
 
-## Research Basis
+The React frontend includes:
 
-The current README is aligned with the materials in:
+- markdown-rendered answer output via `react-markdown`
+- routing-based UI via `react-router-dom`
+- graph visualization via Cytoscape (`cytoscape`, `cytoscape-panzoom`, `cytoscape-cose-bilkent`)
+- key components for upload, chat, navigation, and graph display
 
-- `docs/team178report.pdf`
-- `docs/team178poster.pdf`
+## Infrastructure Notes
 
-Those documents describe the project motivation, architecture, benchmark framing, and reported outcomes.
+CDK stack responsibilities:
 
-## Limitations
+- `frontend-stack.ts`: S3 and CloudFront hosting for frontend delivery
+- `graph-processing-stack.ts`: graph upload/processing path (S3 + Lambda + Neptune)
+- `chat-api-stack.ts`: API Gateway + Lambda chat endpoint
 
-- This is a research prototype, not a clinical decision-support tool for real-world prescribing
-- Some repository metadata and package naming still reflect earlier template scaffolding
-- Setup and deployment documentation are not yet fully standardized
-- Evaluation is still limited compared with the level of validation expected for production medical software
+## Prototype Note
 
-## Roadmap
+This repository is a research and portfolio prototype focused on evidence tracing and explainable reasoning. It is not intended for direct clinical deployment or autonomous medical diagnosis.
 
-- clean up remaining template-era naming and UI labels
-- align package metadata, README, and frontend branding
-- improve setup documentation and environment configuration
-- separate research artifacts from deployment-oriented code more cleanly
-- expand evaluation documentation and demo assets
+## Docs
 
-## Acknowledgments
+- setup guide: `docs/setup.md`
+- architecture summary: `docs/architecture.md`
+- lambda local testing: `packages/lambda/docs/local-testing.md`
 
-Team 178: Jad Mokdad, Mehul Goenka, Huu Khue Pham, Sriya Shabadu, Goyeun Yun
+## License
+
+Apache-2.0

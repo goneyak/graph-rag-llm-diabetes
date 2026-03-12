@@ -1,0 +1,10 @@
+{
+  "format": "csv",
+  "source": "s3://your-bucket/path/to/graph.csv",
+  "iamRoleArn": "arn:aws:iam::123456789012:role/NeptuneLoadFromS3",
+  "region": "eu-west-1",
+  "failOnError": true,
+  "parallelism": "HIGH",
+  "updateSingleCardinalityProperties": false,
+  "queueRequest": true
+}

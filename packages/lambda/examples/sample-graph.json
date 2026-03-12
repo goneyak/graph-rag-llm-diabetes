@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "id": "d1",
+      "label": "Disease",
+      "properties": {
+        "name": "Type 2 Diabetes"
+      }
+    },
+    {
+      "id": "m1",
+      "label": "Medication",
+      "properties": {
+        "name": "Metformin"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "source": "d1",
+      "target": "m1",
+      "label": "treated_by",
+      "properties": {}
+    }
+  ]
+}

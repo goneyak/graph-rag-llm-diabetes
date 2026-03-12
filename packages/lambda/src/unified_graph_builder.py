@@ -386,6 +386,8 @@ class UnifiedGraphBuilder:
 
 
 def main():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+
     # Paths to data
     chunks_dir = "datasets/chunks/diabetes_care"
     drug_file = "datasets/diatetic_structured_with_ids.json"
@@ -413,10 +415,10 @@ def main():
         print(f"- {edge_type}: {count}")
     
     # Save the graph to a file
-    builder.save_graph("unified_diabetes_graph.json")
+    builder.save_graph(os.path.normpath(os.path.join(base_dir, '..', 'examples', 'unified_diabetes_graph.json')))
     
     # Visualize the graph
-    builder.visualize_graph("unified_diabetes_graph.png")
+    builder.visualize_graph(os.path.normpath(os.path.join(base_dir, '..', 'assets', 'unified_diabetes_graph.png')))
 
 
 if __name__ == "__main__":

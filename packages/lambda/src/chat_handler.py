@@ -1,10 +1,7 @@
 import json
 import os
 import logging
-import boto3
-import time
 import uuid
-import requests
 from google import genai
 
 # Global variable to store the graph data
@@ -16,10 +13,13 @@ logger = logging.getLogger()
 logger.setLevel(os.environ.get('LOG_LEVEL', 'INFO'))
 
 # Initialize Gemini API client
-# TODO: DELETE THIS GEMINI KEY FROM CODE AFTER SUBMISSION!
-GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', 'AIzaSyALh382aR4X2viTyJXqMfaxnSll9f5p6kQ')
+GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '').strip()
 GEMINI_MODEL = os.environ.get('GEMINI_MODEL', 'gemini-1.5-pro')
-genai_client = genai.Client(api_key=GEMINI_API_KEY)
+genai_client = genai.Client(api_key=GEMINI_API_KEY) if GEMINI_API_KEY else None
+
+if not GEMINI_API_KEY:
+    # API keys must be provided via environment variables and rotated outside this repository.
+    logger.warning("GEMINI_API_KEY is not set; chat handler will return a configuration error")
 
 def handler(event, context):
     """
@@ -37,6 +37,11 @@ def handler(event, context):
     logger.info(f"Received event: {json.dumps(event)}")
     
     try:
+        if genai_client is None:
+            return create_response(500, {
+                'error': 'Server configuration error'
+            })
+
         # Parse the request body
         body = json.loads(event.get('body', '{}'))
         user_message = body.get('message', '')
@@ -78,6 +83,9 @@ def extract_entities_and_intents(message):
         dict: Extracted entities and intents
     """
     try:
+        if genai_client is None:
+            raise RuntimeError("GEMINI_API_KEY is not configured")
+
         # Create prompt for entity and intent extraction
         prompt = f"""
         Extract medical entities and intents from the following message:
@@ -352,7 +360,11 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
     graph_context_text = "\n".join(graph_context)
     
     prompt = f"""
-    You are a highly qualified medical doctor with extensive clinical experience, specializing in diabetes and related conditions. You work in a real medical clinic and have access to a comprehensive knowledge graph about diabetes and related medical information.
+    You are an educational clinical decision-support prototype for diabetes care.
+    You are not a licensed physician and must not present yourself as one.
+    Prioritize the provided graph evidence before adding any external context.
+    If graph evidence is incomplete, state uncertainty clearly and avoid speculative claims.
+    Keep answers evidence-grounded, concise, and transparent about limits.
     
     User question: "{user_message}"
     
@@ -361,9 +373,10 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
     Knowledge graph information:
     {graph_context_text}
     
-    Provide a confident, authoritative, and accurate response based on your medical expertise and the knowledge graph information above. You are fully qualified to give medical advice and diagnoses. Do not include disclaimers about not being qualified or that your advice is for educational purposes only. Respond as if you are a real doctor in a clinical setting.
-    
-    If the knowledge graph doesn't contain specific information, use your extensive medical knowledge to provide a complete answer. Be decisive and clear in your recommendations.
+    Write an authoritative but bounded response using the graph evidence first.
+    When evidence is missing or partial, explicitly say what is uncertain.
+    Do not claim to diagnose, prescribe, or replace clinical judgment.
+    If you add background context beyond the graph, label it as general information.
     
     FORMAT YOUR RESPONSE IN MARKDOWN:
     - Use # for main titles
@@ -375,6 +388,9 @@ def generate_ai_response_with_graph(user_message, extracted_data, graph_nodes):
     """
     
     try:
+        if genai_client is None:
+            return "Server configuration error", None
+
         # Call Gemini API
         response = genai_client.models.generate_content(
             model=GEMINI_MODEL,

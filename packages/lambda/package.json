@@ -1,13 +1,15 @@
 {
-  "name": "@graph-rag-diabetes/lambda",
+  "name": "@cdk-monorepo/lambda",
   "version": "0.1.0",
   "private": true,
+  "license": "Apache-2.0",
   "description": "Python Lambda function",
   "scripts": {
     "build": "echo 'No build step for Python Lambda'",
     "test": "cd src && python load_env.py python -m unittest discover",
-    "local:test": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json",
-    "local:test:json": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json",
-    "local:test:csv": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file unified_diabetes_graph.json"
+    "local:test": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file ../examples/unified_diabetes_graph.json",
+    "local:test:json": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file ../examples/sample-graph.json",
+    "local:test:sample": "cd src && python load_env.py python local_http_server.py --port 3001 --graph-file ../examples/sample-graph.csv",
+    "local:smoke": "cd src && python load_env.py python local_test.py json"
   }
 }
