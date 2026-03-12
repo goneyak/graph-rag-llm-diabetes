@@ -65,4 +65,6 @@ npm run deploy:chatapi
 npm run smoke
 npm run lambda:test
 cd packages/lambda && npm run local:test:json
+cd packages/lambda && npm run local:test:sample
+cd packages/lambda && npm run local:smoke
 ```

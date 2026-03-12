@@ -1,7 +1,0 @@
-{
-  "format": "csv",
-  "version": "1.0",
-  "files": [
-    "neptune_gremlin_queries.txt"
-  ]
-}

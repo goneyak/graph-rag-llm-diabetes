@@ -259,8 +259,14 @@ def load_graph_data(file_path):
     """
     logger.info(f"Loading graph data from {file_path}")
     try:
-        with open(file_path, 'r') as f:
-            data = json.load(f)
+        if file_path.lower().endswith('.csv'):
+            with open(file_path, 'r') as f:
+                file_content = f.read()
+            nodes, edges = graph_processor_handler.parse_csv_graph(file_content)
+            data = {'nodes': nodes, 'edges': edges}
+        else:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
         
         num_nodes = len(data.get('nodes', []))
         num_edges = len(data.get('edges', []))
